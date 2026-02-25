@@ -1,0 +1,3 @@
+1. Cobro de membresía no solicitada por el usuario.
+2. Hechos no revelados explícitamente.
+3. Desistimiento de la pretensión y del procedimiento.

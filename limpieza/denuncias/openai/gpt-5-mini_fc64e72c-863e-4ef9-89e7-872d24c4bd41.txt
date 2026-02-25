@@ -1,0 +1,4 @@
+Falta de medidas de seguridad que permitieron operaciones no reconocidas
+Atribución indebida de operaciones no reconocidas a la consumidora
+Cargo de operación no reconocida con glosa comercial
+Denuncia de operación adicional no reconocida

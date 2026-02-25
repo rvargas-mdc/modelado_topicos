@@ -1,0 +1,4 @@
+1. Cargos no reconocidos en cuenta de ahorros del usuario.
+2. Usuario atendió requerimiento de información.
+3. Banco se allanó a la imputación.
+4. Banco devolvió montos no reconocidos y costas.

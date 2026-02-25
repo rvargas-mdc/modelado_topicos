@@ -1,0 +1,4 @@
+Debitaron indebidamente operaciones no autorizadas.
+No aplicaron medidas de seguridad necesarias.
+Operaciones no corresponden a comportamiento habitual.
+Atendieron inadecuadamente reclamos.

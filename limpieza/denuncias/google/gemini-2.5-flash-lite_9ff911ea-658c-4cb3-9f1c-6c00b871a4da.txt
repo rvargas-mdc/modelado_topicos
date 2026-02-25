@@ -1,0 +1,4 @@
+Atribución indebida de préstamo no solicitado.
+Transferencia no reconocida por el usuario.
+Imposibilidad de anular crédito por disposición de fondos.
+Solicitud de disminuir capital e intereses.

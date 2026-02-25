@@ -1,0 +1,10 @@
+Operaciones no reconocidas con cargo a tarjeta de débito
+Falta de medidas de seguridad por parte del banco
+Banco no ejecutó el seguro de protección contratado
+Banco no reportó el siniestro a la aseguradora
+Banco se negó injustificadamente a otorgar cobertura
+Compañía aseguradora no otorgó cobertura del seguro
+Aseguradora se negó injustificadamente a otorgar la cobertura
+Banco no entregó copia de documentos contractuales del seguro
+Aseguradora no entregó copia de documentos contractuales del seguro
+Banco no devolvió el importe de operaciones no reconocidas

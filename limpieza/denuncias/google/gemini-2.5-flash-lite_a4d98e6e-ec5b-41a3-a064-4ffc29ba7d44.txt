@@ -1,0 +1,6 @@
+Amortización no solicitada ni autorizada por el usuario.
+No se entregó nuevo cronograma de pagos.
+Se negó a revertir el pago injustificadamente.
+No se informó sobre el procesamiento del pago.
+No se informó diferencia entre pago anticipado y adelantado.
+No se informó sobre la imposibilidad de reversión.

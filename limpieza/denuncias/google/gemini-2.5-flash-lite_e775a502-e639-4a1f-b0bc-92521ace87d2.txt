@@ -1,0 +1,4 @@
+No atender solicitud de gestión.
+No acreditar abono de pensiones.
+No acreditar transferencia de fondos.
+No acreditar devolución de fondos.

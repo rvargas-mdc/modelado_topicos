@@ -1,0 +1,6 @@
+Recibió llamadas de cobranza por préstamo no solicitado.
+Niega haber contratado o utilizado dicho préstamo.
+Niega haber realizado pagos del préstamo.
+Se vio obligado a pagar para evitar afectación crediticia.
+Se alega método abusivo de cobranza.
+Se alega no mostrar firma del préstamo y desembolso.

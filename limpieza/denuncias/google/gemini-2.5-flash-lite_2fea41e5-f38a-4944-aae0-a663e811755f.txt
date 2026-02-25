@@ -1,0 +1,3 @@
+Banco no gestionó levantamiento de garantía hipotecaria.
+Solicitud de levantamiento de hipoteca no atendida.
+Garantía hipotecaria no levantada a pesar de solicitud.

@@ -1,0 +1,4 @@
+Operaciones no reconocidas en cuenta de ahorros.
+Banco no adoptó medidas de seguridad pertinentes.
+Banco no retuvo importes de operaciones no reconocidas.
+Banco no brindó historial de transacciones de cuenta destino.

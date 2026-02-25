@@ -1,0 +1,6 @@
+Llamadas telefónicas del banco ofreciendo cambio de tarjeta.
+Uso no autorizado de la tarjeta con cargos no reconocidos.
+Banco no adoptó medidas de seguridad sobre la tarjeta.
+Banco tardó en bloquear o evitar la operación cuestionada.
+Banco no investigó ni anuló los cargos reclamados.
+Atención al reclamo brindada por el banco fue inadecuada.

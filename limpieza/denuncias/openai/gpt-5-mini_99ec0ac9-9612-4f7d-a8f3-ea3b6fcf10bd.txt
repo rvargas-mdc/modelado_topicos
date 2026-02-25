@@ -1,0 +1,10 @@
+Dinero depositado en cuenta en moneda equivocada por banco.
+Aplicación de tipo de cambio desfavorable al convertir moneda.
+Demora o negativa del banco en realizar extorno solicitado.
+Transferencia interbancaria no reconocida desde cuenta del cliente.
+Falta de medidas de seguridad en transferencia interbancaria.
+Modificación no autorizada del correo electrónico registrado.
+Retiro de fondos desconocido y solicitud de rescate no autorizada.
+Bloqueo del acceso a banca móvil sin autorización del cliente.
+Llamadas fraudulentas suplantando entidad e inducción a reembolso.
+Divulgación o acceso indebido a información sensible del cliente.

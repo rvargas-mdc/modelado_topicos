@@ -1,0 +1,2 @@
+No implementó seguridad; transferencia desde cuenta en soles sin autorización.
+No implementó seguridad; transferencia desde cuenta en dólares sin autorización.

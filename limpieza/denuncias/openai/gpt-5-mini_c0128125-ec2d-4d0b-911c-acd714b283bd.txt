@@ -1,0 +1,3 @@
+Cargos no reconocidos por consumos recurrentes en la cuenta.
+Operaciones realizadas vía comercio electrónico sin autorización del titular.
+Notificación de falta de saldo para pago a proveedor.

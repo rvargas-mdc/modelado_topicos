@@ -1,0 +1,3 @@
+Bloqueo de cuentas por periodo mayor al permitido.
+Falta de información al usuario sobre bloqueo de cuentas.
+Información falsa sobre notificación de bloqueo de cuentas.

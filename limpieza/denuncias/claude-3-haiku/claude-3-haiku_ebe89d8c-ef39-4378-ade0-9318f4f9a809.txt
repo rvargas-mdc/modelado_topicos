@@ -1,0 +1,4 @@
+1. Cobro de tarjeta de crédito no solicitada por el usuario.
+2. Operaciones bancarias no autorizadas por el usuario.
+3. Demora en atención de reclamo del usuario.
+4. Cobro de membresía no solicitada por el usuario.

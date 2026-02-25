@@ -1,0 +1,7 @@
+yjinr-97654-18547--------------------Débito indebido de transferencias no autorizadas.
+Procesamiento de operaciones pese a alerta de seguridad.
+Operaciones desde dispositivo no perteneciente al titular.
+Falta de verificación del titular de cuenta destino.
+Ausencia de llamada previa a aprobación de transferencias.
+No envío de clave digital para confirmar transacciones.
+Atención inadecuada de reclamo sin motivación ni pruebas.====================

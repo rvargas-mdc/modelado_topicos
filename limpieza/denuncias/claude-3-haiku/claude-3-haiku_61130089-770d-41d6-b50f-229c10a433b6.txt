@@ -1,0 +1,5 @@
+1. Cobro de importe no dispensado por cajero automático.
+2. Débito de cuenta por importe no entregado por cajero automático.
+3. Banco alega falta de pruebas del denunciante y presunción de licitud.
+4. Banco presenta medios probatorios sobre correcto funcionamiento del cajero.
+5. Denunciante manifiesta que ya no corresponde audiencia de conciliación.

@@ -1,0 +1,4 @@
+- Scotiabank no adoptó medidas de seguridad.
+- Permitió transferencia no reconocida.
+- Cliente no reconoce operación ni autoriza.
+- Cliente solicita devolución de dinero.

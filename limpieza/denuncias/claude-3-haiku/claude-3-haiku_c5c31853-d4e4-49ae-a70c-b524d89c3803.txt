@@ -1,0 +1,2 @@
+1. No cumplimiento de medidas de seguridad en operaciones.
+2. Realización de operación no reconocida por el usuario.

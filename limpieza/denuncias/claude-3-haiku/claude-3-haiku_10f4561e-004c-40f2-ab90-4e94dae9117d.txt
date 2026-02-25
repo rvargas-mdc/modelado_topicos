@@ -1,0 +1,6 @@
+Hechos denunciados:
+
+Débito indebido de operaciones en cuentas de ahorros de la denunciante.
+Operaciones autorizadas sin envío de claves digitales a teléfono o correo.
+Operaciones realizadas desde dispositivo móvil que no le pertenece.
+Operaciones efectuadas de manera consecutiva en días siguientes.

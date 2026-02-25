@@ -1,0 +1,2 @@
+Cargó indebidamente una operación en tarjeta de crédito.
+El usuario no reconoce haber autorizado la operación.

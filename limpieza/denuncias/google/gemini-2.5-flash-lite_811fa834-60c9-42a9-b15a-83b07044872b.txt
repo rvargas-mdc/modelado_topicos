@@ -1,0 +1,4 @@
+Debito indebido de operaciones no autorizadas.
+Banco no alertó operaciones inusuales.
+Banco no realizó autenticación reforzada.
+Ruptura del nexo causal por incumplimiento del deber de cuidado.

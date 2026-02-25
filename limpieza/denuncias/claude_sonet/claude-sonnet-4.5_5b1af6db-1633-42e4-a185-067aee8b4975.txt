@@ -1,0 +1,3 @@
+Operación no reconocida con tarjeta de crédito.
+Falta de medidas de seguridad en monitoreo.
+Afiliación no autorizada a billetera digital Apple Pay.

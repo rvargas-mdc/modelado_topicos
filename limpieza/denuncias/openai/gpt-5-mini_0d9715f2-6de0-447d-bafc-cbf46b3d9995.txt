@@ -1,0 +1,6 @@
+No adoptar medidas de monitoreo y alerta de seguridad.
+Permitir operación no reconocida por el titular en cuenta.
+Negativa del banco a verificar cámaras de seguridad.
+Incumplimiento en remisión del contrato solicitado por el denunciante.
+Captura mostraba uso solo en fecha de apertura, sin posteriores.
+Ausencia de comprobante que acredite quién recibió el dinero.

@@ -1,0 +1,6 @@
+Cargó indebidamente operaciones en tarjeta de crédito no autorizadas.
+Cliente fue víctima de fraude por entregar tarjeta a tercero.
+Banco no alertó sobre operaciones al momento de realización.
+Operaciones no corresponden al comportamiento habitual de consumo.
+Transacciones realizadas por terceras personas desconocidas para la clienta.
+Generó cobro de intereses en estado de cuenta.

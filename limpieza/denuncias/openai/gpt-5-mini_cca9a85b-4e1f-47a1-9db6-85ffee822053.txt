@@ -1,0 +1,3 @@
+Retiros en cajero automático no reconocidos cargados a cuenta.
+Operaciones no corresponden al comportamiento habitual del titular.
+Banco no adoptó medidas de seguridad para evitar dichos retiros.

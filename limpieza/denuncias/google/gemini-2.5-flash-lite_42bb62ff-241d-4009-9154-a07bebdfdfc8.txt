@@ -1,0 +1,2 @@
+Operaciones no reconocidas debitadas de cuenta.
+Falta de medidas de seguridad en operaciones.

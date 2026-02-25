@@ -1,0 +1,6 @@
+Robo armado con sustracción de teléfono y billetera con tarjetas
+Imposibilidad de bloquear tarjetas de inmediato por falta de teléfono
+Operaciones no reconocidas vía Banca Móvil tras obtener clave internet
+Solicitud de reconocimiento de montos por operaciones no reconocidas rechazada
+Falta de medidas de seguridad del banco ante operaciones digitales
+Reclamación de indemnización por daños y perjuicios solicitada

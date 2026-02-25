@@ -1,0 +1,2 @@
+1. Cobro de disposiciones de efectivo no reconocidas por el usuario.
+2. Respuesta inadecuada a reclamo del usuario, adjuntando detalles de otros montos no solicitados.

@@ -1,0 +1,3 @@
+Débito indebido de dos operaciones no autorizadas en cuenta.
+Falta de verificación de identidad del titular.
+Retiro efectuado por persona desconocida sin autorización.

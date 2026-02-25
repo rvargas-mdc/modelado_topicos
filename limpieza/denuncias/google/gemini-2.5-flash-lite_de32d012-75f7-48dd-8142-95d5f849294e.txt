@@ -1,0 +1,4 @@
+Retiro de dinero no reconocido por el usuario.
+El banco alega uso de clave secreta.
+El usuario no notificó bloqueo de tarjeta.
+Operación realizada con tarjeta y clave.

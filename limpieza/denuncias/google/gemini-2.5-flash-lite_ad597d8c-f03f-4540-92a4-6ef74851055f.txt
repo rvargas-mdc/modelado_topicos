@@ -1,0 +1,4 @@
+Realización de consumos no reconocidos en tarjeta de crédito.
+Falta de medidas de seguridad en transacciones.
+Anulación de deuda e intereses solicitada.
+Debate sobre autenticación reforzada y patrones de consumo.

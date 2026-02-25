@@ -1,0 +1,2 @@
+1. Autorización indebida de operación en tarjeta de crédito no reconocida por el titular.
+2. Banco alega que: (i) operación realizada presencialmente con firma y lectura de chip, (ii) verificación de firma corresponde al establecimiento, (iii) tarjeta estaba activa al momento de la operación, (iv) cumplió con medidas de seguridad.

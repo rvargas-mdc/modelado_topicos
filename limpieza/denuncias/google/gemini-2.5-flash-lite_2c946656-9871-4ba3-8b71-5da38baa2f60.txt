@@ -1,0 +1,10 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no reconocidas ni autorizadas por el usuario.
+No verificación de identidad del titular.
+No alerta de operaciones al usuario.
+Operaciones inusuales en países distintos.
+Generación de intereses y cobros por mora.
+No habilitación de tarjeta para consumos en Europa.
+Procesamiento de compras por internet sin anomalías.
+Autenticación de operaciones mediante clave dinámica.
+Notificación de operaciones al número celular registrado.

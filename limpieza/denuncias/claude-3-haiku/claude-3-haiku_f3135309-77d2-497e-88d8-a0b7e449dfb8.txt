@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de operaciones no reconocidas por el usuario.
+Cobro indebido de comisiones por uso de otros cajeros.
+Falta de información al usuario sobre cobro de comisiones por uso de otros cajeros.

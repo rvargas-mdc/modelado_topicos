@@ -1,0 +1,1 @@
+Operaciones no reconocidas con cargo a tarjeta de débito.

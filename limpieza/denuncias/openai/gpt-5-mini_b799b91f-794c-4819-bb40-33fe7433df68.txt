@@ -1,0 +1,3 @@
+Cargo indebido en tarjeta de crédito por operación no reconocida
+No se solicitó clave token para confirmar la operación
+No se comunicó la operación sospechosa por teléfono ni correo

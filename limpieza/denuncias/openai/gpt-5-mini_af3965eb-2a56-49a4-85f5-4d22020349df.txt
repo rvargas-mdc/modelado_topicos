@@ -1,0 +1,2 @@
+Compensación de cuenta de fiadora para pagar cuotas de préstamos.
+Fiadora solo consintió garantía de préstamo inicial; desconoce préstamos posteriores.

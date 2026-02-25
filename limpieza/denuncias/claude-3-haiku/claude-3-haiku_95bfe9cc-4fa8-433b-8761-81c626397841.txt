@@ -1,0 +1,8 @@
+1. Cobro de consumos fraudulentos no reconocidos en tarjeta de crédito.
+2. Falta de alerta sobre operaciones fraudulentas.
+3. Solicitud de devolución de montos cobrados fraudulentamente y pago de costas y costos.
+4. Admisión de denuncia por presunta infracción al artículo 19 del Código de Protección y Defensa del Consumidor.
+5. Allanamiento del denunciado y solicitud de audiencia de conciliación.
+6. Convocatoria a audiencia de conciliación.
+7. Acuerdo conciliatorio entre las partes.
+8. Emisión de Informe Final de Instrucción.

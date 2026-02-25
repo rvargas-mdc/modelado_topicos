@@ -1,0 +1,3 @@
+1. Cobro de cargos en tarjeta de crédito no reconocidos por la usuaria.
+2. Falta de verificación por el banco del extorno realizado por el vendedor.
+3. Negativa del banco a realizar diligencias para verificar el extorno.

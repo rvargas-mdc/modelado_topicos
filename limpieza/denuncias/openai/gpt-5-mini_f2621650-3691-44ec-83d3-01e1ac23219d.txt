@@ -1,0 +1,3 @@
+Varios cargos en tarjeta de crédito no autorizados por titular.
+Banco no verificó identidad, firma ni documento del titular.
+No pudo obtener datos del establecimiento donde ocurrieron operaciones.

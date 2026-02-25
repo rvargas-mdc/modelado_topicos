@@ -1,0 +1,3 @@
+Cargó indebidamente una operación en tarjeta de crédito.
+Operación realizada sin verificación de identidad.
+Tarjeta de crédito bloqueada y robada.

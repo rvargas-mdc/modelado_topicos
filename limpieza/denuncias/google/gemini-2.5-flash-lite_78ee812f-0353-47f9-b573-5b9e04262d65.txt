@@ -1,0 +1,6 @@
+Debito indebido de operaciones no reconocidas.
+Operaciones realizadas tras llamada telefónica.
+Disposición total de fondos de cuenta.
+Giros cobrados en agencia distinta a la del usuario.
+Falta de medidas de seguridad para verificar identidad.
+Suplantación de identidad en cobro de giros.

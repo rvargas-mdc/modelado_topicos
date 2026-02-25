@@ -1,0 +1,6 @@
+No se brindaron medidas de seguridad idóneas.
+Permitieron operaciones no reconocidas en cuenta.
+Atribuyeron contratación de cuenta y tarjeta sin autorización.
+Realizaron operaciones no autorizadas en instrumento financiero.
+Atribuyeron contratación de cuenta sin autorización.
+Realizaron operación no autorizada en cuenta.

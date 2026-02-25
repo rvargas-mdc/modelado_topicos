@@ -1,0 +1,5 @@
+Cobro de dólar con tipo de cambio no informado.
+Devolución de monto incompleto.
+No atención de reclamos.
+Aplicación de tipo de cambio distinto al del consumo.
+Falta de información sobre tipo de cambio aplicado.

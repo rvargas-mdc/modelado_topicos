@@ -1,0 +1,4 @@
+Cargo indebido en tarjeta de crédito no autorizado.
+No verificación de identidad en la operación.
+Falta de seguimiento y monitoreo de operaciones.
+No solicitaron DNI para realizar la operación.

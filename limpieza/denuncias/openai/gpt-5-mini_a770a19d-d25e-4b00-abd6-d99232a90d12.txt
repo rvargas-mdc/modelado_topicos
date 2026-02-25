@@ -1,0 +1,3 @@
+Transferencia no reconocida desde cuenta de ahorros a tercero.
+Reincidencia en permitir transferencias no autorizadas por el banco.
+Alta vulnerabilidad de los sistemas del banco.

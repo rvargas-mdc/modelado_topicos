@@ -1,0 +1,4 @@
+Solicitud de reembolso por costos y costas del procedimiento.
+No reembolso de costos del procedimiento por parte del banco.
+No reembolso de costas del procedimiento por parte del banco.
+No reembolso de tasa administrativa pagada por derecho de presentación.

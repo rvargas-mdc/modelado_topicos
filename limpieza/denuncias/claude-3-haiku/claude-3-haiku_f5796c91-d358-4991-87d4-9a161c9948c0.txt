@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de consumos no reconocidos por el usuario en la tarjeta de crédito.
+Falta de envío de estados de cuenta de la tarjeta de crédito al usuario.
+Reporte negativo del usuario ante centrales de riesgo por consumos no reconocidos.

@@ -1,0 +1,8 @@
+Operaciones no reconocidas en tarjeta de crédito.
+Demora injustificada en atención de reclamos.
+Devolución incompleta de montos no reconocidos.
+Aplicación indebida de devolución de montos.
+Incumplimiento de ofrecimiento de aplazamiento de cuotas.
+Incremento indebido de deuda en cuotas.
+Refinanciamiento unilateral de deuda sin aceptación.
+No atención de solicitud de reprogramación de deuda.

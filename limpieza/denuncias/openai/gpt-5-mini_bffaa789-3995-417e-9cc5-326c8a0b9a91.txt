@@ -1,0 +1,3 @@
+M-CPC-06-01--------------------Operaciones en tarjeta no reconocidas por el titular.
+M-CPC-06-01--------------------Banco habría incumplido medidas de seguridad en tarjetas.
+M-CPC-06-01--------------------Registro de morosidad y reporte crediticio por deuda cuestionada.

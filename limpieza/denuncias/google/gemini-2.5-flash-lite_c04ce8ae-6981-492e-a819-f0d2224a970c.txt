@@ -1,0 +1,9 @@
+Operaciones no concretadas en aplicativo.
+Reducción de saldo disponible.
+Operación no reconocida en tarjeta de crédito.
+Respuesta insatisfactoria a reclamo.
+Respuesta ambigua e ineficiente a reclamo.
+Cobro indebido de intereses moratorios.
+Aplicación de alta tasa de interés.
+Cobro de millas por deuda inexistente.
+Falta de entrega de estados de cuenta.

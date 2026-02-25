@@ -1,0 +1,5 @@
+Hechos denunciados:
+
+Cobro de membresía no solicitada por el usuario.
+Banco brindó información no veraz sobre saldos de cuentas.
+Banco brindó información no veraz sobre nuevos ingresos a cuentas.

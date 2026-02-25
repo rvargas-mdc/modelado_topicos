@@ -1,0 +1,3 @@
+No reconocimiento de carta de no adeudo.
+Llamadas de cobranza fuera de horario permitido.
+Cobranza de deuda no reconocida por el usuario.

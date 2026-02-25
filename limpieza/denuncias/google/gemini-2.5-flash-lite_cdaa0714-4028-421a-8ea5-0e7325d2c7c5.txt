@@ -1,0 +1,4 @@
+Operaciones no reconocidas en tarjeta de crédito.
+Tarjeta de crédito adicional no solicitada.
+Respuesta inadecuada a reclamos y apelación.
+No respuesta a carta notarial.

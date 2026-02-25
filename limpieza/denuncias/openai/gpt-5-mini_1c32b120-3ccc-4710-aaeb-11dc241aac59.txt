@@ -1,0 +1,4 @@
+Falta de medidas de seguridad; cargos no autorizados en tarjeta.
+Error en la moneda indicada en la medida correctiva.
+No se ordenó pago de intereses y gastos generados.
+No ordenaron retirar reporte ni emitir carta de no adeudo.

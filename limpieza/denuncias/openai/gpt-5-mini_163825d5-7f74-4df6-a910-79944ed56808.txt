@@ -1,0 +1,2 @@
+Falta de medidas de seguridad en monitoreo de operaciones.
+Realización de operación con tarjeta no reconocida por titular.

@@ -1,0 +1,3 @@
+- Operación no reconocida en cuenta de ahorros.
+- Información no veraz sobre transacción inusual.
+- Inducción a confusión sobre datos de transferencia.

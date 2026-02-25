@@ -1,0 +1,3 @@
+Cargó indebidamente una operación en tarjeta de crédito.
+No brindó respuesta idónea a reclamos.
+No atendió solicitud de constancias de operaciones.

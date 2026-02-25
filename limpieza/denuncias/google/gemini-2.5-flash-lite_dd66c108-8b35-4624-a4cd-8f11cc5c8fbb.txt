@@ -1,0 +1,10 @@
+Cargo indebido en tarjeta de crédito.
+Operación no reconocida por el usuario.
+Falta de verificación de identidad del titular.
+Ausencia de alertas de fraude preventivas.
+Notificaciones tardías de operaciones sospechosas.
+Inconsistencia en la confirmación de extorno.
+Allanamiento parcial del proveedor.
+Operación atípica no justificada.
+Falta de medidas de seguridad adecuadas.
+Fraude en transacción de tarjeta de crédito.

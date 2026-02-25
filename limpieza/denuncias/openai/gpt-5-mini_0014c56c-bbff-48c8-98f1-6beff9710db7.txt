@@ -1,0 +1,4 @@
+Falta de medidas de seguridad para evitar transacciones no reconocidas
+Transacciones con cargo a cuenta no reconocidas por el titular
+Cargos no reconocidos en tarjeta de débito
+No se restringió monto máximo durante la madrugada

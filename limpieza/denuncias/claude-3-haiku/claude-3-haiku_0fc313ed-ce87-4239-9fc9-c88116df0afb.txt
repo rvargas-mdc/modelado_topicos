@@ -1,0 +1,5 @@
+1. Cobro de crédito no solicitado por la usuaria.
+2. Transferencia de dinero de la cuenta de la usuaria a un tercero que no reconoce.
+3. Abono de supuesto crédito Yape no reconocido por la usuaria y posterior transferencia a un tercero.
+4. Falta de notificación a la usuaria sobre las operaciones realizadas en su cuenta.
+5. Improcedencia del reclamo presentado por la usuaria ante el banco.

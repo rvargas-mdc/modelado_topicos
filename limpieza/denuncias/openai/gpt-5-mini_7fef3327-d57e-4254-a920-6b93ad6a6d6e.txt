@@ -1,0 +1,6 @@
+Autorización indebida de operaciones con tarjeta adicional.
+Tarjeta robada utilizada para realizar cargos no reconocidos.
+Operaciones procesadas pese a haber realizado bloqueo de tarjeta.
+No verificaron identidad del tarjetahabiente ni firma ni DNI.
+No bloquearon oportunamente la tarjeta ante operaciones irregulares.
+Cargos realizados en establecimiento ajeno a la denunciante.

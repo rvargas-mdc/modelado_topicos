@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Débito indebido de operaciones en cuenta de ahorros sin cumplir mecanismos de autenticación reforzada.
+Realización de operaciones mediante aplicativo Apple Pay que el usuario nunca utilizó.
+Víctima de robo cibernético por deficiencia en la seguridad del Banco.

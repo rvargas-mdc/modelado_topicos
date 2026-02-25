@@ -1,0 +1,4 @@
+Cargos no autorizados en tarjeta de crédito tras robo.
+Falta de verificación de identidad en operaciones con tarjeta.
+No activó medidas de seguridad ni bloqueo preventivo.
+Permitió que terceros realicen operaciones perjudiciales.

@@ -1,0 +1,2 @@
+Consumos no reconocidos en tarjeta de crédito por internet.
+No remisión de estados de cuenta ni notificación de operaciones.

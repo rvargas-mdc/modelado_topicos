@@ -1,0 +1,4 @@
+1. Cobro de membresía no solicitada por el usuario.
+2. Incumplimiento de medida correctiva por parte del Banco.
+3. Pago de medida correctiva ordenada.
+4. Presentación de escrito vía mesa de partes virtual.

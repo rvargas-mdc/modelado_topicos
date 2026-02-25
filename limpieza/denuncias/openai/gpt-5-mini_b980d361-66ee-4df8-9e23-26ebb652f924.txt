@@ -1,0 +1,2 @@
+Permitir operación no reconocida con cargo a cuenta de ahorros.
+No responder reclamo presentado por el consumidor.

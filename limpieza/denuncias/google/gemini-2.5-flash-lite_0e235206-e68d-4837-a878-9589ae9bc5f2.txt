@@ -1,0 +1,6 @@
+El Banco no adoptó medidas de seguridad.
+Operación no reconocida en tarjeta de crédito.
+No brindó información veraz sobre activación.
+Consumo fraudulento sin activación de tarjeta.
+Tottus permitió operación sin verificación.
+Verificación de identidad y firma omitida.

@@ -1,0 +1,4 @@
+Transferencia bancaria no reconocida por el usuario.
+El banco no adoptó medidas de seguridad.
+El usuario habría sido víctima de phishing.
+El banco alega responsabilidad del usuario.

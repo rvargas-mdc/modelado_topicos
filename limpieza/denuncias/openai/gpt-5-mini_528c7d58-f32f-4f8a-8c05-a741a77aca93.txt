@@ -1,0 +1,3 @@
+Exigencia de pago de deuda condonada para desembolso de crédito.
+Cobro duplicado de deuda ya pagada y condonada.
+Requerimiento de pago a persona natural por deuda inexistente.

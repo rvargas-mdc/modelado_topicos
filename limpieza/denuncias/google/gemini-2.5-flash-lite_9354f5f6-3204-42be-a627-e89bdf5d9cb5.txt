@@ -1,0 +1,4 @@
+Cargos de cuotas de préstamo cancelado.
+Reporte negativo ante central de riesgo.
+Incumplimiento de entrega de adenda contractual.
+No consideración de periodo de gracia y tasa en adenda.

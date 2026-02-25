@@ -1,0 +1,2 @@
+Operación no reconocida cargada a tarjeta mediante billetera digital.
+Cobros no reconocidos en otras operaciones admitidos por el banco.

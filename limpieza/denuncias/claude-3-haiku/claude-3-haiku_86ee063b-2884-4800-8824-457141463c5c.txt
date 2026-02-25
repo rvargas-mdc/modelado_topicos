@@ -1,0 +1,3 @@
+Cobro de membresía no solicitada por el usuario.
+Restricciones de cuenta de ahorros no informadas al usuario.
+Denegación arbitraria de reclamos del usuario.

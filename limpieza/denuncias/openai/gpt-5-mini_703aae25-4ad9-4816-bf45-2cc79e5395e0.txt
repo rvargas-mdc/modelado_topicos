@@ -1,0 +1,4 @@
+Atribución indebida de contratación de préstamo personal al cliente.
+Permitir operaciones no reconocidas por fallas en medidas de seguridad.
+Fallas de seguridad que permitieron operaciones no reconocidas en ahorros.
+Atención inadecuada de reclamos sobre operaciones no reconocidas y préstamo.

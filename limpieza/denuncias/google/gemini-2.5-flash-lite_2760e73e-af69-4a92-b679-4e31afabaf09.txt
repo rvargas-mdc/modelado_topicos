@@ -1,0 +1,2 @@
+El Banco cargó indebidamente una operación en tarjeta de crédito.
+Boxera.pe autorizó consumo sin verificar identidad.

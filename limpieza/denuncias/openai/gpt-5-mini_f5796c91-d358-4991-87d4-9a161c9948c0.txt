@@ -1,0 +1,4 @@
+Variación unilateral de la compañía aseguradora del seguro de tarjeta
+Permitir consumos no reconocidos por falta de monitoreo y alerta
+No envío de los estados de cuenta de la tarjeta
+Reporte negativo ante centrales de riesgo por consumos no reconocidos

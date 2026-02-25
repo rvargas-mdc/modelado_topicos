@@ -1,0 +1,18 @@
+Cargó indebidamente una operación en soles en tarjeta de crédito.
+Realizó conversión a tipo de cambio superior al del mercado.
+No remitió contrato de tarjeta de crédito bimoneda.
+No mostró contrato para leer o firmar.
+No se advierte firma biométrica en contrato.
+No se tuvo acceso al contrato ni a sus cláusulas.
+No se brindó información oportuna, suficiente, veraz y accesible.
+No cumplió deber de idoneidad en tarjeta ofrecida.
+No se analizó incumplimiento de brindar acceso al contrato.
+No se consideró contrato editado como medio probatorio.
+No se realizó audiencia de conciliación.
+Publicidad engañosa sobre tarjeta de crédito.
+Firma biométrica no validada por RENIEC.
+Correo registrado en firma biométrica no corresponde.
+No se consideró pago de intereses compensatorios y moratorios.
+Cobro indebido en tarjeta de crédito.
+Allanamiento no implica reconocimiento de hechos.
+Consumidor tenía obligación de realizar pago.

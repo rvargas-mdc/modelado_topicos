@@ -1,0 +1,9 @@
+Débito indebido en cuenta de ahorros por operación no autorizada.
+Cargo en comercio electrónico no reconocido por el titular.
+Compra en proveedor desconocido no reconocida por el consumidor.
+Uso de datos sensibles de tarjeta sin autorización.
+Operación no autorizada con tarjeta y clave.
+Falta de alerta por consumo inusual en historial.
+Solicitud de bloqueo de operación retenida no atendida.
+Respuestas del banco inadecuadas y genéricas según denunciante.
+Denuncia de posible transacción fraudulenta no reconocida por usuario.

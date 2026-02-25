@@ -1,0 +1,4 @@
+Consumos no reconocidos en tarjeta adicional.
+Falta de medidas de seguridad en operaciones.
+Afiliación y uso de billetera digital.
+Notificación de operaciones vía SMS y email.

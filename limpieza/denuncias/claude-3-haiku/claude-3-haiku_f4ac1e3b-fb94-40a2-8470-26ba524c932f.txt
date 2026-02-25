@@ -1,0 +1,3 @@
+1. Cobro de operaciones no reconocidas por el usuario.
+2. Incumplimiento de desbloquear cuenta pese a presentar carta notarial.
+3. Incumplimiento de abonar importe ofrecido por el banco.

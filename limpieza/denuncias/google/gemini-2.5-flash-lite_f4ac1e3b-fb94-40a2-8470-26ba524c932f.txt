@@ -1,0 +1,3 @@
+- Cobro de operaciones no reconocidas.
+- No desbloqueo de cuenta bancaria.
+- No abono de importe ofrecido.

@@ -1,0 +1,2 @@
+Debito indebido en cuenta de ahorros no reconocida por el usuario.
+Falta de medidas de seguridad y autenticación para validación de operación.

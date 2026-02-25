@@ -1,0 +1,6 @@
+Carga indebida de operaciones en tarjeta de crédito.
+No acreditó autorización de operaciones.
+No verificó identidad del titular.
+Falsificación de firma en crédito no solicitado.
+Cobro de membresía no solicitada por el usuario.
+Cajero no dispensó efectivo pero descontó saldo.

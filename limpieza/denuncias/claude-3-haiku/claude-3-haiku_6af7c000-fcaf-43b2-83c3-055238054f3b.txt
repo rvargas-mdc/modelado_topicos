@@ -1,0 +1,3 @@
+1. Otorgamiento de "adelanto de sueldo" no solicitado por el usuario.
+2. Realización de operación de S/ 1300.00 sin autorización del usuario.
+3. Falta de adopción de medidas de seguridad para detectar operación no autorizada.

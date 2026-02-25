@@ -1,0 +1,3 @@
+1. Cobro de operaciones no reconocidas por la usuaria.
+2. Demora en la atención del reclamo de la usuaria.
+3. Falta de información oportuna a la usuaria sobre los beneficiarios de las operaciones no reconocidas.

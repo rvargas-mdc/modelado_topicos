@@ -1,0 +1,4 @@
+Hostigamiento de llamadas de cobranza a tercero.
+Llamadas constantes a pesar de reclamos.
+Condicionamiento para brindar número de tercero.
+Violación de protección de datos personales.

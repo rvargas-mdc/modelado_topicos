@@ -1,0 +1,4 @@
+Cargó indebidamente una operación en tarjeta de crédito.
+El usuario no reconoce haber autorizado la operación.
+El banco no adoptó medidas de seguridad necesarias.
+Se realizó un retiro de efectivo no habitual.

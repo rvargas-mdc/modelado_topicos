@@ -1,0 +1,4 @@
+Cobro indebido de operaciones en tarjeta de crédito no reconocidas por la usuaria.
+Débito indebido de operación en cuenta de ahorros no reconocida por la usuaria.
+Allanamiento del Banco a la imputación de cargos.
+Solicitud de sanción de amonestación y exoneración de costos.

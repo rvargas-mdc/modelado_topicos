@@ -1,0 +1,3 @@
+Débito indebido de operación en cuenta de ahorros del usuario.
+Fallas en cajero automático que no dispensó efectivo pero debitó saldo.
+Usuario no reconoce operación debitada.

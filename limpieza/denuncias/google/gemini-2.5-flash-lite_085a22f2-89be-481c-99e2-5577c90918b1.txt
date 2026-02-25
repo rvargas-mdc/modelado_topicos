@@ -1,0 +1,6 @@
+- Gestiones de cobranza a pesar de no tener deuda.
+- No respuesta adecuada a reclamo.
+- No respuesta a reclamos ante Indecopi.
+- No respuesta a solicitud de eliminación de deuda.
+- Reporte indebido a central de riesgos.
+- Atribución indebida de deuda castigada.

@@ -1,0 +1,10 @@
+Cargo indebido de operaciones en tarjeta de crédito no reconocidas
+Robo de tarjeta; banco no verificó identidad del titular
+No activó medidas de seguridad ni notificó las operaciones
+Operaciones validadas sin uso de firma
+Falta de monitoreo y seguimiento de operaciones sospechosas
+No bloqueo preventivo de la tarjeta por seguridad
+Operaciones no corresponden al patrón habitual de consumo
+Banco afirmó uso de clave pese a negativa del denunciante
+Atención inadecuada: respuesta desfavorable a reclamo
+Atención inadecuada: no entregó registros técnicos solicitados

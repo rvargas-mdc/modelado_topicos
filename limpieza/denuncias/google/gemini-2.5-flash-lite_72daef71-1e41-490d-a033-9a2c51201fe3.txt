@@ -1,0 +1,9 @@
+Consumo no reconocido en tarjeta de crédito.
+Banco no adoptó medidas de seguridad.
+Consumo no corresponde al patrón habitual.
+Denunciante entregó tarjeta voluntariamente.
+Negligencia del consumidor como causa.
+Comercio responsable de verificar identidad.
+Banco solo responsable de la tarjeta.
+Monitoreo de consumo no generó alerta.
+Bloqueo de tarjeta posterior a la operación.

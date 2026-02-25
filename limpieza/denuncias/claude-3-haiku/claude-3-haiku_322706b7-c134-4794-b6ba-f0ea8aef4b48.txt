@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+No adopción de medidas de seguridad respecto de operación no reconocida por el usuario.
+Brindado información no veraz al usuario sobre transacción inusual.
+Inducción a confusión al usuario sobre beneficiario y número de cuenta de transferencia cuestionada.

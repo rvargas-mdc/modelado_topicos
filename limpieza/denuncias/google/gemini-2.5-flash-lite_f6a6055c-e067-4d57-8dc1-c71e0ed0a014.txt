@@ -1,0 +1,3 @@
+Banco cobró membresía no solicitada.
+Cajero no dispensó efectivo pero descontó saldo.
+Falsificación de firma en crédito no solicitado.

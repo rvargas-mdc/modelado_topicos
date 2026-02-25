@@ -1,0 +1,4 @@
+Debitado indebidamente de cuenta de ahorros.
+Operación no autorizada pese a clave dinámica.
+Transferencia entre cuentas propias no solicitada.
+Operación realizada desde celular no propio.

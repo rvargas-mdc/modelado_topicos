@@ -1,0 +1,3 @@
+1. Atribución de transferencias no reconocidas por el usuario.
+2. Solicitud de devolución de dinero extraído y pago de intereses legales.
+3. Acuerdo entre el usuario y el banco mediante transacción extrajudicial.

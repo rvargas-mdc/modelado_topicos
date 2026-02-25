@@ -1,0 +1,3 @@
+Operaciones no reconocidas en tarjeta de crédito.
+Solicitud de extorno de operaciones e intereses.
+Devolución de montos descontados de cuenta de ahorros.

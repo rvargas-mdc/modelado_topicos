@@ -1,0 +1,5 @@
+Resolución 1--------------------Debito indebido de cuenta en dólares.
+Se debita monto en dólares
+en lugar de soles.
+Solicita devolución de monto
+y cobro en soles.

@@ -1,0 +1,6 @@
+No adoptó medidas para recuperar fondos transferidos por fraude
+No contaba con protocolo para atención de fraudes
+No implementó monitoreo de operaciones inusuales ni prevención
+No informó adecuadamente sobre riesgos de fraude a clientes
+Solo recuperó parte del dinero y no recuperó totalidad
+No bloqueó ni intentó recuperar transferencias con anterioridad

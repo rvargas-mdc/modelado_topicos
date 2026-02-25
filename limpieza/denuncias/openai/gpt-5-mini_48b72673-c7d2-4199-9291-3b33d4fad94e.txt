@@ -1,0 +1,6 @@
+Cobro de dos operaciones en tarjeta no autorizadas.
+Robo del teléfono que contenía la aplicación bancaria.
+Operaciones procesadas pese a haber informado el robo.
+Falta de monitoreo; operaciones no detectadas como inusuales.
+No se verificó la identidad del titular para autorizar operaciones.
+Operaciones efectuadas sin medidas de seguridad adecuadas.

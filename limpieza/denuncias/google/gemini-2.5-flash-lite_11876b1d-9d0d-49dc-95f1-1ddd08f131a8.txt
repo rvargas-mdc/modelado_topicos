@@ -1,0 +1,3 @@
+Cargó indebidamente una operación en tarjeta de crédito.
+No aplicó medidas de seguridad.
+Permitió operación de tercero no habitual.

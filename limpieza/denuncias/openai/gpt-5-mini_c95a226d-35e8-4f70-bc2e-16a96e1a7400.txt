@@ -1,0 +1,3 @@
+Depósito no abonado en la cuenta del proveedor.
+Registro erróneo del número de transacción en el comprobante.
+Discrepancia en numeración impide identificar correctamente la operación.

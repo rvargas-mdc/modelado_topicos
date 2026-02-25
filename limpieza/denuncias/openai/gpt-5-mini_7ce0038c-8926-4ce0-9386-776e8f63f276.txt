@@ -1,0 +1,7 @@
+Acceso de tercero a la banca por Internet empresarial.
+Cambio de contraseña de la cuenta sin autorización.
+Realización de múltiples transferencias no reconocidas desde la cuenta.
+Solicitud de bloqueo no atendida oportunamente por el banco.
+Solo recuperación parcial de fondos; monto restante no recuperado.
+Banco afirmó operaciones con usuario, clave y token.
+Respuesta del banco negó incumplimiento del deber de seguridad.

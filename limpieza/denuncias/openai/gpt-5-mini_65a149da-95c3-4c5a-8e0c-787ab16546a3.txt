@@ -1,0 +1,6 @@
+No informó tipo de cambio aplicado en compraventa de divisas.
+Aplicó tipo de cambio sin autorización del consumidor.
+No indicó fundamento ni justificación para el tipo de cambio.
+Aplicó tipo de cambio indebido en amortización de préstamo.
+Amortización resultó menor por el tipo de cambio aplicado.
+Aplicó distinto tipo de cambio en operaciones similares.

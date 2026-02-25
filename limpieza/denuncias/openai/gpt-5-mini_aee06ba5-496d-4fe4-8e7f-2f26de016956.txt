@@ -1,0 +1,4 @@
+Cobro indebido en tarjeta de crédito por operación no reconocida.
+Tarjeta de crédito fue robada.
+Operación realizada sin verificar identidad del titular.
+Operación procesada pese a tarjeta bloqueada.

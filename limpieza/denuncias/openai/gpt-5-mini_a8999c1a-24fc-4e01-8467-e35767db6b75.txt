@@ -1,0 +1,11 @@
+Robo y sedación que permitió uso indebido de tarjeta
+No bloqueó tarjeta tras reporte de robo
+No inmovilizó cuenta para prevenir la transacción
+Permitió ejecución de operación no reconocida
+No anuló la operación no reconocida pese a reclamo
+No activó seguro de tarjeta solicitado
+Respuesta al reclamo brindada fue desfavorable
+Notificaciones por correo electrónico inaccesibles para el usuario
+Retención de tiques como prueba de ingreso a plataforma
+Bloqueo realizado solo después de consumada la transacción
+No brindó detalles sobre medidas de seguridad aplicadas

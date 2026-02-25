@@ -1,0 +1,4 @@
+Múltiples robos en tarjeta de crédito.
+Consumos no reconocidos por el usuario.
+No se solicitó firma ni clave.
+Banco no prestó medidas de seguridad.

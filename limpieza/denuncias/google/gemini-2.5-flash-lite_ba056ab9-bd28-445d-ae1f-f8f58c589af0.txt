@@ -1,0 +1,6 @@
+No informar sobre bono de bienvenida al contratar tarjeta.
+No entregar bono de bienvenida solicitado.
+Brindar información falsa sobre consumos y bono.
+No informar fecha de procesamiento de consumos.
+No entregar puntos correspondientes a compras.
+No informar puntos asignados a consumos.

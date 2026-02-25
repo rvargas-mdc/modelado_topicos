@@ -1,0 +1,9 @@
+Consumo no reconocido con cargo a tarjeta de crédito.
+Banco no custodió información personal y financiera; terceros accedieron.
+Permitir procesamiento de operación sospechosa sin bloquearla.
+Llamadas desde números similares facilitaron suplantación de identidad.
+Reactivaron tarjeta mediante llamadas que validaron datos y contraseña.
+Tercero recogió tarjeta, la cortó y obtuvo firma y huella.
+Transacción ocurrió mientras celular estaba sin señal.
+Banco pretende cargar deuda y afectar historial crediticio.
+Banco exigió procedimiento biométrico y llamadas para activar tarjeta.

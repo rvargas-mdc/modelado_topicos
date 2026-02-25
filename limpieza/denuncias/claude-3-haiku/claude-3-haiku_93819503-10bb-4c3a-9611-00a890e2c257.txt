@@ -1,0 +1,4 @@
+1. Retención indebida de dinero de la cuenta del usuario pese a levantamiento de embargo.
+2. Incumplimiento del Banco de levantar medida de embargo ordenada mediante resolución coactiva.
+3. Retención de sumas de dinero de la cuenta del usuario luego de levantamiento de embargo.
+4. Falta de conocimiento del Banco sobre levantamiento de embargo notificado a su sede en Lima.

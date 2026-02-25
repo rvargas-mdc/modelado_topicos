@@ -1,0 +1,5 @@
+Cargos de operaciones en tarjeta no reconocidas por consumidor.
+Falta de monitoreo y bloqueo ante patrón de fraude.
+No se requirió PIN ni firma en las transacciones.
+No existió pacto ni consentimiento de micropagos.
+Permitir operaciones con tarjeta sin verificar identidad del titular.

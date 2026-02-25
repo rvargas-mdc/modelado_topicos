@@ -1,0 +1,5 @@
+1. Cobro de operaciones no reconocidas por la usuaria en su tarjeta de crédito.
+
+2. Allanamiento del banco a la imputación efectuada.
+
+3. Cumplimiento de la usuaria con el requerimiento de información del ORPS.

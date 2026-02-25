@@ -1,0 +1,9 @@
+Obligación de aceptar reprogramación de préstamo.
+Negativa a revertir reprogramación de préstamo.
+Reporte ante central de riesgo con calificación deficiente.
+Falta de información oportuna sobre el contrato.
+Información fraudulenta sobre contrato de reprogramación.
+Adulteración de documentos del contrato.
+Pago de cuotas en contra de su voluntad.
+Reporte ante central de riesgo con identidad falsa.
+Información falsa sobre monto de deuda.

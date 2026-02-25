@@ -1,0 +1,9 @@
+Débito indebido de múltiples operaciones en cuenta de ahorros.
+Operaciones realizadas sin uso de tarjeta ni clave secreta.
+Tarjeta no estaba activa pero se efectuaron operaciones.
+Operaciones consideradas inusuales o fraudulentas sin ser analizadas.
+No aplicación del Reglamento de Ciberseguridad en el análisis.
+Bloqueo de tarjeta realizado después de las transacciones.
+No se solicitaron vídeos de seguridad para acreditar retiros.
+Tarjeta siempre estuvo en posesión del denunciante.
+Banco no devolvió importes de operaciones no reconocidas.

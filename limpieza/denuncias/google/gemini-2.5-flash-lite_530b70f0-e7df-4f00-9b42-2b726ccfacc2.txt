@@ -1,0 +1,3 @@
+Cargos indebidos en tarjeta de crédito no reconocidos.
+No verificación de identidad en operaciones con tarjeta.
+Atribución indebida de tarjeta adicional no solicitada.

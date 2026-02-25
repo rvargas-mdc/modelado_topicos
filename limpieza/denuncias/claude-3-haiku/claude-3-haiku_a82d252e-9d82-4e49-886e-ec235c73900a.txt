@@ -1,0 +1,3 @@
+1. Atribución indebida de préstamo "Desembolso crédito Yape" sin autorización del usuario.
+2. Atribución indebida de préstamo "Adelanto de sueldo" sin autorización del usuario.
+3. Débitos indebidos de la cuenta de ahorros del usuario.

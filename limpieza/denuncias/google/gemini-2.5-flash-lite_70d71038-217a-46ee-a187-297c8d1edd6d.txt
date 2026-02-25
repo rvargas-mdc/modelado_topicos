@@ -1,0 +1,6 @@
+Debitado indebidamente operaciones no reconocidas.
+No notificó operaciones al usuario.
+No aplicó medidas de seguridad en operaciones.
+Atendió inadecuadamente reclamo del usuario.
+Respuesta del banco no se ajusta a la realidad.
+Omitió pronunciarse sobre falta de notificación.

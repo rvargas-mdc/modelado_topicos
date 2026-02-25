@@ -1,0 +1,3 @@
+Permitir depósito indebido pese a fraude telefónico.
+No informar titular de cuenta destino en depósito.
+No atender reclamo consignando hora de operación.

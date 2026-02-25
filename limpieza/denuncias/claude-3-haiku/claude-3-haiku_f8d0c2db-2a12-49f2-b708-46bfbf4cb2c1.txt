@@ -1,0 +1,2 @@
+Cobro duplicado de operación en tarjeta de crédito.
+Inadecuado procesamiento de devolución por cobro duplicado.

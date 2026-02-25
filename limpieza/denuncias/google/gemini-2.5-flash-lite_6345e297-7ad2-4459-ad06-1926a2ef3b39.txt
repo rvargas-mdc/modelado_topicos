@@ -1,0 +1,10 @@
+Retención indebida de fondos de cuenta de remuneraciones.
+Retención indebida de fondos de cuenta ganadora.
+Retención indebida de fondos de cuenta independencia.
+Embargo ordenado por juzgado fue ejecutado.
+Se registró embargo en tres cuentas.
+No se ha cargado importe ni entregado fondos.
+Cuenta de haberes también tiene otros ingresos.
+Retención en cuenta de dólares se hizo al tipo de cambio.
+Retención en otra cuenta de dólares fue del total.
+Se cumplió con ejecutar mandato judicial.

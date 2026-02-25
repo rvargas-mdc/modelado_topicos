@@ -1,0 +1,6 @@
+Debito indebido de operaciones en cuenta de ahorros.
+El usuario no reconoce haber autorizado los consumos.
+No recibió notificación de los consumos.
+Los cargos no son recurrentes.
+Servicios de gimnasio no corresponden a su perfil.
+Nunca compartió datos ni descuidó su tarjeta.

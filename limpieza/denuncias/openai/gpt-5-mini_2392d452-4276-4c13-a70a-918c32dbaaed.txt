@@ -1,0 +1,2 @@
+No adoptó medidas de seguridad ante operaciones no reconocidas.
+No envió los estados de cuenta de tarjeta de crédito.

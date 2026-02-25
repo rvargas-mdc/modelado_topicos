@@ -1,0 +1,6 @@
+1. Cargos indebidos en tarjeta de crédito del denunciante.
+2. Operaciones no reconocidas por el denunciante.
+3. Falta de verificación de identidad del titular.
+4. Falta de alertas al denunciante sobre operaciones inusuales.
+5. Operaciones realizadas en países donde el denunciante no estuvo.
+6. Generación de gastos de intereses y cobros por mora.

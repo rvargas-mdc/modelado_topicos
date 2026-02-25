@@ -1,0 +1,2 @@
+Cobro de requisitos para acceder a información de cuenta bancaria.
+Falta de explicaciones sobre movimientos en cuenta de ahorros.

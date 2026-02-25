@@ -1,0 +1,4 @@
+Hechos denunciados:
+
+Cobro de operaciones no reconocidas por el usuario en tarjeta de crédito.
+Falta de medidas de seguridad en el monitoreo y realización de operaciones.

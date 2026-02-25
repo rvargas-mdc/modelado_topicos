@@ -1,0 +1,5 @@
+1. Débito indebido de una operación en la cuenta de ahorros de la denunciante.
+2. Nulidad parcial de la resolución emitida por el OPS por no aplicar el Reglamento de Ciberseguridad.
+3. Sanción al Banco por debitar de forma indebida una operación no reconocida por la denunciante.
+4. Banco alega que la operación se realizó a través de la página web de un establecimiento tercero, por lo que no correspondería aplicar el Reglamento de Ciberseguridad.
+5. Banco señala que la operación se realizó con el ingreso manual de la numeración de la tarjeta de la denunciante durante un periodo de acceso temporal sin restricciones.

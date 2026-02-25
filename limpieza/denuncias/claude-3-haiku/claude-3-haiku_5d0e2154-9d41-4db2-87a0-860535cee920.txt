@@ -1,0 +1,8 @@
+1. Cobro de seguro de bien no solicitado ni autorizado por el usuario en su crédito vehicular.
+
+2. (i) Banco indica que seguro se cobró por falta de renovación de póliza vehicular por parte del usuario.
+(ii) Banco indica que póliza vehicular del usuario venció y se incluyó póliza de seguro del banco.
+(iii) Banco indica que informó al usuario sobre obligación de presentar póliza endosada anualmente.
+(iv) Banco indica que entregó y usuario suscribió Hoja Resumen y Cronograma de Pagos del crédito.
+(v) Banco indica que requerimiento de ORPS no es aplicable pues no se trata de operaciones no reconocidas.
+(vi) Banco solicita dejar sin efecto dicho requerimiento.

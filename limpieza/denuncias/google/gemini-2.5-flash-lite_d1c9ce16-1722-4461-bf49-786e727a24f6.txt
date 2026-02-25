@@ -1,0 +1,4 @@
+Debitado indebidamente de cuenta sueldo.
+Operación no notificada al usuario.
+Debitado indebidamente de cuenta en dólares.
+Operación no notificada al usuario.

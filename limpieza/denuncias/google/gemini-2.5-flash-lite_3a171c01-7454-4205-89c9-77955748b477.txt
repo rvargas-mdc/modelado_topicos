@@ -1,0 +1,6 @@
+No se adoptaron medidas de seguridad necesarias.
+Se efectuaron transacciones no reconocidas por el usuario.
+Se ordenó devolución de dinero y pago de costas.
+El banco apeló la resolución.
+El usuario solicitó corrección del monto a devolver.
+El banco no cumplió con requerimientos de información.

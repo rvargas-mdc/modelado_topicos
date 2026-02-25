@@ -1,0 +1,2 @@
+Cobro de transferencias y operaciones no autorizadas por el usuario.
+Falta de medidas de seguridad por parte del banco.

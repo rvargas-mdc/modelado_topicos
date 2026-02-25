@@ -1,0 +1,2 @@
+Cobro de operaciones no autorizadas en tarjeta de crédito.
+Falta de monitoreo y medidas de seguridad del banco.

@@ -1,0 +1,4 @@
+Cobro de interés moratorio considerado ilegal.
+No se informó fórmula financiera para cálculo de intereses.
+No se informó previamente sistema de amortización francés.
+Sistema de amortización francés aplicado es oneroso.

@@ -1,0 +1,2 @@
+Falta de medidas de seguridad; operaciones no reconocidas en tarjeta.
+Tarjeta no fue bloqueada tras incidente similar.

@@ -1,0 +1,4 @@
+Cobro indebido de operación no reconocida por la usuaria.
+Falta de activación de medidas de seguridad por el banco.
+Negativa de la aseguradora a brindar cobertura por siniestro.
+Falta de orientación adecuada por la aseguradora sobre procedimiento a seguir.

@@ -1,0 +1,5 @@
+Operaciones no reconocidas en cuentas bancarias.
+No se adoptaron medidas de seguridad pertinentes.
+Permitieron operaciones no reconocidas en cuenta de ahorros.
+Permitieron operación no reconocida en tarjeta de crédito.
+Permitieron cambio de límite transaccional de tarjeta de crédito.

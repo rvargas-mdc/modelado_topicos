@@ -1,0 +1,9 @@
+Permitir operaciones no reconocidas en cuenta del consumidor.
+Falta de medidas de seguridad en monitoreo de operaciones.
+Realización de transferencia no reconocida entre cuentas del consumidor.
+Múltiples cargos y comisiones no reconocidos en cuenta sueldo.
+Retiros en efectivo y transacciones con tarjeta no reconocidos.
+Identificación biométrica usada para autorizar operaciones en ventanilla.
+Consumidora niega haber realizado control biométrico y transacciones.
+Denuncia de posible falsificación de identidad y uso indebido.
+Banco no proporcionó información solicitada de manera oportuna.

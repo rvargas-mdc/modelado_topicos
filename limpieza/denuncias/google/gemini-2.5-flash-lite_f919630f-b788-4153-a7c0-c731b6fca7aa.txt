@@ -1,0 +1,5 @@
+Cargo indebido de operación en tarjeta de crédito.
+Banco no aplicó medidas de seguridad.
+No se notificó la operación al usuario.
+Se cuestiona la validez de la normativa aplicada.
+Se alega envío de notificación a correo incorrecto.

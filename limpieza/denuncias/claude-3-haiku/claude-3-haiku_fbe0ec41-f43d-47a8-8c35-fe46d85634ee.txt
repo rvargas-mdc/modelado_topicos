@@ -1,0 +1,6 @@
+Resumen de las infracciones denunciadas:
+
+Uso indebido de documentos del usuario para gestionar un crédito no solicitado.
+Desembolso de crédito en cuenta bancaria sin previa comunicación al usuario.
+Inicio de cobranza por crédito no solicitado, afectando perfil crediticio del usuario.
+Respuestas inadecuadas a reclamos presentados por el usuario.

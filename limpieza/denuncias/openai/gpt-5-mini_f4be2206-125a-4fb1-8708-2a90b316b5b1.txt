@@ -1,0 +1,8 @@
+Cargos indebidos por operaciones de tarjeta no reconocidas.
+Falta de acreditación de autorización de las operaciones cargadas.
+Falta de monitoreo y seguimiento de operaciones realizadas.
+No emisión de alertas ante consumos inusuales y nocturnos.
+No notificación de movimientos al correo electrónico del cliente.
+Registro y uso de línea telefónica no correspondiente al titular.
+Incumplimiento del deber de idoneidad y medidas de seguridad.
+No atención a reclamo presentado por la consumidora.

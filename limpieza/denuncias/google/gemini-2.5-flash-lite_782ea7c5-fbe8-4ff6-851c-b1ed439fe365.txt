@@ -1,0 +1,9 @@
+Mediante escritos del 12 de agosto de 2024, el señor Gonzales presentó una denuncia contra BBVA
+por presuntas infracciones al Código de Protección y Defensa del Consumidor (en adelante, el
+Código), manifestando, entre otros, que no habría realizado la devolución del monto de la compra
+efectuada el 10 de mayo de 2024 a su Tarjeta de Crédito, pese a que dicha devolución fue autorizada
+por el comercio.
+El señor Gonzales solicitó, en calidad de medida correctiva, la devolución del dinero.
+
+Salida:
+No se realizó devolución de monto de compra autorizada por el comercio.

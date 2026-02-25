@@ -1,0 +1,10 @@
+Transferencia en tarjeta de crédito no reconocida.
+Operaciones en cuenta de ahorros no reconocidas.
+Retiro en moneda extranjera convertido y retirado no reconocido.
+Falta de medidas de seguridad frente a operaciones no reconocidas.
+Solicitud de devolución de cargos no reconocidos.
+Solicitud de identificación de beneficiarios de las transacciones.
+Bloqueo de tarjetas por parte de la denunciante.
+Alegación de subsanación parcial mediante devolución de algunos cargos.
+Controversia sobre imputación de cargos afectando derecho de defensa.
+Disputa por anulación de disposición en efectivo y devolución parcial.

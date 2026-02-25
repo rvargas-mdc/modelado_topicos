@@ -1,0 +1,2 @@
+1. Cobro indebido de dos operaciones de tarjeta de crédito no reconocidas por el usuario.
+2. Permitir consumos con tarjeta de crédito sin verificar la firma del titular.

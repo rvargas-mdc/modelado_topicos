@@ -1,0 +1,7 @@
+Cargos indebidos en tarjeta de crédito por operaciones no autorizadas.
+Operaciones realizadas con tarjeta adicional no reconocidas por titular.
+Tarjetahabiente adicional sufrió robo de su equipo celular.
+Sistema de seguridad del banco fue vulnerado.
+Banco no activó monitoreo ni seguimiento de operaciones.
+Operaciones eran inusuales pero banco las autorizó.
+No se realizó uso de tarjeta y clave en operaciones.

@@ -1,0 +1,2 @@
+No aplicar medidas de seguridad para evitar cargos inusuales. 
+Permitir retiro sin verificar identidad del tarjetahabiente.

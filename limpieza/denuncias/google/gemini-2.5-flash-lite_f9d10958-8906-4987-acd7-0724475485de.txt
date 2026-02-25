@@ -1,0 +1,3 @@
+Operaciones no reconocidas en cuentas bancarias.
+Creación de perfil sin uso de clave token física.
+Solicitud de devolución de montos sustraídos.

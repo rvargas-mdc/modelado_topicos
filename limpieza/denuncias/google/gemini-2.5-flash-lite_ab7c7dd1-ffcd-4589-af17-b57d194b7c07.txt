@@ -1,0 +1,4 @@
+No se cumplió con anular tarjeta de débito antigua.
+No se adoptaron medidas de seguridad para evitar operaciones.
+Se registró erróneamente información del reclamo.
+No se atendió íntegramente el reclamo.

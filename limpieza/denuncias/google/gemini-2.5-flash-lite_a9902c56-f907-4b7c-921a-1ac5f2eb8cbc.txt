@@ -1,0 +1,3 @@
+Renovación automática de cuenta a plazo fijo.
+Aplicación de tasa de interés mínima.
+Incumplimiento de tasa de interés ofrecida.

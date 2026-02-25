@@ -1,0 +1,4 @@
+Cargos no reconocidos en tarjeta de crédito.
+No permitir afiliación a servicio de alertas.
+Respuesta desfavorable a reclamo.
+No entrega de estados de cuenta.

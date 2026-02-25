@@ -1,0 +1,6 @@
+Robo de DNI y celular.
+Solicitó bloqueo telefónico de tarjeta, no fue bloqueada.
+Le indicaron que bloqueo solo podía realizarse en otra localidad.
+Recibió notificación de pago de servicio no reconocido.
+Operación realizada usando información confidencial y token del titular.
+Alega que banco no adoptó medidas de seguridad adecuadas.

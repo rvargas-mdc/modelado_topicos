@@ -1,0 +1,2 @@
+1. Cobro de deuda no reconocida por el usuario.
+2. Desistimiento de la denuncia por parte del usuario.

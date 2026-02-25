@@ -1,0 +1,4 @@
+Resumen de las infracciones denunciadas:
+
+1. Cobro de retiro no reconocido por el usuario de la cuenta de ahorros.
+2. Falta de implementación de medidas de seguridad adecuadas para la cuenta de ahorros del usuario.

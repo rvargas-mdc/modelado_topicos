@@ -1,0 +1,3 @@
+Permitir operación con tarjeta de crédito no reconocida.
+No tomar medidas de seguridad pertinentes.
+Operación con patrones de fraude.

@@ -1,0 +1,3 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no autorizadas por el usuario.
+Incumplimiento de medidas de seguridad y monitoreo.

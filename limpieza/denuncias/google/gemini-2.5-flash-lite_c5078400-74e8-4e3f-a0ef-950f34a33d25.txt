@@ -1,0 +1,8 @@
+No se informó que la tarjeta era de crédito.
+No se informó costo de mantenimiento.
+No se informó cobro mínimo.
+No se suscribió contrato.
+Se desconocen cláusulas del contrato.
+Se realizaron descuentos automáticos indebidos en cuenta sueldo.
+Se realizaron descuentos automáticos indebidos en tarjeta de crédito.
+Se emitió respuesta incompleta al reclamo.

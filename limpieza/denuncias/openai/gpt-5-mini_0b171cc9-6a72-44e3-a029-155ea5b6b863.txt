@@ -1,0 +1,5 @@
+Permitir transferencia no reconocida por falta de medidas de seguridad
+No revertir operación denunciada como fraudulenta
+No bloquear cuenta receptora tras denuncia de operación fraudulenta
+Permitir retiro de fondos de operación no reconocida
+No brindar respuesta oportuna al reclamo con hoja de reclamación

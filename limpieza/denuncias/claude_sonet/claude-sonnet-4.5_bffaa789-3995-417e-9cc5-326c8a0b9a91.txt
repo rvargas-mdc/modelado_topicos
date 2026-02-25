@@ -1,0 +1,5 @@
+M-CPC-06-01--------------------Operaciones no reconocidas en tarjeta de crédito.
+Consumos y pagos cuestionados por el titular.
+Falta de medidas de seguridad del banco.
+Cobro de intereses y gastos por operaciones cuestionadas.
+Reporte en centrales de riesgo por deuda no reconocida.

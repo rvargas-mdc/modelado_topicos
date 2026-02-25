@@ -1,0 +1,3 @@
+Cargo no autorizado en tarjeta de crédito.
+Permitir que un tercero realice transacción sin medidas de seguridad.
+Operación no corresponde al patrón habitual de consumo.

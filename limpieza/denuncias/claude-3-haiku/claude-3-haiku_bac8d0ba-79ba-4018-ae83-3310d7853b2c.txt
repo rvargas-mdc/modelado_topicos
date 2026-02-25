@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de operaciones no reconocidas por el usuario.
+Afiliación a billetera electrónica sin autorización del usuario.
+Incumplimiento de medidas de seguridad idóneas para la tarjeta de crédito del usuario.

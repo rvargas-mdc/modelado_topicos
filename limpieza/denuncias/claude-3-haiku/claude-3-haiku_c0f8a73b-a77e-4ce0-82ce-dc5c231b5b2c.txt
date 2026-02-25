@@ -1,0 +1,5 @@
+Según la resolución, las infracciones denunciadas son:
+
+1. Reafiliación indebida del usuario al Seguro de Tarjetas 360° sin su autorización, generando el cobro de las primas a su cuenta bancaria.
+
+2. Negativa del banco a atender la solicitud del usuario de entregar el documento que sustente la nueva afiliación al seguro.

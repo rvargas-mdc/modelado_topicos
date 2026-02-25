@@ -1,0 +1,5 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no reconocidas por el usuario.
+No se comunicaron claves de autorización.
+No se verificó identidad del titular.
+No se usaron dos factores de autenticación.

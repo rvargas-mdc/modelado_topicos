@@ -1,0 +1,3 @@
+Realización de operaciones no autorizadas en cuenta de ahorros.
+Falta de medidas de seguridad para evitar operaciones fraudulentas.
+Uso de tarjeta y PIN para retiros no reconocidos por el titular.

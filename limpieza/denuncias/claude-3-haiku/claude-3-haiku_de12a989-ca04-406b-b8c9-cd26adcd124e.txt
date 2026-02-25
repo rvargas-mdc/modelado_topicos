@@ -1,0 +1,6 @@
+1. Cobro indebido de operación no reconocida por el usuario en tarjeta de crédito.
+2. Extravío de dispositivo celular con aplicación de banca móvil del banco.
+3. Banco allanó a la imputación de cargos, pero luego se desistió del allanamiento.
+4. Banco señaló que la tarjeta es personal e intransferible, y que el usuario debe resguardar la información de la tarjeta.
+5. Banco presentó reportes que evidenciarían la validez de la operación cuestionada.
+6. Usuario solicitó se programe audiencia considerando el desistimiento del allanamiento.

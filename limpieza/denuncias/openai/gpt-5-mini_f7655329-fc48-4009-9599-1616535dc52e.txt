@@ -1,0 +1,9 @@
+Cobro injustificado reflejado en estados de cuenta.
+Errores en cálculo y estructura de montos de deuda.
+Procesamiento indebido de pagos que generó montos distorsionados.
+Estados de cuenta incluyen "Regularización Reclamo" sin detalle.
+Imposibilidad de verificar base de pago por falta de detalle.
+Direccionamiento incorrecto de abonos entre planes y cuentas.
+Atención y gestión de reclamos deficientes.
+Cobro o registro indebido de intereses y cuotas.
+Traslado indebido de saldos entre planes generando confusión.

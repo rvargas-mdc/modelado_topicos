@@ -1,0 +1,5 @@
+Debito indebido de operación no reconocida.
+Cobro indebido de seguros sin autorización.
+Robo de tarjeta de débito.
+Falta de información sobre movimiento.
+Incumplimiento de monitoreo de operaciones.

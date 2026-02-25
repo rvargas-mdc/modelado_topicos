@@ -1,0 +1,7 @@
+Cargó indebidamente una operación en tarjeta de crédito.
+Operación no autorizada por el usuario.
+No se usaron datos de la tarjeta.
+Tarjeta siempre estuvo en poder del usuario.
+No autorizó operaciones por internet.
+No fue notificada de la operación.
+Nunca antes pagó a dicho proveedor.

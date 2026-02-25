@@ -1,0 +1,6 @@
+Debito indebido de operaciones en cuenta de ahorros.
+No verificación de identidad del titular de tarjeta.
+Operaciones no realizadas con datos de tarjeta.
+Consumo por internet con código de uso único.
+Transferencias inmediatas con clave token digital.
+Comportamiento habitual de consumo no acreditado.

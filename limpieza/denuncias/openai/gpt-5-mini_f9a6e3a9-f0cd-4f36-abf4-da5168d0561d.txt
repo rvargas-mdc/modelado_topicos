@@ -1,0 +1,2 @@
+Cargo en cuenta de ahorro por operación no reconocida.
+Atribución indebida de realización de operación al titular.

@@ -1,0 +1,4 @@
+Operaciones no reconocidas en tarjeta de débito por falta seguridad.
+Rechazo de cobertura del seguro por operaciones no reconocidas.
+Hurto y cambiazo del equipo POS generando operaciones no reconocidas.
+No bloqueo inmediato de la tarjeta tras reportar operaciones.

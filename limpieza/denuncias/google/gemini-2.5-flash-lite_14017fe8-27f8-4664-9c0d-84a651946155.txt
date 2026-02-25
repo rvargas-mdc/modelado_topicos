@@ -1,0 +1,4 @@
+- Doble transferencia Plin en cuenta de ahorros.
+- Extorno de transferencia Plin no solicitada.
+- Descuento indebido por "REGULARIZA PLIN".
+- Infracción al deber de idoneidad.

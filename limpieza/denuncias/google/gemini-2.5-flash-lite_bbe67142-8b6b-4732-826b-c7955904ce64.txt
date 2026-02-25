@@ -1,0 +1,10 @@
+Débito indebido de operaciones en cuenta de ahorros.
+Banco no acreditó validez de operaciones sin tarjeta/clave.
+Tarjeta no se encontraba activa.
+Operaciones debieron ser consideradas inusuales/fraudulentas.
+No se aplicó reglamento de ciberseguridad.
+Bloqueo de tarjeta posterior a operaciones.
+No se solicitaron videos de seguridad.
+Tarjeta en poder del usuario, pero se usó clave.
+Otras entidades devolvieron importes.
+Operaciones realizadas con tarjeta y clave secreta.

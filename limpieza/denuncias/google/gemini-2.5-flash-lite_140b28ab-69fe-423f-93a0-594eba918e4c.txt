@@ -1,0 +1,4 @@
+Operación bancaria no reconocida.
+Incumplimiento de envío de copia de reclamo.
+Devolución de importe debitado de cuenta.
+Pago de costas y costos del procedimiento.

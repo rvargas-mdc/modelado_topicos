@@ -1,0 +1,4 @@
+Préstamo atribuido por el banco no reconocido por usuario.
+Devolución del dinero extraído de su cuenta.
+Reembolso de costas y costos del procedimiento.
+Cese de actos de cobranza por préstamo atribuido.

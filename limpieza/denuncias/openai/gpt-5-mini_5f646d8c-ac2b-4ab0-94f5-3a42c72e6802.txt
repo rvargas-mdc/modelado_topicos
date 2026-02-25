@@ -1,0 +1,2 @@
+Falta de medidas de seguridad que permitieron transferencias no reconocidas
+Falta de medidas de seguridad que permitieron operación no reconocida

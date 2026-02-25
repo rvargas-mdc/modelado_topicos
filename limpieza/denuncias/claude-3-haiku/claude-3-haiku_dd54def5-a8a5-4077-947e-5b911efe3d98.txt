@@ -1,0 +1,7 @@
+1. Operación de S/ 3,200.00 no reconocida por la usuaria.
+2. Cuenta de agente bancario no permite realizar transferencias.
+3. Usuaria solo puede usar tarjeta en agencias del Banco.
+4. Banco bloqueó tarjeta de la usuaria.
+5. Verificación de 6 transferencias de S/ 500.00 y 1 de S/ 246.00 no reconocidas por la usuaria.
+6. Usuaria es agente Kasnet y Banco de la Nación.
+7. Cuenta exclusiva para operaciones del agente del Banco.

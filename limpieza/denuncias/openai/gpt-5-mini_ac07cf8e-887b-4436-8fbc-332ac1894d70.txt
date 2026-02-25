@@ -1,0 +1,5 @@
+Empleado bancario recogió y cortó la tarjeta entregada
+Cargo indebido de operaciones en tarjeta de crédito no reconocidas
+No envío de notificaciones por consumos realizados
+Incumplimiento del deber de monitoreo y alerta ante operaciones inusuales
+Comercio permitió consumos sin verificar firma del tarjetahabiente

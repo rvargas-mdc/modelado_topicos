@@ -1,0 +1,6 @@
+Operación no reconocida tras robo de tarjeta.
+Banco no bloqueó tarjeta a tiempo.
+No se anuló operación en proceso.
+No se brindó respuesta oportuna.
+No se activó seguro de tarjeta.
+No se brindaron detalles de seguridad.

@@ -1,0 +1,3 @@
+Operación no reconocida en tarjeta de crédito mediante comercio virtual
+Banco no aplicó medidas de seguridad idóneas
+Terceras personas materializaron operación fuera del patrón habitual

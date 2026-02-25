@@ -1,0 +1,2 @@
+Operaciones no reconocidas en cuenta bancaria.
+Falta de medidas de seguridad del banco.

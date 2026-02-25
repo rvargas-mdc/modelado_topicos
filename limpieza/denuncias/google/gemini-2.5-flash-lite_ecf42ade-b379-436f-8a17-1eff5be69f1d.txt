@@ -1,0 +1,5 @@
+Cargo indebido en tarjeta de crédito.
+Operación no reconocida por el usuario.
+Firma apócrifa en voucher de operación.
+Extravío de tarjeta de crédito no atendido.
+Falta de medidas de seguridad del banco.

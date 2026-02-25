@@ -1,0 +1,10 @@
+Retiro por cajero electrónico en cuenta no efectuado por titular.
+Asistente sustrajo tarjeta bancaria y realizó retiros en cajero.
+Pérdida de talonarios de cheques y cheques faltantes.
+Cobro de cheques no correlativos con numeración adulterada.
+Cheques cobrados con firma y sello del representante falsificados.
+Asistente detenido portando cheques sueltos con firmas falsas.
+Banco permitió cobros indebidos sin emitir alertas al titular.
+Banco no adoptó medidas de seguridad para prevenir fraudes.
+Posible vinculación de personal de la entidad con robo sistemático.
+Cobro presencial de cheques adulterados sin verificación pericial.

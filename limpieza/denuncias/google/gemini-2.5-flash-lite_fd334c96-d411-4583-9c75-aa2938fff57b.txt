@@ -1,0 +1,5 @@
+Cargó indebidamente una operación no autorizada.
+No adoptó medidas de seguridad necesarias.
+Establecimiento no reconoció consumo.
+Devolución de importe cuestionado.
+Cancelación de tarjeta.

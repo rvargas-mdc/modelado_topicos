@@ -1,0 +1,5 @@
+Filtración de datos y fallas de acceso en plataformas
+Transferencia no autorizada desde cuenta de ahorros a tercero
+No recibió clave dinámica ni notificación sobre la operación
+Reclamo fue rechazado por Defensoría del Cliente Financiero
+Entidad reconoció que operación generó alerta de fraude

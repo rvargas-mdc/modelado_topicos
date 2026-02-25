@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cargo indebido de una operación en la tarjeta de crédito de la denunciante.
+Falta de bloqueo preventivo de la tarjeta pese a operación inusual.
+Falta de notificación a la denunciante sobre la realización de la operación.

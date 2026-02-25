@@ -1,0 +1,2 @@
+1. Cobro de operaciones no reconocidas por el usuario en tarjeta de crédito.
+2. Falta de adopción de medidas de seguridad por el banco para evitar operaciones no reconocidas.

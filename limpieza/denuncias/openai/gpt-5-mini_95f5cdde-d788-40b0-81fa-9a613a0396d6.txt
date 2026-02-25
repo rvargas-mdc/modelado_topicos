@@ -1,0 +1,4 @@
+Cargos en tarjeta de crédito no reconocidos por el consumidor.
+Generación de intereses, comisiones, gastos y penalidades asociados.
+Reporte de deuda en centrales de riesgo sin corrección.
+Incumplimiento del banco en extornar cargos y subsanar reportes.

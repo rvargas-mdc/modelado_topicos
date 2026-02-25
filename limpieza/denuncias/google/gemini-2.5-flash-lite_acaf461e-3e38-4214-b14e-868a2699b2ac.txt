@@ -1,0 +1,2 @@
+Falta de medidas de seguridad para evitar operaciones.
+Transferencias no autorizadas en cuentas de ahorro.

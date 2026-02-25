@@ -1,0 +1,7 @@
+No adoptó medidas para recuperar fondos.
+Informó al banco sobre fraude.
+Banco reconoció fraude y devolvió importe.
+No cuenta con protocolo para fraudes.
+No implementó mecanismos de prevención.
+No monitoreó transacciones inusuales.
+No intentó recuperar el monto total.

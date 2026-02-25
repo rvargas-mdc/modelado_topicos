@@ -1,0 +1,6 @@
+Hechos denunciados:
+
+Cobro de tipo de cambio no informado al usuario.
+Aplicación de tipo de cambio indebido para amortización de préstamo.
+Aplicación de tipo de cambio diferente al informado en operación de compraventa de divisas.
+Falta de justificación del tipo de cambio aplicado.

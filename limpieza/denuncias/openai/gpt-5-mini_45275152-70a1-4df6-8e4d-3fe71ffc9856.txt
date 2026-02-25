@@ -1,0 +1,5 @@
+Imposibilidad de acceso al aplicativo por mensaje de error
+Cuenta declarada bloqueada pero se realizaron cargos no reconocidos
+Múltiples transferencias inmediatas con cargo a cuenta no reconocidas
+Reclamo por operaciones no reconocidas declarado improcedente
+Banco no adoptó medidas de seguridad para evitar los cargos

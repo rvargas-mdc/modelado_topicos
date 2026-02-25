@@ -1,0 +1,8 @@
+Débito indebido por transferencia no reconocida en cuenta de ahorros.
+Autorización sin envío de claves digitales al usuario para confirmar.
+Operación realizada desde un dispositivo móvil ajeno al titular.
+Operación consecutiva realizada al día siguiente de otra transferencia.
+Débito indebido por transferencia no reconocida en otra cuenta.
+Autorización sin envío de claves digitales al usuario para confirmar.
+Operación realizada desde un dispositivo móvil ajeno al titular.
+Operación consecutiva realizada al día siguiente de otra transferencia.

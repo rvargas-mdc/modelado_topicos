@@ -1,0 +1,4 @@
+Cargos indebidos de operaciones en tarjeta de crédito.
+Operaciones no autorizadas por el usuario.
+No aplicó medidas de seguridad.
+No presentó descargos en el procedimiento.

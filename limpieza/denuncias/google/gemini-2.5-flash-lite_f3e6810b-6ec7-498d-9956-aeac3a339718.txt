@@ -1,0 +1,6 @@
+Llamada telefónica para ofrecer cambio de tarjeta.
+Solicitud de contraseña y verificación facial.
+Operación no reconocida en cuenta bancaria.
+Movimientos y compras no reconocidas en tarjetas.
+Contratación de seguro y solicitud de cobertura.
+Operaciones fraudulentas en tarjetas.

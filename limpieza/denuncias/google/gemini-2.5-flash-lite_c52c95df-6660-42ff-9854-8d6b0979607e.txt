@@ -1,0 +1,7 @@
+Operaciones no autorizadas en cuenta de ahorros.
+Falta de medidas de seguridad para evitar operaciones.
+Retiros y compras no reconocidas por la titular.
+Sistema de monitoreo generó alertamiento de fraude.
+Se intentó contactar a la titular para confirmar fraude.
+Se logró contactar y confirmar fraude tipo "cambiazo".
+Tarjeta fue bloqueada tras confirmación de fraude.

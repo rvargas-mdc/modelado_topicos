@@ -1,0 +1,4 @@
+Autorización indebida de operaciones en tarjeta de crédito.
+Operaciones no reconocidas por el usuario.
+Firma en vouchers no pertenece al usuario.
+Vouchers no señalan número de DNI.

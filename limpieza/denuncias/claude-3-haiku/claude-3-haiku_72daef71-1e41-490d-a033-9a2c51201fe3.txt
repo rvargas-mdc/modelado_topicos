@@ -1,0 +1,5 @@
+Según la resolución, las infracciones denunciadas son:
+
+1. No adoptar medidas de seguridad en relación al comportamiento habitual de consumo del usuario (no corresponden a su patrón de consumo habitual) y como consecuencia de ello, cargar en la tarjeta de crédito del usuario un consumo no reconocido.
+
+2. No anular la deuda generada en la tarjeta de crédito del usuario por el consumo no reconocido.

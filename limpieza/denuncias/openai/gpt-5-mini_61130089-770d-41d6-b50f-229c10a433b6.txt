@@ -1,0 +1,4 @@
+Cajero automático no dispensó el importe total reclamado.
+Se debitó de la cuenta el importe no entregado.
+Recibió billetes de distinta denominación que los dispensados.
+Proporcionó nombres de colaboradores que ayudaron con reclamo.

@@ -1,0 +1,3 @@
+Consumos no reconocidos en tarjeta mediante Apple Pay.
+Falta de medidas de seguridad en tarjetas que permitieron pagos.
+Afiliación no autorizada de tarjeta a billetera Apple Pay.

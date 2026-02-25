@@ -1,0 +1,5 @@
+Banco: No aplicó medidas de seguridad.
+Banco: No brindó datos de establecimiento.
+Tambo: Permitió consumo sin verificar identidad.
+Cencosud: Permitió consumo sin verificar identidad.
+Mifarma: Permitió consumo sin verificar identidad.

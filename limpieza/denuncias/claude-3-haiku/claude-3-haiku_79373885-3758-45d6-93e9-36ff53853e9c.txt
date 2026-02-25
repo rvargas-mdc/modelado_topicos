@@ -1,0 +1,4 @@
+Cobro indebido de operaciones no reconocidas por el usuario.
+Tarjeta de crédito mantenida en poder del usuario.
+Falta de verificación de identidad del titular por el banco.
+Falta de activación de medidas de seguridad por operaciones inusuales.

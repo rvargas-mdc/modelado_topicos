@@ -1,0 +1,3 @@
+Operaciones no autorizadas en tarjeta de crédito.
+Falta de medidas de seguridad del banco.
+Cobro de operaciones no realizadas por el usuario.

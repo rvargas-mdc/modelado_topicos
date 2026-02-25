@@ -1,0 +1,11 @@
+Denuncia por cargo indebido en tarjeta de crédito.
+Sorprendida con llamada telefónica.
+Entrega de tarjeta a supuesto trabajador.
+Verificación de movimientos no efectuados.
+Falta de notificaciones de operaciones.
+Ausencia de políticas de seguridad.
+Operación en cajero con tarjeta y clave.
+Autenticación reforzada con PIN y chip.
+Control de seguridad PCI PIN.
+Notificación de operación al denunciante.
+Canal de operación habitual.

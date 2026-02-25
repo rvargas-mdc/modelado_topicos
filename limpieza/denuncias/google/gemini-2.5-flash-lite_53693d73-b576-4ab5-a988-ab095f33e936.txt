@@ -1,0 +1,2 @@
+- Realización de operaciones no reconocidas en cuenta de ahorros.
+- Bloqueo de tarjeta de débito sin autorización del usuario.

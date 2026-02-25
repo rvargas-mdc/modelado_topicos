@@ -1,0 +1,2 @@
+Contratación de seguro de tarjeta sin consentimiento del cliente.
+Cargos en tarjeta por seguro sin autorización del titular.

@@ -1,0 +1,4 @@
+1. Débito indebido de tres operaciones de la cuenta de ahorros del denunciante.
+2. Vulneración del sistema de seguridad que permitió a terceros suplantar la identidad del denunciante.
+3. Incumplimiento del deber de monitoreo y seguimiento de operaciones inusuales.
+4. Falta de bloqueo preventivo de la tarjeta y alerta oportuna al denunciante sobre las operaciones cuestionadas.

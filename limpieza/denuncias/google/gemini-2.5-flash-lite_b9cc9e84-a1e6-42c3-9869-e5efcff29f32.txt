@@ -1,0 +1,4 @@
+No anuló operaciones solicitadas.
+Operaciones realizadas con consentimiento de tercero.
+Denunciante facilitó acceso a cuenta.
+Banco no puede afectar fondos sin consentimiento.

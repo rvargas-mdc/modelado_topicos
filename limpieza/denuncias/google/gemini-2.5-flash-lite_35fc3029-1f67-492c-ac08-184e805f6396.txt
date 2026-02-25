@@ -1,0 +1,6 @@
+Préstamo personal no solicitado por el usuario.
+Apertura de cuenta sin autorización.
+Cobro de préstamo no solicitado.
+Reporte negativo en centrales de riesgo.
+Incumplimiento en brindar grabaciones de llamada.
+Cobros indebidos y excesivos.

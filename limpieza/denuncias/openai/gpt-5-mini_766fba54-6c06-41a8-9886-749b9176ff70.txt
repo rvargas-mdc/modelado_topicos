@@ -1,0 +1,4 @@
+Saldos reducidos a cero por transferencias no autorizadas
+Transferencias interbancarias entre cuentas propias no autorizadas
+Pagos a terceros vía aplicativo móvil no reconocidos
+Transferencia a cuenta desconocida desde aplicativo no reconocida

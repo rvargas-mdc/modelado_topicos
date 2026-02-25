@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de movimientos no reconocidos por el usuario en su tarjeta de crédito.
+Falta de medidas de seguridad por parte del banco para evitar dichos movimientos no reconocidos.
+Negativa del banco a extornar los cargos no reconocidos y retirar al usuario de registros de morosidad.

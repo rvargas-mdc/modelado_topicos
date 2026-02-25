@@ -1,0 +1,7 @@
+Cargo no reconocido en tarjeta de crédito por operación internacional.
+No notificación oportuna de la operación al titular.
+Falta de monitoreo y alerta ante consumo inusual.
+Tarjeta no habilitada para operaciones en el exterior.
+Titular mantuvo tarjeta bajo su custodia; no compartió claves.
+Entrega extemporánea del comprobante de presentación del reclamo.
+Cobro de intereses compensatorios mientras operación estaba en revisión.

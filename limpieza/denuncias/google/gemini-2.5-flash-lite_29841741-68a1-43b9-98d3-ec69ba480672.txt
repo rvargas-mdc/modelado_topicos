@@ -1,0 +1,6 @@
+Carga indebida de operación en tarjeta de crédito.
+No reconocimiento de operación por parte del usuario.
+Solicitud de información de tarjeta para no bloquearla.
+Pago de consumo cargado indebidamente.
+Solicitud de devolución de importe pagado.
+Solicitud de devolución de costas.

@@ -1,0 +1,3 @@
+Depósito y retiro no reconocidos por el usuario.
+Retiro con tarjeta no asignada al usuario.
+Incumplimiento de medidas de seguridad.

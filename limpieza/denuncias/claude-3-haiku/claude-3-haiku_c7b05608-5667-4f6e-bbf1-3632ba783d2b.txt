@@ -1,0 +1,9 @@
+1. Cobro de membresía no solicitada por el usuario.
+2. Inicio de procedimiento administrativo sancionador contra el banco.
+3. Presentación de escrito de descargos por el banco.
+4. Presentación de escrito de absolución de descargos por el usuario.
+5. Sanción al banco por infracción al Código de Protección y Defensa del Consumidor.
+6. Presentación de recurso de apelación por el banco.
+7. Presentación de escrito absolviendo recurso de apelación por el usuario.
+8. Solicitud de programación de Audiencia de Conciliación por el banco.
+9. Celebración de Audiencia de Conciliación con acuerdo entre las partes.

@@ -1,0 +1,3 @@
+Cobro duplicado de operación en tarjeta de crédito.
+No procesó devolución de cobro duplicado.
+Devolución se usó para amortizar crédito revolvente.

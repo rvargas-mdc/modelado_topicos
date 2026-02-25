@@ -1,0 +1,6 @@
+Hechos denunciados:
+
+Bloqueo de cuenta sin justificación.
+Realización de operaciones no reconocidas en cuenta en moneda extranjera.
+Realización de operaciones no reconocidas en cuenta en moneda nacional.
+Solicitud de devolución de montos sustraídos.

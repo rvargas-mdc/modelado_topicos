@@ -1,0 +1,6 @@
+Resumen de las infracciones denunciadas:
+
+Cobro indebido de membresía de tarjeta de crédito.
+Operaciones no reconocidas por el usuario en su tarjeta de crédito.
+Falta de adopción de medidas de seguridad para detectar operaciones no autorizadas.
+Cobro definitivo de operaciones cuestionadas pese a investigación.

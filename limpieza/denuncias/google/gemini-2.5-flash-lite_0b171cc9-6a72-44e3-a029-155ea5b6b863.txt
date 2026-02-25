@@ -1,0 +1,6 @@
+No adopción de medidas de seguridad pertinentes.
+Permitir operación no reconocida (transferencia).
+No revertir operación fraudulenta.
+No bloquear cuenta de destino de fondos.
+Permitir retiro de fondos de operación no reconocida.
+No brindar respuesta oportuna a reclamo.

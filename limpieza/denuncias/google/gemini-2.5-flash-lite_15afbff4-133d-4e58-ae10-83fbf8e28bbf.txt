@@ -1,0 +1,3 @@
+Banco cargó indebidamente una operación en tarjeta de crédito.
+Banco no atendió adecuadamente el reclamo del usuario.
+Interseguro se negó a brindar cobertura al siniestro.

@@ -1,0 +1,5 @@
+Hechos denunciados:
+
+Cobro de transferencias interbancarias no autorizadas por la usuaria.
+Transferencias interbancarias entre cuentas propias de la usuaria sin autorización.
+Transferencias a cuentas de terceros a través de PLIN sin autorización de la usuaria.

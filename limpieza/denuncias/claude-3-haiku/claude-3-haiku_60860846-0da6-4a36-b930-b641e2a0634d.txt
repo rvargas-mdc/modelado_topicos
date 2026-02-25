@@ -1,0 +1,4 @@
+1. Recepción de llamada telefónica de supuesto trabajador del banco ofreciendo nueva tarjeta de crédito.
+2. Realización de 3 operaciones no reconocidas por el usuario con cargo a su tarjeta de crédito.
+3. Falta de adopción de medidas de seguridad por parte del banco respecto a las operaciones no reconocidas.
+4. Desistimiento del usuario del procedimiento iniciado contra el banco.

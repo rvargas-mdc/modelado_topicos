@@ -1,0 +1,3 @@
+1. Retiros no reconocidos ni autorizados de cuenta del usuario.
+2. Solicitud de devolución de fondos indebidamente retirados.
+3. Solicitud de conclusión anticipada por desistimiento y transacción extrajudicial.

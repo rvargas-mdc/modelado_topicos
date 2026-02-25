@@ -1,0 +1,2 @@
+Retiros de efectivo no reconocidos por el usuario.
+Transacción extrajudicial entre usuario e Interbank.

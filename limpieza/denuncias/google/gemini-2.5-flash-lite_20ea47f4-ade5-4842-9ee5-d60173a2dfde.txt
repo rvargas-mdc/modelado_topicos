@@ -1,0 +1,5 @@
+Debitaron indebidamente operaciones de cuenta.
+Operaciones no reconocidas ni autorizadas por el usuario.
+Banco BCP se allana a imputación de cargos.
+Banco BCP desiste parcialmente de allanamiento.
+Operación realizada bajo modalidad Yape con otra entidad.

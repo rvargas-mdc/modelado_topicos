@@ -1,0 +1,4 @@
+Operaciones no reconocidas en cuentas bancarias.
+Falta de medidas de seguridad por el banco.
+Operación no reconocida en tarjeta de crédito.
+Cambio de límite transaccional en tarjeta de crédito.

@@ -1,0 +1,8 @@
+Carga indebida de operaciones en tarjeta de crédito.
+No acreditación de autorización de operaciones.
+Archivo de procedimiento por vulneración de seguridad.
+Archivo de procedimiento por operaciones inusuales.
+Archivo de procedimiento por no pérdida de tarjeta.
+Disposición de efectivo con cargo a tarjeta de crédito.
+Atribución indebida de deuda.
+Empleo de métodos comerciales coercitivos.

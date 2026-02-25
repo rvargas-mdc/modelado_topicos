@@ -1,0 +1,6 @@
+Realización de transferencias no reconocidas desde cuenta de agente.
+Cuenta de agente no permite realizar transferencias.
+Uso de tarjeta restringido a agencias del banco.
+Banco bloqueó la tarjeta tras la notificación.
+Verificó múltiples transferencias en la cuenta que no reconoce.
+Cuenta de uso exclusivo para operaciones de agente.

@@ -1,0 +1,5 @@
+Cargo no reconocido en tarjeta por operación con tarjeta adicional.
+Falta de verificación de identidad en la operación.
+No se envió alerta sobre operación inusual.
+Operación realizada con tarjeta adicional reportada como robada.
+Informaron posible anulación pese a bloqueo de tarjeta.

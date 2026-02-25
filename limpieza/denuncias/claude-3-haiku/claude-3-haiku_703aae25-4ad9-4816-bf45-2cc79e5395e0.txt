@@ -1,0 +1,5 @@
+Hechos denunciados:
+
+Cobro de préstamo personal no solicitado por el usuario.
+Realización de 21 operaciones no reconocidas con tarjeta de débito en cuenta de negocios.
+Realización de 3 operaciones no reconocidas con tarjeta de débito en cuenta de ahorros.

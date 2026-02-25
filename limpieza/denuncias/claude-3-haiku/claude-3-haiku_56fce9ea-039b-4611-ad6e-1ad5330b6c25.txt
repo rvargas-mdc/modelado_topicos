@@ -1,0 +1,2 @@
+1. Falta de medidas de seguridad en monitoreo y realización de operaciones.
+2. Operación no reconocida por el usuario y falta de información detallada sobre el monto.

@@ -1,0 +1,6 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de membresía no solicitada por el usuario.
+Cajero no dispensó efectivo pero descontó saldo.
+Falta de atención adecuada a reclamos del usuario.
+Negativa injustificada a confirmar titularidad de número telefónico.

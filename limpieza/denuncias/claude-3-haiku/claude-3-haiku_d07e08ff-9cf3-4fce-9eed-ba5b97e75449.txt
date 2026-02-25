@@ -1,0 +1,5 @@
+De la información proporcionada, se extraen las siguientes infracciones denunciadas:
+
+1. Cobro de deuda indebida reportada ante central de riesgos.
+2. Entrega de "Constancia de No Adeudo Parcial" pese a cancelación total de crédito.
+3. Negativa injustificada a entregar Carta de No Adeudo Total.

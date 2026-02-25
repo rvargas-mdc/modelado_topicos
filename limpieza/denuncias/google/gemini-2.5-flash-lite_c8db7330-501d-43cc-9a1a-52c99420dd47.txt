@@ -1,0 +1,2 @@
+Permitió operaciones no reconocidas en tarjeta de crédito.
+No cumplió medidas de seguridad en monitoreo.

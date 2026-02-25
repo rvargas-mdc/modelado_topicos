@@ -1,0 +1,2 @@
+1. Cobro de operaciones no reconocidas por el usuario en su cuenta de ahorros.
+2. Atribución indebida de un préstamo por S/ 3,000 a través de la aplicación Yape.

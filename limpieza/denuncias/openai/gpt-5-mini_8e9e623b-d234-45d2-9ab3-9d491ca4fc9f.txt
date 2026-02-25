@@ -1,0 +1,8 @@
+Bloqueo injustificado de cuenta de ahorros.
+Retiro indebido de fondos de la cuenta.
+Falta de respuesta al reclamo para disponer fondos.
+Falta de respuesta oportuna a reclamo presentado.
+Trato diferenciado respecto de otro cliente.
+No levantamiento del bloqueo pese a solicitud.
+No informar estado del levantamiento ni destino de fondos.
+Investigación declarada reservada sin comunicar resultados.

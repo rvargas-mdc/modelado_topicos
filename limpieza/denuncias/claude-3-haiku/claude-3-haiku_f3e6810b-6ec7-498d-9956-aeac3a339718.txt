@@ -1,0 +1,6 @@
+1. Cobro de membresía no solicitada por el usuario.
+2. Operación no reconocida por S/ 9000.00.
+3. Movimientos y compras no reconocidos por S/ 9250 y S/ 7000.
+4. Operaciones procesadas con supuesto consentimiento de la denunciante.
+5. Solicitud de cobertura de seguro ante operaciones fraudulentas por S/ 16 250.00.
+6. Desistimiento del procedimiento por parte del denunciado.

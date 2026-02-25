@@ -1,0 +1,5 @@
+Débitos no autorizados en cuenta de ahorros.
+Vulneración del sistema de seguridad y suplantación de identidad.
+Falta de monitoreo y seguimiento de operaciones por el banco.
+No bloqueo preventivo de la tarjeta ni alertas oportunas.
+Operaciones inusuales incongruentes con comportamiento habitual del consumidor.

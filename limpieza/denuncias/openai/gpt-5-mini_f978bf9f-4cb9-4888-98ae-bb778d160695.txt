@@ -1,0 +1,3 @@
+Cargos no reconocidos en tarjeta de crédito.
+Transacciones sin comunicación al titular ni solicitud de firma.
+Presunta omisión de medidas de seguridad por parte del banco.

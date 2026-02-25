@@ -1,0 +1,2 @@
+Devolución de monto de compra no realizada por el banco.
+Solicitud de devolución de dinero como medida correctiva.

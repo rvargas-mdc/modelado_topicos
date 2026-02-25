@@ -1,0 +1,3 @@
+Banco no adoptó medidas de seguridad.
+Realización de operaciones no reconocidas en cuenta.
+Atribución indebida de operación al consumidor.

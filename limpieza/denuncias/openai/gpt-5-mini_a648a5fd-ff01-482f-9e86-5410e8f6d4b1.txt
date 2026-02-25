@@ -1,0 +1,6 @@
+Cargos no autorizados en tarjeta de crédito.
+Banco no verificó identidad del titular.
+Robo de la tarjeta.
+Denunciante informó al banco antes de procesarse operaciones.
+Firma de un voucher no corresponde; otro voucher sin firma.
+Números de terminal y código de comercio no coinciden.

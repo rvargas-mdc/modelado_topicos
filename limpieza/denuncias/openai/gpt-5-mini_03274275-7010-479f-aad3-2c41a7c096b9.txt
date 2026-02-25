@@ -1,0 +1,3 @@
+Realización de operaciones no reconocidas con cargo a tarjeta
+Cargos registrados después de la baja de la tarjeta
+Falta de medidas de seguridad que impidan operaciones no autorizadas

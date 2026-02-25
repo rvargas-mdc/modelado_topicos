@@ -1,0 +1,2 @@
+Operaciones no autorizadas en cuenta de ahorros.
+Préstamo no reconocido atribuido al usuario.

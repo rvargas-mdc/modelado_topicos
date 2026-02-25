@@ -1,0 +1,2 @@
+1. Cobro de consumo no reconocido por el usuario.
+2. Falta de seguridad en la custodia de información personal y financiera del usuario.

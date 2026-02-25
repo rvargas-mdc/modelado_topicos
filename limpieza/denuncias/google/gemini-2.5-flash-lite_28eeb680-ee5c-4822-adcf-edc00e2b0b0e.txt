@@ -1,0 +1,7 @@
+Cargos indebidos en tarjeta de crédito no autorizados.
+No se activaron medidas de seguridad.
+No se verificó identidad del titular.
+No se realizó monitoreo de operaciones.
+No se alertó al usuario de operaciones.
+Operaciones inusuales y de montos elevados.
+Operaciones superan límites de uso cotidiano.

@@ -1,0 +1,2 @@
+Transacción en cuenta de ahorros no reconocida por el titular.
+Incumplimiento de medidas de seguridad en monitoreo de operaciones.

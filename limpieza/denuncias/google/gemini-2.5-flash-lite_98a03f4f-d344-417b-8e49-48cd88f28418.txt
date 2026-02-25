@@ -1,0 +1,3 @@
+"El banco no adoptó medidas de seguridad.
+Realizó operación no reconocida en cuenta sueldo.
+Atribuyó indebidamente operación no reconocida al denunciante."

@@ -1,0 +1,3 @@
+Transferencia no reconocida por el usuario.
+No se adoptaron medidas de seguridad.
+Operación no corresponde a patrón habitual.

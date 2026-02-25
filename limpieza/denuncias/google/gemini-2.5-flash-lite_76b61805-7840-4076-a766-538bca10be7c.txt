@@ -1,0 +1,3 @@
+Falta de procesamiento de pago.
+Identificar pago específico y tarjeta.
+Detallar reclamos y tipo de atención.

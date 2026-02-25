@@ -1,0 +1,8 @@
+Hechos denunciados:
+
+Robo de tarjeta de crédito y operación no reconocida por el usuario.
+Banco no bloqueó tarjeta ni inmovilizó cuenta a pesar de reporte de robo.
+Banco no atendió reclamo del usuario sobre operación no reconocida.
+Usuario no pudo visualizar respuesta del banco a su reclamo.
+Banco retuvo tiques de ingreso del usuario a plataforma.
+Usuario solicitó medida cautelar para congelar cobro de operación no reconocida.

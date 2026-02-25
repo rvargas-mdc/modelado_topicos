@@ -1,0 +1,7 @@
+1. Mediante Resolución Nº 1 de fecha 15 de abril de 2025 se inició un procedimiento administrativo sancionador contra el Banco por presunta infracción a lo establecido en los artículos 1° literal c), 18° y 19° del Código de Protección y Defensa del Consumidor (en adelante, el Código), en tanto habría debitado de la cuenta de ahorros N°191-7793****-*-33 del denunciante, el importe de S/ 2 000,00; pese a que el dinero no fue dispensado, pues cuando intentó realizar la operación en tres (03) cajeros automáticos ubicados en la Av. Argentina 2833 C.C Minka, en la pantalla de estos se registró el mensaje que "no podía acceder a ese monto", a pesar de que contaba con saldo suficiente en su cuenta de ahorros.
+
+**INFRACCIÓN DENUNCIADA:**
+
+Cajero debitó monto sin dispensar efectivo.
+Mensaje indicaba imposibilidad de acceder al monto.
+Usuario contaba con saldo suficiente disponible.

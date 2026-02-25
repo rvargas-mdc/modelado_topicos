@@ -1,0 +1,2 @@
+Débito indebido de tres operaciones no reconocidas en cuenta.
+Banco procesó operaciones pese a comunicación de no reconocimiento.

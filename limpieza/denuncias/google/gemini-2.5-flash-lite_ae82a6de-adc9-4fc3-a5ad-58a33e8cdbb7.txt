@@ -1,0 +1,3 @@
+No habría cumplido medidas de seguridad.
+Permitió operación no reconocida por el usuario.
+Habría debitado importes no autorizados.

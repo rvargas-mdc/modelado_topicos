@@ -1,0 +1,4 @@
+Debito indebido de operaciones en cuentas de ahorro.
+Operación en cuenta de dólares autorizada válidamente.
+Operaciones en cuentas de soles no autorizadas válidamente.
+Falta de demostración de autenticación reforzada en transferencias.

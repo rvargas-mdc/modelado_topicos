@@ -1,0 +1,7 @@
+Resumen de las infracciones denunciadas:
+
+Falta de mecanismos de seguridad idóneos implementados por el Banco.
+Corte intempestivo de la comunicación durante el proceso de bloqueo de tarjetas.
+Realización de operaciones no reconocidas a pesar de la solicitud de bloqueo.
+Falta de alerta por parte del Banco sobre las transacciones inusuales.
+Respuesta improcedente del Banco al reclamo presentado.

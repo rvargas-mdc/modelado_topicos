@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de operaciones no reconocidas en tarjeta de crédito.
+Cobro de operación no reconocida en cuenta de ahorros.
+Falta de medidas de seguridad idóneas para proteger los instrumentos bancarios del usuario.

@@ -1,0 +1,4 @@
+Cargos indebidos en tarjeta por operaciones no reconocidas
+Suplantación de identidad del titular
+Falta de monitoreo: no alertó ni bloqueó tarjeta
+Operaciones inusuales sin uso de clave digital ni token

@@ -1,0 +1,5 @@
+Debitaron indebidamente dos transferencias no reconocidas.
+Operaciones realizadas desde teléfono no registrado ni autorizado.
+Uso de autenticación biométrica sin autorización del titular.
+Desprotección de datos personales para inicio de sesión.
+Datos utilizados pese a no haber sido facilitados a terceros.

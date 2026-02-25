@@ -1,0 +1,4 @@
+Fraude informático con generación de préstamo.
+Préstamo transferido a tercero desconocido.
+Banco atribuye operación al usuario.
+Solicita investigación y anulación de préstamo.

@@ -1,0 +1,5 @@
+Infracciones al artículo 19° del Código.
+Transferencias bancarias no reconocidas.
+Acceso a banca móvil no autorizado.
+Uso de Clave Token Digital no reconocido.
+Generación de clave personal no realizada.

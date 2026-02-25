@@ -1,0 +1,6 @@
+Procesamiento indebido de consumo no concretado.
+Información errónea sobre devolución de importe.
+Cobro indebido de consumo no concretado.
+Solicitud de devolución de intereses cobrados.
+Subsanación de conducta infractora posterior a imputación.
+Intereses cobrados por demora en devolución.

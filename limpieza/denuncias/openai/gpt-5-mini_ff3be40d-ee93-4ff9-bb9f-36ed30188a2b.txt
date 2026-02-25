@@ -1,0 +1,3 @@
+Débitos no autorizados en cuenta asociada a tarjeta.
+Usuario alega haber sido víctima de robo y secuestro.
+Transacciones excedieron límite máximo de transferencias en app.

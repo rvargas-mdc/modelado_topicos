@@ -1,0 +1,7 @@
+Resumen de las infracciones denunciadas:
+
+Cobro indebido de operación en cuenta de ahorros.
+Permitir acceso a cuenta de ahorros sin autorización.
+Suplantación de identidad del usuario.
+Falta de bloqueo de tarjeta ante operación no reconocida.
+Incumplimiento de medidas de seguridad para transacciones bancarias.

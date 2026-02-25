@@ -1,0 +1,3 @@
+Denuncia por operaciones bancarias no reconocidas.
+Permitir consumos no reconocidos en tarjeta de crédito.
+Permitir consumos no reconocidos en cuenta de ahorros.

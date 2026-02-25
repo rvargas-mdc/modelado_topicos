@@ -1,0 +1,6 @@
+Débito no reconocido en cuenta de ahorros.
+Cargos no reconocidos en tarjeta de crédito.
+Operaciones con indicios de fraude por periodicidad y tipo comercio.
+Banco no alertó ni activó medidas preventivas.
+Banco no verificó identidad del titular.
+Aseguradora negó cobertura por cambiazo pese indicios uso indebido.

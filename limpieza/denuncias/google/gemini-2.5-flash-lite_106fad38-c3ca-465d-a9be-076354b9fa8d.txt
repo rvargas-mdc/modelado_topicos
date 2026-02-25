@@ -1,0 +1,4 @@
+Incumplimiento de ofrecimiento de bono de puntos.
+Traba para ingresar reclamos virtuales.
+Negación de libro de reclamaciones.
+Ocultamiento de enlace a libro de reclamaciones.

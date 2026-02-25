@@ -1,0 +1,6 @@
+Secuestro y robo de pertenencias incluyendo tarjeta débito.
+Retiros realizados con tarjeta sustraída no reconocidos por denunciante.
+Dos retiros no reconocidos efectuados en corto lapso.
+Operaciones fuera del patrón habitual de consumo.
+Banco no habría adoptado medidas de seguridad para detectar retiros.
+No activó bloqueo ni comunicación inmediata sobre operaciones sospechosas.

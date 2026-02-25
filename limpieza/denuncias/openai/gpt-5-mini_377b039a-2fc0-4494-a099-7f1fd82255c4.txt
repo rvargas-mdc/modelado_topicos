@@ -1,0 +1,6 @@
+Débito de operaciones no autorizadas en cuenta de ahorros
+Víctima de suplantación de identidad
+No utilizó clave ni token digital
+Banco no bloqueó tarjeta pese a operaciones inusuales
+Operaciones realizadas de forma sistemática en corto lapso
+Banco no presentó descargos tras notificación

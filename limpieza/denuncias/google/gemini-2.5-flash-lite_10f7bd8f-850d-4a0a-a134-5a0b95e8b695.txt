@@ -1,0 +1,13 @@
+Débito indebido en cuenta de ahorros.
+Operación no reconocida por el usuario.
+Posible suplantación de identidad.
+Falta de medidas de seguridad del banco.
+No bloqueo de tarjeta ante operación inusual.
+Prueba de autorización de operación cuestionada.
+Falta de idoneidad y seguridad en transacciones.
+Incumplimiento de Reglamento de Tarjetas.
+Incumplimiento de Reglamento de Ciberseguridad.
+Falta de autenticación reforzada en operación.
+No generación de código de autenticación único.
+No notificación de operación al usuario.
+Falta de monitoreo de operaciones inusuales.

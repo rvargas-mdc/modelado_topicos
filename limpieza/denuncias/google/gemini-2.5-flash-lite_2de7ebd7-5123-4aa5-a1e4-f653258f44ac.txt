@@ -1,0 +1,6 @@
+Debitado indebidamente de cuenta de ahorros.
+El usuario no reconoce la operación.
+Fue víctima de suplantación de identidad.
+No utilizó token ni perdió tarjeta.
+Banco no cumplió deber de monitoreo.
+Operación inusual, no acorde a su perfil.

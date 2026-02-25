@@ -1,0 +1,5 @@
+Debitado indebidamente una operación en cuenta de ahorros.
+No reconoce haber autorizado la operación.
+Beneficiario de transferencia con denuncia por fraude.
+Atendió de manera inadecuada el reclamo.
+Se deslindó de responsabilidad en la respuesta.

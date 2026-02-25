@@ -1,0 +1,6 @@
+Sustracción de dinero de cuenta bancaria.
+Operaciones no reconocidas sin compartir información.
+Banco respondió de manera no favorable.
+Reclamo no fue atendido favorablemente.
+Banco no adoptó medidas de seguridad pertinentes.
+No acreditó validez de operaciones no reconocidas.

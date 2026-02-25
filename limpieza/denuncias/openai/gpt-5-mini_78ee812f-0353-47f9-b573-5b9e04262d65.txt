@@ -1,0 +1,8 @@
+Débito indebido de múltiples giros desde cuenta de ahorros.
+Giros dispusieron la totalidad de los fondos de la cuenta.
+Giros cobrados en agencia del banco en otra ciudad distinta.
+Supuesta llamada de representante del banco solicitando información del trámite.
+Transacciones realizadas sin autorización ni reconocimiento del titular.
+No verificaron identidad del cobrador; no solicitaron DNI ni huella.
+Cobro por persona que suplantó identidad del titular.
+Acceso por terceros a la banca por internet con credenciales.

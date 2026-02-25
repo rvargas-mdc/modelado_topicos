@@ -1,0 +1,4 @@
+Depósitos de CTS dirigidos a cuenta de tercero por error
+Banco no verificó identidad ni alertó oportunamente del error
+Existencia de saldo recuperable en cuenta de tercero
+Apertura unilateral de cuenta y abono de CTS sin consentimiento

@@ -1,0 +1,14 @@
+Presión para desembolso inmediato del crédito sin plazo.
+Desembolso sin entrega de contrato ni cronograma de pagos.
+Desembolso sin conocimiento ni firma del contrato.
+Propuesta de firmar contrato con fecha anterior.
+Negación de pago anticipado por modalidad no informada.
+Propuesta de backdating del contrato tras desembolso indebido.
+Falta de respuesta oportuna a solicitud de pago anticipado.
+Inconsistencia entre personal del banco y gerente respecto acuerdos.
+Operaciones no reconocidas desde cuenta hacia cuentas desconocidas sin alerta.
+Dificultad para bloqueo inmediato de cuentas.
+Reclamo virtual interpuesto sin copia remitida.
+Solicitud de cambio de sectorista por actitud sospechosa.
+Respuesta del banco sin explicar ausencia de alerta en transacciones.
+Banco dejó de comunicarse tras reunión para firma de contrato.

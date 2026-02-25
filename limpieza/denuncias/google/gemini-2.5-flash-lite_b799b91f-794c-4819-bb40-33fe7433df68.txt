@@ -1,0 +1,4 @@
+Cargaron indebidamente una operación en tarjeta de crédito.
+La usuaria no reconoce la operación realizada.
+No se solicitó clave de seguridad token para confirmar.
+No se comunicó operación sospechosa o inusual.

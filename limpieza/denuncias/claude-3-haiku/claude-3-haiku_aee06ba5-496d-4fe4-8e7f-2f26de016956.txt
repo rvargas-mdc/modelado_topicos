@@ -1,0 +1,3 @@
+Cobro indebido de operación en tarjeta de crédito robada.
+Operación realizada sin verificar identidad del titular.
+Operación procesada pese a tarjeta bloqueada.

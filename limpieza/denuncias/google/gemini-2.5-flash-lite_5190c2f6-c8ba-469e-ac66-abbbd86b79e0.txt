@@ -1,0 +1,4 @@
+Debitado indebidamente de operaciones no reconocidas.
+Operaciones autorizadas pese a bloqueo de tarjeta.
+Víctima de asalto con acceso a cuenta y cambio de tarjeta.
+Víctima de secuestro con robo de pertenencias.

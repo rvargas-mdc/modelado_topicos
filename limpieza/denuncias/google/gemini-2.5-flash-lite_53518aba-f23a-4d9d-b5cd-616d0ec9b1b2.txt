@@ -1,0 +1,4 @@
+Transferencias no reconocidas por el usuario.
+Bloqueo de aplicativo bancario.
+Préstamo no reconocido por el usuario.
+Bloqueo de cuenta bancaria preventiva.

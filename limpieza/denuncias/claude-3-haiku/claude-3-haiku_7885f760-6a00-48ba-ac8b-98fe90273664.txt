@@ -1,0 +1,1 @@
+Cobro de importes debitados de la cuenta de ahorros sin registrar los reembolsos correspondientes.

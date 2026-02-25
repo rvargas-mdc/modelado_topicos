@@ -1,0 +1,3 @@
+Contratación de tarjeta de crédito no autorizada.
+Incorrecta validación biométrica durante la contratación.
+Contratación presencial en oficina distinta a residencia y trabajo.

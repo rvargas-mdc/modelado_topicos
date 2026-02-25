@@ -1,0 +1,7 @@
+Operaciones no reconocidas con tarjeta de crédito.
+Operaciones no reconocidas con tarjeta de débito.
+Estafa telefónica suplantando personal bancario solicitando datos confidenciales.
+Banco permitió procesamiento de compras pese a bloqueo solicitado.
+Banco anuló cuentas sin impedir transacciones fraudulentas.
+Banco no adoptó medidas de seguridad para proteger cuenta.
+Reclamo ante el banco declarado improcedente.

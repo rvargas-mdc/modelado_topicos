@@ -1,0 +1,4 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no autorizadas por el usuario.
+Vulneración del sistema de seguridad del banco.
+Falta de medidas de seguridad en operaciones inusuales.

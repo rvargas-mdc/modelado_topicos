@@ -1,0 +1,3 @@
+Cargo no reconocido en tarjeta de crédito
+Banco no adoptó medidas de seguridad pese a bloqueos
+Establecimiento no registra consumo a nombre de titular

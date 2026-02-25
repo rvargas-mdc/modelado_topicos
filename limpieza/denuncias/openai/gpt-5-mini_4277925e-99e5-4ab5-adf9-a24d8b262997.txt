@@ -1,0 +1,11 @@
+Robo de teléfono con aplicativos bancarios vinculados.
+Llamadas fraudulentas haciéndose pasar por el titular.
+Operaciones no reconocidas cargadas a tarjetas del consumidor.
+Permitir operaciones no reconocidas por falta de medidas de seguridad.
+Negativa a entregar grabaciones de llamadas solicitadas.
+No brindar detalle horario ni desglose de compras cuestionadas.
+Afirmar uso presencial pese a que tarjeta permaneció en posesión.
+Negar reembolso alegando cumplimiento de medidas de seguridad.
+Negar cobertura de seguro de protección de tarjetas sin justificación.
+No adjuntar póliza pese a afirmar su remisión.
+Reportar deuda no autorizada a centrales de riesgo.

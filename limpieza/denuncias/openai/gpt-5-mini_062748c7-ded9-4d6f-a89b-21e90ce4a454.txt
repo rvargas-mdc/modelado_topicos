@@ -1,0 +1,9 @@
+Cargos indebidos en tarjeta de crédito no reconocidos por titular
+Banco no comunicó claves por mensaje ni correo electrónico
+Titular sufrió clonación de teléfono
+Banco no realizó monitoreo y seguimiento de operaciones
+Operaciones no corresponden al patrón habitual de consumo
+Operaciones realizadas en horas inusuales
+Suplantación de identidad del titular
+No se verificó identidad ni uso de doble factor
+Solicita devolución del importe total cargado y costas

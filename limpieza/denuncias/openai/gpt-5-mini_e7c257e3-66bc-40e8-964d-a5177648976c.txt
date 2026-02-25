@@ -1,0 +1,2 @@
+Desembolso de préstamo a cuenta sin consentimiento ni alerta.
+Transferencias no autorizadas desde la cuenta.

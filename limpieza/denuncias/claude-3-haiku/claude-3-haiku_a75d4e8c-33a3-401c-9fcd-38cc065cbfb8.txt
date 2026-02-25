@@ -1,0 +1,4 @@
+Cobro indebido de operación en tarjeta de crédito no autorizada por el usuario.
+Alerta de movimiento inusual no atendida adecuadamente por el banco.
+Operación realizada sin uso de datos de tarjeta pese a estar en poder del usuario.
+Falta de notificación inmediata al usuario sobre la operación realizada.

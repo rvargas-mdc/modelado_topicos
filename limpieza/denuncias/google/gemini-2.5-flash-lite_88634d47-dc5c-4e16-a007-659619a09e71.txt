@@ -1,0 +1,6 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no autorizadas tras robo de tarjeta.
+No verificación de identidad y firma.
+Operaciones realizadas tras bloqueo de tarjeta.
+No entrega de vouchers de consumo.
+No atención de reclamos presentados.

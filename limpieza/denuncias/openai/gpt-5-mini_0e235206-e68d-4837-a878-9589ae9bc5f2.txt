@@ -1,0 +1,4 @@
+Cargo no reconocido con tarjeta inactiva.
+Banco no adoptó medidas de seguridad ante cargo fraudulento.
+Banco brindó información falsa sobre necesidad de activación.
+Comercio permitió operación sin verificar identidad ni firma.

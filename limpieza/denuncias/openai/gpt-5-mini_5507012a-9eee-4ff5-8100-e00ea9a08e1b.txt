@@ -1,0 +1,4 @@
+Depósito en cuenta no reconocido por el titular
+Retiro por ventanilla no reconocido del titular
+Retiro realizado con tarjeta no asignada al titular
+Manipulación de extractos de cuenta denunciada por el cliente

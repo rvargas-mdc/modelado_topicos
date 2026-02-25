@@ -1,0 +1,5 @@
+Debito indebido en cuenta de ahorros.
+Cajero automático presentó fallas.
+Cancelación de retiro, pero se realizó débito.
+Cajero devolvió tarjeta con número distinto.
+No hubo descuido en uso de tarjeta o claves.

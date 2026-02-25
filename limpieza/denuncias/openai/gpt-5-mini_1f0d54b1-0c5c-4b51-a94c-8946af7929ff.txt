@@ -1,0 +1,6 @@
+Autorización indebida de operación en tarjeta no reconocida
+No se verificó la identidad del titular
+Titular fue víctima de robo de su tarjeta
+Operaciones procesadas pese a comunicación de no reconocimiento
+Firma en voucher no pertenece al titular
+Voucher no consigna número de DNI

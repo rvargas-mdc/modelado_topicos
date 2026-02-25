@@ -1,0 +1,11 @@
+1. Mediante Resolución N° 1 del 17 de enero 2024, se inició un procedimiento administrativo sancionador contra el Banco, por presuntas infracciones a lo establecido en los artículos 1° literal c), 18° y 19° del Código de Protección y Defensa del Consumidor (en adelante, el Código), en tanto habría cargado indebidamente dos (2) operaciones en la tarjeta de crédito N° 5254-****-****-8570 del denunciante, las cuales no reconoce haber autorizado, pues: (i) no verificó la identidad del titular; (ii) fue víctima del robo de su tarjeta; (iii) se comunicó con el Banco e informó del robo de su tarjeta antes que se procesen las operaciones; (iv) la firma de uno de los vouchers no le corresponde y el otro carece de firma; y, (v) en los vouchers los números terminales de la tarjeta y el código del comercio que figura en la respuesta de su reclamo no coincide con el código del comercio:
+
+**Infracciones denunciadas:**
+
+Cargo indebido de operaciones no autorizadas.
+Falta de verificación de identidad del titular.
+Procesamiento de operaciones tras reporte de robo.
+Firma no correspondiente en voucher.
+Voucher sin firma del titular.
+Inconsistencia en números de tarjeta en vouchers.
+Inconsistencia en código de comercio en vouchers.

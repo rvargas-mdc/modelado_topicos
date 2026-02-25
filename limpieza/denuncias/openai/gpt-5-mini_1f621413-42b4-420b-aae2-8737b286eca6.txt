@@ -1,0 +1,2 @@
+Operaciones no autorizadas en tarjeta de crédito.
+Proveedor no aplicó medidas de seguridad necesarias.

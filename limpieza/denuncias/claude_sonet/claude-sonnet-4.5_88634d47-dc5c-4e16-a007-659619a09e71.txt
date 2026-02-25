@@ -1,0 +1,6 @@
+4219-****-****-7276--------------------Cargos indebidos en tarjeta de crédito robada.
+Operaciones sin verificar identidad ni firma autorizada.
+Consumos realizados pese a bloqueo de tarjeta.
+Transacciones ajenas al comportamiento habitual del usuario.
+Vouchers de consumos no entregados como sustento.
+Falta de atención a múltiples reclamos presentados.

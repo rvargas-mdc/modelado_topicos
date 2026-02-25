@@ -1,0 +1,3 @@
+Operación debitó fondos de la cuenta sin reconocimiento del titular.
+Banco no adoptó medidas de seguridad para validar la operación.
+Negación de cobertura del seguro de protección de tarjetas.

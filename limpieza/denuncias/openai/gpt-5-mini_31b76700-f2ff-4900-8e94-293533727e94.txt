@@ -1,0 +1,7 @@
+Retiros de efectivo en cajeros no reconocidos por el usuario.
+Falta de alertas y monitoreo ante operaciones atípicas.
+Banco negó acceso a grabaciones solicitadas por el denunciante.
+Banco informó imposibilidad de conservar videos por almacenamiento.
+Falta de cámaras en agencia del mall denunciada.
+Banco negó reintegro de los importes reclamados.
+Solicitud de certificación de credibilidad del video y explicaciones.

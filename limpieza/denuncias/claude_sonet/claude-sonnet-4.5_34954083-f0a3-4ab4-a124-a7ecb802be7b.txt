@@ -1,0 +1,3 @@
+Transferencia bancaria no reconocida por usuario.
+Falta de medidas de seguridad del banco.
+Operación realizada sin confirmación previa al cliente.

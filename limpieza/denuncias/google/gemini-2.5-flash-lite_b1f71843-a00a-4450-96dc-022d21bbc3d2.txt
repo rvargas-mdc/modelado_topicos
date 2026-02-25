@@ -1,0 +1,6 @@
+Cargó indebidamente operación en tarjeta de crédito no reconocida.
+No notificó oportunamente operación de tarjeta de crédito.
+No alertó operación inusual en tarjeta de crédito.
+Tarjeta no estaba afiliada a operaciones en el exterior.
+No entregó reporte de reclamo de manera oportuna.
+Cobró indebidamente intereses de operación no reconocida.

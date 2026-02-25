@@ -1,0 +1,8 @@
+Infracción por falta de medidas de seguridad.
+Permitir operaciones no reconocidas por el usuario.
+Transferencia de fondos no autorizada.
+Cobro de comisiones no reconocidas.
+Retiros en efectivo no reconocidos.
+Operaciones en ventanilla sin consentimiento.
+Uso de control biométrico cuestionado.
+Falta de idoneidad en servicios bancarios.

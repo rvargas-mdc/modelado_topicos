@@ -1,0 +1,4 @@
+Operaciones no reconocidas en tarjeta de crédito.
+Banco no adoptó medidas de seguridad.
+Banco no reportó ni emitió alertas de fraude.
+Banco respondió de manera negativa al reclamo.

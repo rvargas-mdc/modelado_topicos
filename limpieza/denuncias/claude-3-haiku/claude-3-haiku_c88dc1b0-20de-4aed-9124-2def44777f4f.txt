@@ -1,0 +1,3 @@
+Cobro indebido de operaciones no reconocidas por el usuario.
+Robo de celular y tarjeta del usuario.
+Débitos realizados mediante billetera GooglePay no afiliada ni utilizada por el usuario.

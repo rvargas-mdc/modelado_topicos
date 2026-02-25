@@ -1,0 +1,3 @@
+Permitir operaciones no reconocidas por el usuario.
+Devolución de operaciones no reconocidas.
+Devolución de costas y costos.

@@ -1,0 +1,11 @@
+Cargo indebido de operaciones en tarjeta de crédito.
+No acreditó mecanismos de ciberseguridad.
+Operaciones no reconocidas con tarjeta bloqueada.
+No atendió reclamos presentados.
+No acreditó ingreso y validación de clave OTP.
+Falta de motivación en la resolución.
+Operaciones realizadas con Clave Digital y doble factor.
+No analizó características de operaciones ni doble factor.
+Sistema de monitoreo de fraudes no activado.
+Operaciones corresponden a comportamiento habitual.
+Sanción impuesta sin razonabilidad ni proporcionalidad.

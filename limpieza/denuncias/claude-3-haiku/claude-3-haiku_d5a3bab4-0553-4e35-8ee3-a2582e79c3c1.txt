@@ -1,0 +1,9 @@
+1. Cobro indebido de dos operaciones en tarjeta de crédito del denunciante, las cuales no reconoce haber autorizado.
+
+2. El banco indica que las operaciones corresponden a compras por internet realizadas a través de la billetera digital Apple Pay, afiliada por el denunciante.
+
+3. El banco señala que no está obligado a enviar código de confirmación para operaciones realizadas mediante Apple Pay.
+
+4. Las operaciones se registraron normalmente en los sistemas del banco, con código de autorización y fueron notificadas al denunciante.
+
+5. Las operaciones se realizaron cuando la tarjeta de crédito estaba activa, y no hubo movimientos previos que hicieran presumir transacciones inusuales.

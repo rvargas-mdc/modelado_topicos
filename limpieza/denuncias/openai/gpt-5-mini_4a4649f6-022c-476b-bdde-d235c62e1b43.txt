@@ -1,0 +1,10 @@
+Débitos indebidos en cuenta por operaciones no reconocidas
+Bloqueo preventivo y posterior bloqueo definitivo de tarjeta
+Cambio de tarjeta sospechoso e inusual
+No entregó información de tarjeta ni clave secreta
+Operaciones atípicas, consecutivas e inmediatas, modalidad distinta
+Retiros de efectivo por importes considerables
+Banco no aplicó medidas de seguridad y monitoreo
+No acreditó autenticación con claves personales y secretas
+No realizó bloqueo temporal para evitar operaciones fraudulentas
+No alertó a la consumidora mediante mensajes, correos o llamadas

@@ -1,0 +1,10 @@
+Cargo indebido en tarjeta de crédito por operación no reconocida.
+Extravio de tarjeta de crédito denunciado al proveedor.
+Proveedor no atendió comunicación telefónica para bloqueo de tarjeta.
+Proveedor informó que operación estaba alertada pero luego la procesó.
+Falta de medidas de seguridad para prevenir uso fraudulento.
+Voucher contiene firma apócrifa que no acredita autorización.
+No se bloqueó preventivamente la tarjeta pese a alerta requerida.
+Registro tardío de la reclamación en hoja de reclamo.
+Aceptación indebida de desistimiento presentado fuera del plazo.
+Sistema de monitoreo no detectó inusualidad según denunciante.

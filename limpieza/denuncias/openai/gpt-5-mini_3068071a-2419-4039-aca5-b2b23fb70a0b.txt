@@ -1,0 +1,5 @@
+Cobro de intereses por disposición de efectivo en periodo breve.
+Aplicación de interés al principal en plan de cuotas.
+Distribución incorrecta de la primera cuota entre capital e intereses.
+Existencia de saldo pendiente del crédito no informado correctamente.
+Redireccionamiento de saldo a favor para cancelar saldo pendiente.

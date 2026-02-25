@@ -1,0 +1,6 @@
+Cargó indebidamente una operación en tarjeta de crédito.
+No verificó identidad del titular.
+No aplicó medidas de seguridad en monitoreo.
+No alertó ni solicitó consentimiento de operación atípica.
+Mantuvo teléfono y tarjeta en poder del usuario.
+Usuario fue víctima de suplantación ante operadora telefónica.

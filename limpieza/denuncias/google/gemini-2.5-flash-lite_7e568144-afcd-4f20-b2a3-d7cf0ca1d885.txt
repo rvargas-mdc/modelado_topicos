@@ -1,0 +1,3 @@
+Atribución de préstamo no contratado por el usuario.
+Operación no reconocida en cuenta de ahorros.
+Falta de medidas de seguridad para evitar operaciones no reconocidas.

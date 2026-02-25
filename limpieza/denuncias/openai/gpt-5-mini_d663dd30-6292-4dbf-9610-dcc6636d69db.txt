@@ -1,0 +1,4 @@
+Cargos en tarjeta de crédito no reconocidos por el consumidor
+Retiro en cajero automático no reconocido por el consumidor
+Disposición de efectivo por banca móvil no reconocida
+Afectación al historial crediticio por cargos no reconocidos

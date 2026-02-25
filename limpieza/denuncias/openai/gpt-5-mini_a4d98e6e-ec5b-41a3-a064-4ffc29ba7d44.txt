@@ -1,0 +1,9 @@
+Amortización aplicada como pago anticipado sin autorización.
+No se aplicó como pago adelantado lo depositado.
+No entregó nuevo cronograma de pagos tras la amortización.
+Se negó injustificadamente a revertir la operación.
+No informó cómo se iba a procesar el pago.
+No informó la diferencia entre pago anticipado y adelantado.
+No informó que no sería posible la reversión.
+No entregó nuevo estado de cuenta tras el pago.
+Recibió notificación de próxima cuota pese a haber pagado.

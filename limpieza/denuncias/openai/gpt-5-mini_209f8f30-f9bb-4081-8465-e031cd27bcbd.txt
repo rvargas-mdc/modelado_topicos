@@ -1,0 +1,7 @@
+Debitaron transferencias no autorizadas desde su cuenta.
+Procesadas pese a alerta y bloqueo de tarjeta.
+Realizadas desde un modelo de celular ajeno al titular.
+No se verificó identidad del titular de la cuenta destino.
+No se realizó llamada previa para comunicar las transacciones.
+No envió clave digital para confirmar las transferencias.
+Atención del reclamo inadecuada; respuesta sin motivación ni pruebas.

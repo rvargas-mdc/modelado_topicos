@@ -1,0 +1,3 @@
+Desembolso de préstamo sin consentimiento del usuario.
+Operaciones no reconocidas desde la cuenta del usuario.
+Solicitud de devolución de monto sustraído y pago por daño patrimonial.

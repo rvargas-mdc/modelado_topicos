@@ -1,0 +1,3 @@
+Cobro de seguro de desgravamen sin saldo deudor.
+Denegación del reclamo sobre el cobro de seguro.
+Respuesta copiada sin análisis y error en identificación del reclamo.

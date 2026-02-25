@@ -1,0 +1,4 @@
+Cobro indebido de operaciones en tarjeta de crédito sin autorización.
+Robo de equipo celular.
+Hackeo de cuenta de correo electrónico por terceros.
+Contraseña de aplicación bancaria no registrada en celular.

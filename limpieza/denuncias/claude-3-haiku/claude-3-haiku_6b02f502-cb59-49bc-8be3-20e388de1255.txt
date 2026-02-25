@@ -1,0 +1,3 @@
+Cargos indebidos en tarjeta de crédito sin autorización del usuario.
+Incumplimiento de medidas de seguridad por parte del banco.
+Falta de descargos del banco en el procedimiento.

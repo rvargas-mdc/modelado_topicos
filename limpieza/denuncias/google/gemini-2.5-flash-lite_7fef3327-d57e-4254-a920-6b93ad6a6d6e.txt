@@ -1,0 +1,4 @@
+Autorización indebida de operaciones con tarjeta de crédito.
+Operaciones no reconocidas por la denunciante.
+Bloqueo de tarjeta posterior a las operaciones.
+No verificación de identidad de la tarjetahabiente.

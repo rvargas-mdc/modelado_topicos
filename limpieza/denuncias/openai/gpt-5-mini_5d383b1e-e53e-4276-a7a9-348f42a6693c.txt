@@ -1,0 +1,7 @@
+Débito indebido de dos operaciones no autorizadas en cuenta.
+No verificó identidad del titular en las operaciones.
+No alertó ni solicitó confirmación sobre la primera operación.
+Operaciones no coinciden con comportamiento habitual de consumo.
+No brindó su clave a terceros.
+Primera operación no se realizó con tarjeta y clave.
+Atención inadecuada de reclamos presentados al banco.

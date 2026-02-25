@@ -1,0 +1,2 @@
+Cobro de operaciones no reconocidas por el usuario.
+Falta de información sobre datos del establecimiento donde se realizaron las operaciones no reconocidas.

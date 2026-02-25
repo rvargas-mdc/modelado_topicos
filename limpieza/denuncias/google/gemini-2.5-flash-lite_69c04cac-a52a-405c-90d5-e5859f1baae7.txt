@@ -1,0 +1,5 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no reconocidas por hurto de billetera.
+Incumplimiento de deber de monitoreo y alerta.
+Operaciones inusuales y fuera del comportamiento habitual.
+Falta de verificación de identidad del titular.

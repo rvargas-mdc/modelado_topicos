@@ -1,0 +1,7 @@
+Débito indebido de operación de cuenta no reconocida.
+Cobro indebido de cargos recurrentes sin autorización.
+Robo de tarjeta denunciado por titular de cuenta.
+Banco no informó al cliente sobre el movimiento.
+Falta de monitoreo y seguimiento de operaciones del banco.
+No activó alertas ni medidas preventivas ante actividad inusual.
+Operaciones calificadas como inusuales respecto a consumo habitual.

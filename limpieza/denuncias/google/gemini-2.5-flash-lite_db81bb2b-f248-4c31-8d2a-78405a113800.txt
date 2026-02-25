@@ -1,0 +1,6 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no reconocidas por el usuario.
+No se adoptaron medidas de seguridad.
+No se requirió PIN ni firma.
+No se pactó micropago.
+No se verificó identidad del titular.

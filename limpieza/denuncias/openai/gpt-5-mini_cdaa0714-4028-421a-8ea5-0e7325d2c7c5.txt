@@ -1,0 +1,8 @@
+Robo de tarjeta de crédito y múltiples operaciones no reconocidas.
+Operaciones realizadas sin aplicar doble autenticación requerida.
+Transacciones inusuales no coincidentes con patrón habitual de consumo.
+Falta de bloqueo preventivo de la tarjeta por el banco.
+Banco no notificó al cliente sobre las operaciones cuestionadas.
+Atribución indebida de tarjeta adicional sin autorización del titular.
+Respuestas a reclamos brindadas como no favorables e inadecuadas.
+Banco no respondió la carta notarial remitida por la denunciante.

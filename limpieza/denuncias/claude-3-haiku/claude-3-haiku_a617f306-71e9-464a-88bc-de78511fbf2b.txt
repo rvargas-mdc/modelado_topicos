@@ -1,0 +1,5 @@
+1. Cobro de operaciones no reconocidas en la cuenta de ahorros del usuario.
+2. Solicitud de devolución del dinero extraído y reembolso de tasa administrativa.
+3. Banco presentó descargos.
+4. Usuario se desistió del procedimiento y de las pretensiones formuladas.
+5. Banco solicitó conclusión anticipada del procedimiento por transacción extrajudicial con el denunciante.

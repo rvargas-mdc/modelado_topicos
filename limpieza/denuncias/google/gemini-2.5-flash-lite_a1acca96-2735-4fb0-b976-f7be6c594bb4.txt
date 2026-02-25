@@ -1,0 +1,2 @@
+Operaciones no reconocidas en tarjeta.
+Extornar/devolver importes de operaciones no reconocidas.

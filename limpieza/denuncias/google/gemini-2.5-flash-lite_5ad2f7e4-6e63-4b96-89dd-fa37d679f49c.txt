@@ -1,0 +1,4 @@
+Operación no reconocida con cargo a tarjeta de crédito.
+Falta de medidas de seguridad por parte del banco.
+Firma no correspondiente en comprobante de pago.
+Respuesta inadecuada a reclamo del consumidor.

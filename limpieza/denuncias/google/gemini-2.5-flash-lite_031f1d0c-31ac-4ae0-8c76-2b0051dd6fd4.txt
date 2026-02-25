@@ -1,0 +1,4 @@
+Banco no adoptó medidas de seguridad necesarias.
+Realización de operaciones bancarias no reconocidas por el usuario.
+Solicitud de extorno de monto y rectificación crediticia.
+Rectificación de error material en monto de imputación.

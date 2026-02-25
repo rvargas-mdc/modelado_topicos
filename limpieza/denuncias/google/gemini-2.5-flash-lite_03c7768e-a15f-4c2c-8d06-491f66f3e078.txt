@@ -1,0 +1,3 @@
+El Banco no adoptó medidas de seguridad.
+Permitió transferencia de dinero no autorizada.
+Solicita devolución de suma transferida.

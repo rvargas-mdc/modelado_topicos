@@ -1,0 +1,10 @@
+Comercial Yang denunció al Banco por presuntas infracciones.
+Se permitió el cobro de cheques no reconocidos.
+Se permitió el cobro de cheques con firma falsa.
+No se adoptaron medidas de seguridad pertinentes.
+No se emitieron alertas de cobro.
+Se permitió el cobro de cheques descontinuados.
+Se permitió el cobro de cheques sin secuencia numérica.
+Se permitió el cobro de cheques con firma falsificada.
+Se permitió el cobro de cheques adulterados.
+Se permitió el cobro de cheques sin correlación numérica.

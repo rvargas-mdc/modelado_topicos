@@ -1,0 +1,5 @@
+Cargos indebidos en tarjeta de crédito.
+Firma de vouchers no coincide con identidad.
+Banco no monitoreó operaciones inusuales.
+Atención extemporánea e inadecuada de reclamos.
+No reconocimiento de error en operaciones cuestionadas.

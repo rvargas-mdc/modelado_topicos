@@ -1,0 +1,9 @@
+Hurto de teléfono y tarjeta y operaciones no reconocidas.
+Operaciones no correspondían al patrón habitual de consumo.
+No se remitió clave dinámica de tarjeta para validar operaciones.
+Banco no adoptó medidas de seguridad; permitieron operaciones no reconocidas.
+Proveedor no adoptó medidas de seguridad; permitió operaciones no autorizadas.
+No retención provisional de transacciones por la entidad financiera.
+Atención inadecuada del reclamo por parte del banco.
+Banco intentó cobrar deuda producto del siniestro.
+Operaciones no reconocidas realizadas a través de plataforma Yape.

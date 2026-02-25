@@ -1,0 +1,5 @@
+Débito indebido de operaciones en cuenta de ahorros.
+Titular mantuvo tarjeta en su poder durante operaciones.
+Banco no verificó identidad del titular.
+Banco no activó medidas de seguridad ante operaciones inusuales.
+Operaciones no correspondían al comportamiento habitual de consumo.

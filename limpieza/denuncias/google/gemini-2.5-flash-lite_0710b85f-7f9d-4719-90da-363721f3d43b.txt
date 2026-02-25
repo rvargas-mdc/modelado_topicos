@@ -1,0 +1,6 @@
+Operación no reconocida en tarjeta de crédito.
+Falta de medidas de seguridad.
+Solicita extorno de monto, devolución de intereses.
+Solicita información de personal del banco.
+Solicita contratación de personal idóneo.
+Solicita pago de costas y costos.

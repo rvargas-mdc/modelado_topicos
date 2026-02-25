@@ -1,0 +1,4 @@
+Saga Falabella no otorgó beneficio de cuotas sin intereses.
+Banco Falabella cobró intereses no ofrecidos.
+Banco Falabella no implementó libro de reclamaciones virtual.
+Banco Falabella no brindó respuesta idónea al reclamo.

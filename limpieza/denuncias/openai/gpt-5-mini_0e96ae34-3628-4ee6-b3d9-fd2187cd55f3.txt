@@ -1,0 +1,4 @@
+Depósito no registrado correctamente por cajero automático.
+Cajero registró monto distinto al realmente ingresado.
+Cajero entregó dos vouchers, uno apareció en blanco.
+Tickets de atención carecen de horario impreso.

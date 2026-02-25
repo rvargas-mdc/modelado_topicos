@@ -1,0 +1,5 @@
+Cobro indebido de operaciones no reconocidas por el usuario en su tarjeta de crédito.
+Falta de verificación de identidad del titular.
+Víctima de robo de tarjeta de crédito.
+Firma en vouchers no corresponde al usuario.
+Datos de tarjeta y comercio en vouchers no coinciden con los informados.

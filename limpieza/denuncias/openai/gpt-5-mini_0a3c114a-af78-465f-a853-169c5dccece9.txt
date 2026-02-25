@@ -1,0 +1,6 @@
+Operación no reconocida cargada a cuenta de ahorros.
+Falta de medidas de seguridad frente a operación no reconocida.
+No se dio respuesta al reclamo del consumidor.
+Monitoreo y alertas no aplicados de manera idónea.
+Bloqueo de tarjeta efectuado tardíamente tras la operación.
+Fondos transferidos fueron retirados del banco receptor.

@@ -1,0 +1,4 @@
+Incumplimiento de oferta: no otorgó bono pese a cumplir consumo.
+Enlace al libro de reclamaciones dirige a chat, impidiendo reclamo.
+Negación de acceso al libro de reclamaciones por intermediación obligatoria.
+Ocultamiento del enlace del libro de reclamaciones en sitio web.

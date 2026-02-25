@@ -1,0 +1,7 @@
+Operaciones no reconocidas en cuentas bancarias.
+Permitir creación de contacto favorito indebidamente.
+No informar sobre operaciones realizadas.
+Operaciones con patrón de fraude.
+No responder a bloqueo de tarjetas.
+No brindar información de operaciones.
+No atender reclamos debidamente motivados.

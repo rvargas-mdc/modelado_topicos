@@ -1,0 +1,4 @@
+1. Cobro de préstamo personal no solicitado por el usuario.
+2. Falta de atención a la solicitud de anulación del préstamo personal.
+3. Ordenan al banco anular el préstamo personal y rectificar los reportes crediticios del usuario.
+4. El banco apela la resolución, argumentando que las medidas correctivas ordenadas no se sustentan en hechos acreditados.

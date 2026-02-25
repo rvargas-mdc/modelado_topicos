@@ -1,0 +1,5 @@
+Hechos denunciados:
+
+Operación no reconocida con cargo a tarjeta de crédito.
+Fraccionamiento indebido de importe no reconocido.
+Requerimiento de pago con amenaza de reporte a centrales de riesgo.

@@ -1,0 +1,2 @@
+Cobro de producto o servicio no solicitado por el usuario.
+Desistimiento de la denuncia.

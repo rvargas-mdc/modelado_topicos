@@ -1,0 +1,4 @@
+Operaciones no reconocidas en tarjeta de crédito.
+Conversión de operaciones a soles incrementando deuda.
+Negativa de aseguradora a cubrir siniestro.
+Negativa del banco a congelar deuda.

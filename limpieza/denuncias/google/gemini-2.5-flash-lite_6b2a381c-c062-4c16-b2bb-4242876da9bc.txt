@@ -1,0 +1,4 @@
+Debito indebido de cuenta de ahorros.
+Operación no reconocida por el usuario.
+Realizado sin consentimiento del titular.
+Cuenta de ahorros no asociada a cuenta de empresa.

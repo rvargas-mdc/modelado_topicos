@@ -1,0 +1,3 @@
+Operaciones no reconocidas en tarjeta de crédito.
+Falta de medidas de seguridad.
+Incumplimiento de notificación de operaciones.

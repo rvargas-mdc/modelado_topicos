@@ -1,0 +1,5 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no reconocidas en tarjeta de crédito.
+Incumplimiento de medidas de seguridad en operaciones.
+Demora en atención para bloqueo de tarjeta.
+Falsedad en información sobre dispositivo de operación.

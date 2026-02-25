@@ -1,0 +1,9 @@
+No ejecución de solicitud de desafiliación de débito automático.
+Cobro indebido de servicio no autorizado.
+Información inexacta brindada al consumidor.
+Reiteración de cobros indebidos tras allanamiento.
+Negativa a realizar desafiliación de débito automático.
+Cobro de seguro de desgravamen no solicitado.
+Continuación de cobros recurrentes pese a allanamiento.
+Responsabilidad de intermediario en afiliación/desafiliación.
+Perjuicio económico por cobros reiterativos.

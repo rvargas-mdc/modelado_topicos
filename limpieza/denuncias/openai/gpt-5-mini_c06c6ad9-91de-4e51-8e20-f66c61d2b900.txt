@@ -1,0 +1,4 @@
+Falta de medidas de seguridad que permitieron operaciones no reconocidas.
+Operación no reconocida con cargo a cuenta ahorro dólares.
+Operaciones no reconocidas con cargo a cuenta ahorro soles.
+Atención inadecuada o respuesta desfavorable al reclamo.

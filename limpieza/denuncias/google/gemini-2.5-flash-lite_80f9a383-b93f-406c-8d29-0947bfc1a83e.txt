@@ -1,0 +1,3 @@
+Falla en función de envío de dinero por PLIN.
+Fallas en aplicativo móvil para transferencias.
+Fallas en aplicativo móvil para cambio de clave.

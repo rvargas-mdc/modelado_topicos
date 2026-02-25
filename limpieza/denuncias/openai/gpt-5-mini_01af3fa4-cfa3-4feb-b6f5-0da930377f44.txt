@@ -1,0 +1,5 @@
+Falta de medidas de seguridad que permitieron cargos no autorizados
+Omisión de ordenar pago de intereses y gastos generados
+No retiro de reporte de deuda en centrales de riesgo
+No emisión de carta de no adeudo
+Error en la moneda consignada en la medida correctiva

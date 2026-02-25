@@ -1,0 +1,3 @@
+Débito indebido de operaciones no autorizadas.
+Cargo por compra POS no reconocida.
+Transferencia mediante Yape no autorizada.

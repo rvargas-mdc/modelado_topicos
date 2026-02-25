@@ -1,0 +1,3 @@
+1. Operación no reconocida por la usuaria con cargo a su tarjeta de crédito.
+2. Solicitud de devolución del consumo no reconocido y los intereses y comisiones generados.
+3. Solicitud de conclusión anticipada del procedimiento por desistimiento y transacción extrajudicial.

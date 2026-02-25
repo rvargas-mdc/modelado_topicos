@@ -1,0 +1,5 @@
+Cobro indebido de operaciones no reconocidas por la usuaria.
+Víctima de fraude por entrega de tarjeta a tercero.
+Banco no alertó a la usuaria sobre operaciones excesivas.
+Operaciones no corresponden al comportamiento habitual de consumo.
+Cobro de intereses compensatorios por operaciones fraudulentas.

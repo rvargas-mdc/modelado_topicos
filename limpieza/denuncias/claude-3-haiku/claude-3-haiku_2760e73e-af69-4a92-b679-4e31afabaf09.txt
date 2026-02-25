@@ -1,0 +1,4 @@
+1. Cobro indebido de operación en tarjeta de crédito no autorizada por la usuaria.
+2. Consumo por internet en tarjeta de crédito sin verificar identidad de la usuaria.
+3. Solicitud de reversión del monto cobrado, sanción, informe técnico, indemnización, medidas preventivas, suspensión de facturación y abstención de reporte en centrales de riesgo.
+4. Transacción extrajudicial y desistimiento del procedimiento y pretensiones por parte de la usuaria.

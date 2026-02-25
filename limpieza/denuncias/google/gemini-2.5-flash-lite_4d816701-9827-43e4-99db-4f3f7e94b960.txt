@@ -1,0 +1,4 @@
+Debito indebido de operaciones en cuenta.
+No se verificó identidad del titular.
+Debito indebido de operación en cuenta mancomunada.
+No se verificó identidad del titular.

@@ -1,0 +1,3 @@
+Cargos no reconocidos en tarjeta por operaciones sin autorización.
+Falta de verificación de titularidad y firmas en comprobantes.
+Reclamo atendido deficientemente; vouchers presentados no acreditan monto.

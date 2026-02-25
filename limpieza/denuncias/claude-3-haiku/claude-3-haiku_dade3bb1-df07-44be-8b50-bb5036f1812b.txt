@@ -1,0 +1,5 @@
+Cobro de operaciones no autorizadas por el usuario.
+Falta de adopción de medidas de seguridad por el banco.
+Devolución de montos por parte del banco.
+Allanamiento del banco respecto a una de las operaciones.
+Solicitud de imposición de amonestación al banco.

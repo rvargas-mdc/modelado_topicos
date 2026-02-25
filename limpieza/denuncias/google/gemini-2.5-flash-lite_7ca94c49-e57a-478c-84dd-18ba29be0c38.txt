@@ -1,0 +1,4 @@
+Cajero no contabilizó el dinero.
+Retuvo dinero del usuario.
+No entregó comprobante de operación.
+No ofreció servicio idóneo.

@@ -1,0 +1,5 @@
+Depósito de CTS a cuenta errónea por error en DNI.
+Banco no verificó datos personales del beneficiario.
+Banco no alertó oportunamente del error.
+Apertura unilateral de cuenta sin consentimiento.
+Solicitud de depósito de CTS e intereses.

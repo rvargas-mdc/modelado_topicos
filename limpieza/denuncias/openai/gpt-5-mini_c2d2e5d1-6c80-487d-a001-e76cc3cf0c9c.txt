@@ -1,0 +1,5 @@
+Rechazo indebido de compra de pasajes aéreos con tarjeta.
+Cargo indebido en tarjeta pese al rechazo de la compra.
+Procesamiento indebido por app de pago pese a rechazo.
+Incumplimiento de devolución del cargo realizado tras rechazo.
+Débito no autorizado de cuenta de ahorros para pago deuda.

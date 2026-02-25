@@ -1,0 +1,4 @@
+Renovación automática de depósito a plazo aplicando tasa mínima.
+Se aplicó interés muy inferior al informado en ventanilla.
+Cliente acudió al banco para retirar y abrir nuevo depósito.
+Renovación no debió proceder por haber solicitado apertura de depósito.

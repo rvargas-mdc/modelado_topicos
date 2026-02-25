@@ -1,0 +1,7 @@
+Cargos no autorizados en tarjeta de crédito del denunciante.
+No adoptó medidas de seguridad para detectar operaciones no autorizadas.
+Comunicó bloqueo de tarjeta pero cargos fueron igualmente aplicados.
+Llamada para evitar cobros no impidió cargos no reconocidos.
+Investigación comunicada no evitó que cargos aparecieran en estados.
+Comercios revirtieron montos pero cargos fueron recargados posteriormente.
+Reclamo ante autoridad no obtuvo solución favorable.

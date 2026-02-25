@@ -1,0 +1,9 @@
+Cobro de operaciones en tarjeta no reconocidas.
+Víctima de robo de tarjeta.
+Firmas de las operaciones no coinciden con titular.
+No se verificó la identidad del titular.
+No se activaron protocolos de seguridad ante operaciones inusuales.
+Operaciones presentaban indicios de fraude e inusualidad.
+Denegaron reversión del cargo sin sustento probatorio suficiente.
+Tardanza en entrega de vouchers que afectó derecho de defensa.
+No verificaron autenticidad de firmas ni contradicción en vouchers.

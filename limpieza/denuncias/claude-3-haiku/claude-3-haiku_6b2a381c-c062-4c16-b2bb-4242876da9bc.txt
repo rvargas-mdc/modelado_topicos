@@ -1,0 +1,3 @@
+Cobro indebido de operación no reconocida por el usuario.
+Débito de cuenta de ahorros sin consentimiento del usuario.
+Cuenta de ahorros no asociada a cuenta de empresa.

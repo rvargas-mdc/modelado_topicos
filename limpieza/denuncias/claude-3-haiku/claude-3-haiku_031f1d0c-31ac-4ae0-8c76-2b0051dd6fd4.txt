@@ -1,0 +1,7 @@
+1. Banco no adoptó medidas de seguridad necesarias.
+2. Operaciones bancarias cargadas a tarjeta de crédito no reconocidas por usuario.
+3. Solicitud de extorno de monto cargado y rectificación de calificación crediticia.
+4. Banco señala que operaciones se realizaron válidamente y con medidas de seguridad.
+5. Tarjeta de crédito estuvo activa al momento de las operaciones.
+6. Audiencia de conciliación sin asistencia del denunciante.
+7. Rectificación de error material en monto de imputación y medida correctiva.

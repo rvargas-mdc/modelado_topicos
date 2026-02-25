@@ -1,0 +1,8 @@
+Banco no permitió cancelar crédito.
+Banco no respondió oficio.
+Banco usó métodos abusivos de cobranza.
+Banco llamó a terceros ajenos a la obligación.
+Banco se apersonó al centro de trabajo.
+Grupo V&V usó métodos abusivos de cobranza.
+Grupo V&V llamó a terceros ajenos a la obligación.
+Grupo V&V se apersonó al centro de trabajo.

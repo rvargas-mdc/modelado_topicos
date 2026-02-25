@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de consumo no reconocido por la usuaria pese a haber rechazado la operación de manera inmediata.
+
+Falta de adopción de medidas de seguridad respecto de la operación no reconocida por la usuaria.

@@ -1,0 +1,7 @@
+Operaciones no reconocidas en tarjeta de crédito.
+Operaciones no reconocidas en cuenta de ahorros.
+Transacciones por banca móvil y cajeros automáticos.
+Operaciones incompatibles con patrón habitual de consumo.
+Ausencia de alertas en sistemas de monitoreo.
+Falta de medidas de seguridad idóneas en instrumentos bancarios.
+Permiso a terceros para materializar operaciones no reconocidas.

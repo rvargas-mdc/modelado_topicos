@@ -1,0 +1,4 @@
+Operaciones no autorizadas en cuentas de ahorro.
+No se adoptaron medidas de seguridad para detectar operaciones no autorizadas.
+Devolución parcial de montos no reconocidos.
+Demora excesiva en respuesta a reclamo.

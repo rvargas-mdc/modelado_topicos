@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cobro indebido de membresía no solicitada por el usuario.
+Cajero no dispensó efectivo pero descontó saldo de la cuenta.
+Demora en la devolución de importes retenidos indebidamente.

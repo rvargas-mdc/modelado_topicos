@@ -1,0 +1,3 @@
+Acceso no autorizado a Banca Móvil y transferencia no reconocida.
+Operación realizada fuera del patrón habitual de consumo.
+Falta de medidas de seguridad por parte del proveedor.

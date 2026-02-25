@@ -1,0 +1,4 @@
+Cobro continuado de cuotas de préstamo tras supuesta cancelación.
+Reporte negativo en central de riesgo por el préstamo.
+No entrega de adenda del contrato de préstamo.
+Adenda omitió periodo de gracia y costo de tasa fija.

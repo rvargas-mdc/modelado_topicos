@@ -1,0 +1,19 @@
+# RESUMEN DE INFRACCIONES DENUNCIADAS
+
+**Código del documento:** [No especificado en el texto]
+
+--------------------
+
+**Infracciones denunciadas:**
+
+Operación no reconocida cargada en tarjeta de crédito.
+
+Falta de medidas de seguridad y monitoreo.
+
+Operación inusual por monto mayor al habitual.
+
+Información incompleta sobre establecimiento donde se realizó operación.
+
+Omisión de datos del comercio en respuestas.
+
+====================

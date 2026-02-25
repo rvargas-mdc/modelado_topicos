@@ -1,0 +1,3 @@
+Transferencia no reconocida por el usuario.
+Falta de medidas de seguridad en la operación.
+Devolución de dinero transferido.

@@ -1,0 +1,3 @@
+Resumen de las infracciones denunciadas:
+
+Permitir operación con tarjeta de crédito no reconocida por el usuario, sin tomar medidas de seguridad pertinentes.

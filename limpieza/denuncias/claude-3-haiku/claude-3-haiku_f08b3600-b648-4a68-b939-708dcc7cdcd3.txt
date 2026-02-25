@@ -1,0 +1,7 @@
+Resumen de las infracciones denunciadas:
+
+Cobro indebido de 12 operaciones en la cuenta de ahorros del denunciante que no reconoce.
+Falta de verificación de la identidad del titular de la tarjeta.
+Realización de operaciones con datos de la tarjeta de débito del denunciante sin su autorización.
+Cobro de una compra por internet de S/ 2,407.90 realizada con los datos de la tarjeta de débito.
+Realización de 5 transferencias inmediatas a través de la banca por internet con el inicio de sesión correcto y uso de clave token digital.

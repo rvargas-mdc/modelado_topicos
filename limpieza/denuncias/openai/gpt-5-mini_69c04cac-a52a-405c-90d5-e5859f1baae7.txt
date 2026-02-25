@@ -1,0 +1,4 @@
+Cargo de operaciones en tarjeta no reconocidas por hurto.
+Falta de monitoreo y seguimiento de operaciones por el banco.
+No activó medidas de prevención ni emitió alertas ante operaciones.
+Ausencia de verificación telefónica de identidad del titular.

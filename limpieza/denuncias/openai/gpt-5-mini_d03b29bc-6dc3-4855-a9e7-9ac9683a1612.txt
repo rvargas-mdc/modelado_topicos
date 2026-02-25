@@ -1,0 +1,9 @@
+Operaciones no reconocidas en cajero automático con cargo a tarjeta.
+Cambiazo de tarjeta en agencia del banco.
+Falta de medidas de seguridad del banco.
+Negativa a entregar video de vigilancia oportunamente.
+Reclamo interpuesto no fue atendido por el banco.
+Requerimiento de información no atendido.
+Trato discriminatorio por falta de solución tras atención.
+No informaron motivo de reconocimiento parcial de operaciones.
+Solicita devolución de fondos retirados indebidamente.

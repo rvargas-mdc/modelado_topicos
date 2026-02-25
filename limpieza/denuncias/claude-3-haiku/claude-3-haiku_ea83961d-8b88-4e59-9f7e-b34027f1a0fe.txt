@@ -1,0 +1,5 @@
+Debitado indebidamente siete (7) operaciones de cuenta de ahorros sin autorización del usuario.
+Cargos recurrentes realizados el mismo día en corto tiempo.
+Servicios de gimnasio no forman parte de comportamiento habitual de consumo del usuario.
+Usuario no cuenta con servicio de token digital.
+Usuario no compartió datos con terceros ni descuidó manejo de tarjeta física.

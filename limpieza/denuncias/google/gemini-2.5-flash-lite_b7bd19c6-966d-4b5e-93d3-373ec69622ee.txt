@@ -1,0 +1,4 @@
+Transferencia no autorizada de fondos desde cuenta.
+Filtración de datos no autorizada de clientes.
+Reclamo desestimado por la entidad bancaria.
+Solicitud de devolución de fondos e intereses.

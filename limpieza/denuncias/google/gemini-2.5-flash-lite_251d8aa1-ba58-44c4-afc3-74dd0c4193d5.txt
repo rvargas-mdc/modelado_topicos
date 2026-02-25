@@ -1,0 +1,6 @@
+- Cuenta de ahorros bloqueada temporalmente.
+- Detección de transacciones no realizadas.
+- Solicitud de bloqueo de cuentas.
+- Devolución parcial de dinero sustraído.
+- Disconformidad con monto devuelto.
+- Solicitud de devolución total de dinero.

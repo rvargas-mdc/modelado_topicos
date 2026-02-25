@@ -1,0 +1,6 @@
+Débito indebido de múltiples retiros no autorizados en cuenta.
+Falta de medidas de seguridad en monitoreo y seguimiento.
+No bloqueo preventivo de tarjeta pese a operaciones inusuales.
+No aplicación de mecanismos de autenticación reforzada.
+Operaciones no corresponden al comportamiento habitual del consumidor.
+Operaciones realizadas de manera continua en breve lapso.

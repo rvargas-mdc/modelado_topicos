@@ -1,0 +1,5 @@
+Operaciones no reconocidas en cuenta de ahorros.
+Presunta falta de medidas de seguridad del banco.
+Transferencias interbancarias no autorizadas.
+Uso de clave digital dinámica para transacciones.
+Posible facilitación de acceso a terceros.

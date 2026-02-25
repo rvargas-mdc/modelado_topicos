@@ -1,0 +1,6 @@
+Operación no reconocida en billetera digital.
+Afiliación de tarjeta a billetera digital.
+Operación realizada posterior a afiliación.
+Tarjeta y billetera activas al momento de operación.
+Bloqueo de tarjeta y billetera posterior a operación.
+Notificación de operación al denunciante.

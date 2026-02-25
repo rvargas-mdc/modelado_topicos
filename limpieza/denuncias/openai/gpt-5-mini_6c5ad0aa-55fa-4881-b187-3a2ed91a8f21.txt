@@ -1,0 +1,5 @@
+Débito no reconocido en cuenta por retiro en cajero.
+Cajero presentó fallas exigiendo reingreso de datos.
+Usuario canceló operación y retiró su tarjeta.
+Cajero devolvió tarjeta con número distinto.
+Denunciante afirma no haber descuidado tarjeta ni claves.

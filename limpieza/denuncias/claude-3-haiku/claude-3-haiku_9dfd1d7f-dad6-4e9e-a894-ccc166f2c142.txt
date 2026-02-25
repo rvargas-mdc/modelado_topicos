@@ -1,0 +1,3 @@
+Cobro indebido de operaciones por suplantación de identidad.
+Incumplimiento del deber de monitoreo y seguimiento de operaciones.
+Operaciones no acordes al comportamiento habitual de consumo.

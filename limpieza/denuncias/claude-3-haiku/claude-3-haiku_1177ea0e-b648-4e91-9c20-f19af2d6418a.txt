@@ -1,0 +1,3 @@
+Cobro indebido de operación en tarjeta de crédito adicional sin verificar identidad del titular.
+Falta de alerta sobre operación inusual.
+Cargo de operación a tarjeta pese a bloqueo por robo de pertenencias.

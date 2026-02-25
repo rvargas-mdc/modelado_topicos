@@ -1,0 +1,4 @@
+Notificación telefónica de deuda desconocida al consumidor.
+Atribución indebida de créditos personales al consumidor.
+Atribución indebida de tarjeta de crédito al consumidor.
+No solicitó ni contrató servicios con la entidad financiera.

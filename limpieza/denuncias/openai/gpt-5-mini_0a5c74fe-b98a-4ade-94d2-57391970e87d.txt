@@ -1,0 +1,5 @@
+Autorización de operaciones en tarjeta de crédito no reconocidas.
+Tarjeta fue objeto de robo.
+Operaciones procesadas pese a comunicación de no reconocimiento.
+Firma en vouchers no pertenece al denunciante.
+Vouchers no consignan número de DNI.

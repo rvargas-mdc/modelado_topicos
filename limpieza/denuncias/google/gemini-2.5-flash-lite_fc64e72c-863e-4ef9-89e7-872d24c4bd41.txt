@@ -1,0 +1,8 @@
+Operaciones no reconocidas en tarjeta de crédito.
+Banco no adoptó medidas de seguridad.
+Atribución indebida de operaciones a la denunciante.
+Extorno parcial de montos por operaciones no reconocidas.
+Denuncia de operación no acreditada por la denunciante.
+Denuncia de operación no registrada por el banco.
+Allanamiento del banco a 33 operaciones.
+Ampliación de denuncia con nueva operación.

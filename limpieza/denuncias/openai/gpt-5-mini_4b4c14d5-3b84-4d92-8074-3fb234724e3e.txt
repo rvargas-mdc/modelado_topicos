@@ -1,0 +1,4 @@
+Débito indebido de operaciones en cuenta sin autenticación reforzada
+Falta de notificación de la realización de las operaciones
+Operaciones realizadas mediante Apple Pay que cliente nunca utilizó
+Robo cibernético por deficiencia en seguridad del banco

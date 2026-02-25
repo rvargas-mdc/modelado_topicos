@@ -1,0 +1,4 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de crédito Yape no solicitado por el usuario.
+Atribución de crédito Yape por S/7,200.00 sin autorización del usuario.

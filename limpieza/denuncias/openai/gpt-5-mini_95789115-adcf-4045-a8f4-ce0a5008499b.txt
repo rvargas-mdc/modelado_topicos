@@ -1,0 +1,8 @@
+Amortización aplicada al préstamo equivocado pese a solicitud.
+No se detalló la deuda real del primer préstamo.
+Pago dirigido a línea incorrecta pese a instrucción.
+Modificación unilateral de la tasa efectiva anual sin consentimiento.
+Reducción unilateral del número de cuotas sin consentimiento.
+Amortización aplicada sin consultar efecto sobre cuotas.
+Registro como reenganche en vez de nuevo préstamo.
+Atención inadecuada a reclamos presentados por la consumidora.

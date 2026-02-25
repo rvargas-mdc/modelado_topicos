@@ -1,0 +1,3 @@
+Debitado indebidamente de operaciones no autorizadas.
+Operaciones inusuales y no reconocidas por el usuario.
+Vulneración del sistema bancario para realizar transferencias.

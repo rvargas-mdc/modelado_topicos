@@ -1,0 +1,5 @@
+Falta de medidas de seguridad en operaciones bancarias.
+Operaciones realizadas con tarjeta de débito no reconocidas.
+Solicitud de devolución de transferencias indebidas.
+Reconocimiento de operaciones y desbloqueo de tarjeta.
+Afiliación de tarjeta a billetera digital para operaciones.

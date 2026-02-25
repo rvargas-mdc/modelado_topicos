@@ -1,0 +1,5 @@
+1. Cobro de préstamo no solicitado por el usuario.
+2. Hechos no revelados explícitamente.
+3. Negación de conductas imputadas por falta de medios probatorios.
+4. Firma de documentos de préstamo por el usuario.
+5. Uso de control biométrico en operación cuestionada.

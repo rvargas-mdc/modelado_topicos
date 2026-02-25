@@ -1,0 +1,4 @@
+Cobro indebido de operación no autorizada por el usuario.
+Bloqueo preventivo de operación no reconocida por el usuario.
+Allanamiento del Banco a la imputación de cargos.
+Presentación de estado de cuenta por el usuario.

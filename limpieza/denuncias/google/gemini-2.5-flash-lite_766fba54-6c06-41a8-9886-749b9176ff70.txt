@@ -1,0 +1,4 @@
+Reducción de saldos bancarios a cero sin autorización.
+Transferencias interbancarias no reconocidas por el usuario.
+Transferencias a terceros y vía PLIN no autorizadas.
+Transferencias interbancarias no reconocidas en Interbank.

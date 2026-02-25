@@ -1,0 +1,4 @@
+Consumo no reconocido cargado a tarjeta de crédito del titular.
+Falta de adopción de medidas de seguridad por el banco.
+No se verificó la identidad del titular en la operación.
+Titular siempre tuvo la tarjeta en su poder.

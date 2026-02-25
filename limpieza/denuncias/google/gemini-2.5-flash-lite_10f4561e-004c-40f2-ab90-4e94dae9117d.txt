@@ -1,0 +1,6 @@
+Debito indebido de operación en cuenta de ahorros.
+Operación autorizada sin claves digitales.
+Operación realizada desde dispositivo ajeno.
+Debito indebido de operación en cuenta de ahorros.
+Operación autorizada sin claves digitales.
+Operación realizada desde dispositivo ajeno.

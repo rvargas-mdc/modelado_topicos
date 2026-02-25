@@ -1,0 +1,4 @@
+1. Transferencia de US$ 206 548.59 no recibida por proveedor.
+2. Débito de US$ 21.00 por error en transferencia.
+3. Falta de respuesta del banco sobre estado de transferencia.
+4. Solicitud de devolución de monto transferido y asunción de gastos generados.

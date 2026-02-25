@@ -1,0 +1,4 @@
+1. Transferencia de dinero no autorizada por el usuario a terceros.
+2. Solicitud de devolución del monto transferido.
+3. Allanamiento del Banco a la imputación.
+4. Inasistencia del Banco a la audiencia de conciliación.

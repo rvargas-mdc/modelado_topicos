@@ -1,0 +1,2 @@
+Operaciones no reconocidas con tarjeta de crédito.
+Falta de medidas de seguridad para prevenir operaciones.

@@ -1,0 +1,3 @@
+Cobro indebido de tres operaciones en tarjeta de crédito no reconocidas por la usuaria.
+Operaciones no corresponden con comportamiento habitual de consumo.
+Identidad de la usuaria no verificada al momento de las operaciones.

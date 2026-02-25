@@ -1,0 +1,2 @@
+1. Cobro de operaciones no reconocidas por el usuario en cuenta de ahorros y tarjeta de crédito.
+2. Respuesta "poco coherente" al reclamo del usuario.

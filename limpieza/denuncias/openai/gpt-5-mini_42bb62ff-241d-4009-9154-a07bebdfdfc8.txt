@@ -1,0 +1,2 @@
+Permitir operaciones no reconocidas y débitos en tarjeta.
+No adoptar medidas de seguridad adecuadas para proteger la cuenta.

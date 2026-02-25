@@ -1,0 +1,4 @@
+Rechazo indebido de compra de pasajes aéreos.
+Cargo indebido por compra rechazada.
+No devolución de importe cargado.
+Débito indebido de cuenta de ahorros sin consentimiento.

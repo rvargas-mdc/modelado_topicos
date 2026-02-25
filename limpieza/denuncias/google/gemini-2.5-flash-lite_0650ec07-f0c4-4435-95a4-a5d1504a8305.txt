@@ -1,0 +1,4 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no autorizadas por fraude.
+Banco no alertó sobre operaciones.
+Intereses cobrados por operaciones no reconocidas.

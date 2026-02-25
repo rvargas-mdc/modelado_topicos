@@ -1,0 +1,2 @@
+1. Atribución al denunciante de contratación de tarjeta de crédito no autorizada.
+2. Falta de validación biométrica correcta en contratación presencial, pese a que el denunciante radica en Lima.

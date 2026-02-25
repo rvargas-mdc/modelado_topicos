@@ -1,0 +1,8 @@
+Permitir operaciones no reconocidas con cargo a tarjeta.
+Imposibilidad de comunicarse telefónicamente con el banco.
+Bloqueo de tarjeta solicitado no fue efectivo de inmediato.
+Reclamo inicial atendido de forma insatisfactoria; no remitieron verificación.
+Segundo reclamo por operaciones no recibió respuesta.
+Envío de cartas de cobranza calificadas como 'amenazantes'.
+Intentos de comunicación telefónica posteriores sin recibir respuesta.
+Omisión de presentar pruebas que acrediten las transacciones.

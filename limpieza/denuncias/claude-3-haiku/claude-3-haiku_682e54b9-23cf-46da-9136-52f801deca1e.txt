@@ -1,0 +1,9 @@
+Cobro indebido de operación no reconocida por la usuaria.
+Robo de equipo celular de la usuaria.
+Falta de activación de alerta por operación inusual.
+Demora en comunicación sobre realización de operación.
+Alegación de negligencia de la usuaria por robo de celular.
+Alegación de operación dentro de comportamiento habitual de la usuaria.
+Alegación de limitaciones del sistema de monitoreo del banco.
+Alegación de cumplimiento de procedimientos de seguridad por el banco.
+Notificación de operación a correo electrónico de la usuaria.

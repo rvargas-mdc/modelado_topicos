@@ -1,0 +1,5 @@
+Cobro de operaciones con tarjeta de crédito adicional no autorizada por la denunciante.
+Tarjeta de crédito robada.
+Operaciones procesadas pese a bloqueo de tarjetas.
+Identidad de tarjetahabiente no verificada.
+Tarjeta no bloqueada oportunamente pese a operaciones irregulares.

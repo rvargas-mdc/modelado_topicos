@@ -1,0 +1,7 @@
+Débito indebido en cuenta de ahorros.
+Operación no reconocida por el usuario.
+Incumplimiento del Reglamento de Ciberseguridad.
+Operación realizada en página web de terceros.
+Ingreso manual de numeración de tarjeta.
+Uso de sistema VCAS By Pass.
+No aplicabilidad del Reglamento de Ciberseguridad.

@@ -1,0 +1,1 @@
+1--------------------Atribución indebida de préstamo no reconocido por el usuario.====================1--------------------No recibió el préstamo.====================1--------------------Apellido y dirección no coinciden.====================1--------------------No firmó ni colocó huella.

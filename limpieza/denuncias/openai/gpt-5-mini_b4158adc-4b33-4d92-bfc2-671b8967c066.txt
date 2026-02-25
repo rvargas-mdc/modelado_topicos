@@ -1,0 +1,2 @@
+Cargo no reconocido en tarjeta por falta de seguridad
+Omisión de identificación del establecimiento en respuestas del banco

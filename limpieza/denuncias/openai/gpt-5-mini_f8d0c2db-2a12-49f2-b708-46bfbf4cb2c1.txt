@@ -1,0 +1,2 @@
+Cobro duplicado en tarjeta de crédito.
+Devolución no procesada; aplicada para amortizar crédito revolvente.

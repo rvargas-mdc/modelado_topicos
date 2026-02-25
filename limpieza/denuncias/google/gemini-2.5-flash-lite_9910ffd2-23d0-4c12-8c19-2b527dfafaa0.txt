@@ -1,0 +1,4 @@
+Consumo vía internet no reconocido por el usuario.
+Devolución de pago por deuda no reconocida.
+Falta de medidas de seguridad en transacciones.
+Ingreso de clave secreta para operación denunciada.

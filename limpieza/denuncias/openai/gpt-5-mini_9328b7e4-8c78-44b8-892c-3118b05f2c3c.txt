@@ -1,0 +1,4 @@
+Cargos no autorizados en tarjeta de crédito.
+Incumplimiento de medida correctiva: no extornar consumos.
+No remisión del estado de cuenta que contenía consumos.
+Devolución parcial o discrepante respecto a consumos cuestionados.

@@ -1,0 +1,6 @@
+Tarjeta de crédito bloqueada sin justificación.
+Consumo sospechoso no prevenido por el banco.
+Filtración de información personal y financiera.
+Realización de operación no reconocida por el usuario.
+Negativa a cancelar compra fraudulenta.
+Solicitud de reversión de operación no reconocida.

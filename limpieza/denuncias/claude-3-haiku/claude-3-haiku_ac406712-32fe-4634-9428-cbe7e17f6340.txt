@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cargo indebido de operaciones con tarjeta de crédito sin acreditar mecanismos de seguridad.
+Realización de operaciones no reconocidas a pesar de que la tarjeta se encontraba bloqueada.
+Falta de atención a reclamos presentados por el consumidor.

@@ -1,0 +1,11 @@
+Operaciones no reconocidas en tarjeta de crédito.
+No se pudo comunicar con el banco.
+Tarjeta bloqueada con demora.
+Reclamo no atendido satisfactoriamente.
+No se brindó respuesta a reclamo.
+Cartas de cobranza amenazantes.
+No se acreditó validez de operaciones.
+No se acreditó comunicación con el banco.
+Reclamo del 12 de junio fue atendido.
+Reclamo del 30 de junio fue respondido.
+Cartas de cobranza no fueron amenazantes.

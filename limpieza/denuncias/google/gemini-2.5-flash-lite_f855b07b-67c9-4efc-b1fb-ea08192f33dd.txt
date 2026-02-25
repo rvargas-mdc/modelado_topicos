@@ -1,0 +1,3 @@
+Operación no reconocida en tarjeta de crédito.
+Fraccionamiento indebido de deuda sin autorización.
+Cobro de deuda con amenazas de reporte a centrales de riesgo.

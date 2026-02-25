@@ -1,0 +1,12 @@
+Debitaron operación en cuenta de ahorros no reconocida.
+No se reconoce operación bancaria realizada.
+El banco debió alertar de consumo inusual.
+La operación se realizó con datos sensibles de tarjeta.
+El denunciante es responsable del cuidado de su tarjeta.
+La operación se realizó con ingreso de código CVV.
+La operación fue cargada a la cuenta de ahorros.
+La tarjeta se encontraba activa al momento de la operación.
+Se utilizaron datos sensibles y token digital.
+El patrón de fraude no mostraba características sospechosas.
+Se notificó al usuario los detalles de la operación.
+La multa impuesta presenta motivación defectuosa.

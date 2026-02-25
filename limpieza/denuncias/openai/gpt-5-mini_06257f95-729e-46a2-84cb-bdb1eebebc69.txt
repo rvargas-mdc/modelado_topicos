@@ -1,0 +1,3 @@
+Bloqueo de cuentas por periodo excesivo.
+Falta de notificación al titular sobre el bloqueo.
+Afirmación falsa de la entidad sobre haber notificado.

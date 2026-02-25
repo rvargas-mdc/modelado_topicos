@@ -1,0 +1,2 @@
+Cargo no autorizado en tarjeta por falta de seguridad bancaria.
+Filtración de datos personales y financieros por parte del banco.

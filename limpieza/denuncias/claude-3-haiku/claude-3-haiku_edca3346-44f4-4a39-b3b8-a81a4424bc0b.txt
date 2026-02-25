@@ -1,0 +1,4 @@
+1. Cobro de transferencias no autorizadas por el usuario a cuentas de terceros.
+2. Falta de medidas preventivas del banco para monitorear operaciones inusuales y evitar fraudes.
+3. Falta de un protocolo del banco para atender casos de fraude y recuperar fondos de los clientes.
+4. Recuperación parcial de los fondos transferidos de manera fraudulenta.

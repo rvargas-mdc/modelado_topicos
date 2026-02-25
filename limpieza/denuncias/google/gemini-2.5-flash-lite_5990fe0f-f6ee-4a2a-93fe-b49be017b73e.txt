@@ -1,0 +1,4 @@
+Transferencia no reconocida a terceros.
+Falta de medidas de seguridad del banco.
+Operación realizada sin autorización del usuario.
+Posible fraude digital tipo "Fishing".

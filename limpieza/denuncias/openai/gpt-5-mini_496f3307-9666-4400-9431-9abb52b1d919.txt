@@ -1,0 +1,2 @@
+Cargo no reconocido en tarjeta por falta de medidas seguridad
+No verificación de identidad del titular pese a tener tarjeta

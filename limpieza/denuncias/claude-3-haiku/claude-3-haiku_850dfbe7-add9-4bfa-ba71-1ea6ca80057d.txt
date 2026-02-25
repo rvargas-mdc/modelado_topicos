@@ -1,0 +1,2 @@
+Operaciones no reconocidas con cargo a tarjeta de débito.
+Falsificación de firma en crédito no solicitado.

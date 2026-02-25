@@ -1,0 +1,3 @@
+Operaciones no autorizadas en cuenta bancaria.
+Falta de medidas de seguridad para evitar operaciones.
+Devolución de montos cobrados indebidamente.

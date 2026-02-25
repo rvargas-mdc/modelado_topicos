@@ -1,0 +1,8 @@
+Operaciones no reconocidas en cuenta corriente.
+Operaciones no reconocidas en cuenta de depósitos.
+Respuesta insuficiente a reclamo.
+Respuesta inadecuada a reclamo.
+Negligencia del usuario al acceder a link sospechoso.
+Operaciones realizadas con inicio de sesión y clave token.
+Falta de medidas de seguridad accesorias.
+Falta de segundo método de autenticación.

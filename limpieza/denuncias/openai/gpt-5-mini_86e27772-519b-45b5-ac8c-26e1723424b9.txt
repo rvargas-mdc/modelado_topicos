@@ -1,0 +1,2 @@
+Banco no adoptó medidas de seguridad para operaciones.
+Tres operaciones en tarjeta de crédito no reconocidas por usuario.

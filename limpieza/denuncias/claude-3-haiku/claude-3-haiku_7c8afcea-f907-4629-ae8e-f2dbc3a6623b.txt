@@ -1,0 +1,5 @@
+1. Cobro indebido de "Mantenimiento Tarjeta Empresa Certificada" no solicitado por el usuario.
+
+2. Cuestionamiento de validez de notificación de resolución.
+
+3. Denegación de solicitud de nulidad de notificación de resolución.

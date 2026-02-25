@@ -1,0 +1,3 @@
+Débito indebido en cuenta; transferido a una única persona.
+Débitos indebidos fraccionados desde dólares; transferidos a misma persona.
+Banco no bloqueó débitos fraccionados desde cuentas dólares.

@@ -1,0 +1,4 @@
+No entrega de contrato de préstamo.
+No entrega de contrato de seguro de desgravamen.
+Negativa de cobertura de seguro de desgravamen.
+Incumplimiento de remisión de información de seguro.

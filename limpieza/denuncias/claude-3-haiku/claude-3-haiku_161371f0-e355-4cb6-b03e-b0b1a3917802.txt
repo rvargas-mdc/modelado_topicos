@@ -1,0 +1,4 @@
+1. Cobro de membresía no solicitada por el usuario.
+2. Realización de operaciones no autorizadas en la cuenta bancaria del usuario.
+3. Sustracción de dinero de la cuenta bancaria del usuario.
+4. Solicitud de devolución del dinero sustraído de la cuenta bancaria.

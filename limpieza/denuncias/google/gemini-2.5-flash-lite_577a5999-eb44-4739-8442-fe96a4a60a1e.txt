@@ -1,0 +1,5 @@
+Operaciones no reconocidas en tarjeta de débito.
+Incumplimiento en ejecución de seguro de tarjeta.
+No reporte de siniestro a aseguradora.
+Negativa injustificada de cobertura de seguro.
+No entrega de documentos contractuales de seguro.

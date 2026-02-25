@@ -1,0 +1,5 @@
+Hechos denunciados:
+
+Cobro de operaciones no reconocidas por el usuario.
+Banco no retuvo los importes de las operaciones no reconocidas.
+Banco no brindó el historial de transacciones de la cuenta de destino.

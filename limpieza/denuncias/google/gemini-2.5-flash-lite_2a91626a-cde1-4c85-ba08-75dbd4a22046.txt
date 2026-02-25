@@ -1,0 +1,4 @@
+Robo bancario de sumas de dinero.
+No se notificó de las transacciones.
+Banco no adoptó medidas de seguridad.
+Atribución indebida de operaciones no reconocidas.

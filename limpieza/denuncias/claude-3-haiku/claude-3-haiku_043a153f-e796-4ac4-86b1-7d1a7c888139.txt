@@ -1,0 +1,5 @@
+Según la resolución, las infracciones denunciadas son:
+
+Cobro de membresía no solicitada por el usuario.
+Envío de dos estados de cuenta por una misma tarjeta.
+Incumplimiento de otorgar bono de bienvenida ofrecido.

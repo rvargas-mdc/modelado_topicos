@@ -1,0 +1,3 @@
+Desembolso indebido de préstamo no solicitado.
+Permitir débito en cuenta sin autorización.
+Operación no corresponde al perfil del usuario.

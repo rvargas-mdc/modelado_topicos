@@ -1,0 +1,4 @@
+1. Cobro indebido de operación en tarjeta de crédito no reconocida por el usuario.
+2. Falta de verificación de identidad del tarjetahabiente.
+3. Incumplimiento del deber de seguimiento y monitoreo de operaciones inusuales.
+4. Falta de solicitud de DNI para realizar la operación.

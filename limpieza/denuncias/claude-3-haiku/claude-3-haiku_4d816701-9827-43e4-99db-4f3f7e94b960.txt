@@ -1,0 +1,2 @@
+Debitado indebidamente operaciones sin verificar identidad del titular.
+Debitado indebidamente operación en cuenta mancomunada sin verificar identidad del titular.

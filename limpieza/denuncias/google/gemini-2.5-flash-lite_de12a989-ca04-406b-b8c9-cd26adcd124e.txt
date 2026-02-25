@@ -1,0 +1,3 @@
+Cargó indebidamente una operación en tarjeta de crédito.
+La operación no fue autorizada por el usuario.
+Extravío de dispositivo celular con banca móvil.

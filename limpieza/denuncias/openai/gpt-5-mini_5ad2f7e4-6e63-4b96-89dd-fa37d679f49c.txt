@@ -1,0 +1,6 @@
+Operación no reconocida cargada a tarjeta de crédito.
+Banco no adoptó medidas de seguridad pertinentes.
+Establecimiento no adoptó medidas de seguridad pertinentes.
+Banco respondió de manera inadecuada al reclamo.
+Firma en comprobante no coincide con firma del titular.
+Transacción inusual y no corresponde al patrón de consumo.

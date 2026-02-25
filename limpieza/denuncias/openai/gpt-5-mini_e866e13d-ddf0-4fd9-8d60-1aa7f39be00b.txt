@@ -1,0 +1,4 @@
+Falta de medidas de seguridad para evitar operaciones no autorizadas.
+Múltiples cargos y retiros en cuenta de ahorros no habituales.
+Retiros realizados en horarios inusuales para el titular de la cuenta.
+Solicitud de devolución de fondos por operaciones presuntamente no autorizadas.

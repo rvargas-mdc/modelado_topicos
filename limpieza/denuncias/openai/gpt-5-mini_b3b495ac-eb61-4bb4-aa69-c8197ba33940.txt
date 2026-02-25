@@ -1,0 +1,9 @@
+Permitir operaciones no reconocidas por falta de medidas de seguridad.
+Demora en responder reclamos por operaciones no reconocidas.
+Devolución parcial del importe reclamado por operaciones no reconocidas.
+Devolución aplicada únicamente a una cuota, sin cancelar deuda.
+Incumplimiento del aplazamiento de pago ofrecido al denunciante.
+Incremento indebido de la deuda en cuota por operaciones.
+Nuevo incremento indebido de la deuda en otra cuota.
+Refinanciamiento unilateral de la deuda sin aceptación del consumidor.
+No atender solicitud de reprogramación de deuda enviada por notificación.

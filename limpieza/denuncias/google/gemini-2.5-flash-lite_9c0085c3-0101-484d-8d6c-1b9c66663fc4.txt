@@ -1,0 +1,7 @@
+Fraude bancario por falta de mecanismos de seguridad.
+Comunicación telefónica cortada intempestivamente.
+Demora en el bloqueo de tarjetas.
+Realización de operaciones no reconocidas durante llamada.
+No alerta sobre transacciones inusuales.
+Reclamo declarado improcedente sin fundamentación.
+Incumplimiento de medidas de seguridad idóneas.

@@ -1,0 +1,4 @@
+Débito indebido de transferencias no autorizadas desde cuenta de ahorros
+Operaciones inusuales, no corresponden a consumo habitual
+Negación de autorización; biometría del dispositivo no está registrada
+Supuesta vulneración del sistema del banco para ejecutar movimientos

@@ -1,0 +1,3 @@
+Débito no reconocido en cuenta de ahorros.
+Falta de medidas de seguridad para validar operación.
+Sistema de autenticación deficiente para validar la operación.

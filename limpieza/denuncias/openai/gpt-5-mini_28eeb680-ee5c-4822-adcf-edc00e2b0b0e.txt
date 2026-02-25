@@ -1,0 +1,7 @@
+Cargo de operaciones en tarjeta de crédito no autorizadas.
+Entrega y corte de tarjeta tras indicación del banco.
+No activó medidas de seguridad para proteger información personal.
+No verificó identidad del titular antes de operaciones.
+No realizó monitoreo ni alertó sobre operaciones inusuales.
+Operaciones inusuales por montos elevados y horarios continuos.
+Consumos fuera del comportamiento habitual del titular.

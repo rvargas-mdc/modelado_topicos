@@ -1,0 +1,3 @@
+Debitado indebidamente de operaciones no autorizadas.
+Vulneración del sistema de seguridad.
+Incumplimiento de deber de monitoreo y alerta.

@@ -1,0 +1,6 @@
+Cargos indebidos en tarjeta de crédito del denunciante.
+Cobros no reconocidos por el usuario.
+Bloqueo de tarjeta por consumos no autorizados.
+Discrepancia en número de consumos reportados.
+Allanamiento del Banco a la imputación de cargos.
+Solicitud de amonestación como sanción.

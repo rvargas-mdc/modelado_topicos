@@ -1,0 +1,3 @@
+Transferencias no autorizadas desde cuentas vinculadas a tarjeta de débito.
+Operaciones no figuraban en aplicativo y no fueron registradas por usuario.
+Reclamo desestimado por el proveedor alegando validez de las operaciones.

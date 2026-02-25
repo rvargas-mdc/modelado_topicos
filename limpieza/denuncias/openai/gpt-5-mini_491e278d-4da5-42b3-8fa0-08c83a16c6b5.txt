@@ -1,0 +1,8 @@
+Intento de acceso al aplicativo móvil desde otro dispositivo.
+Solicitaron nuevo token y realizaron operaciones sin autorización.
+Solicitaron desafiliación del token sin autorización.
+Aplicativo no mostró operaciones, solo monto total e interés.
+Banco negó registrar reclamo alegando operaciones no procesadas.
+Reclamo ingresado fue desestimado; apelación fue ratificada.
+No pudo comunicarse telefónicamente por no pasar medidas de seguridad.
+Banco no adoptó medidas de seguridad; operaciones no autorizadas.

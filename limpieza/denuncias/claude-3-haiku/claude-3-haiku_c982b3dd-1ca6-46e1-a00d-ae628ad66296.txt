@@ -1,0 +1,5 @@
+1. Cobro indebido de dos operaciones en cuenta de ahorros.
+2. Víctima de fraude informático por llamada telefónica del banco.
+3. Banco no verificó identidad del titular.
+4. Banco no alertó de forma inmediata las operaciones inusuales.
+5. Solicitud de devolución de operaciones y sus intereses.

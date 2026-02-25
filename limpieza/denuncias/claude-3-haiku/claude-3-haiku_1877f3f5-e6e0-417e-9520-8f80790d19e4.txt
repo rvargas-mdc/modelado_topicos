@@ -1,0 +1,3 @@
+Cobro indebido de operaciones no reconocidas por la denunciante.
+Transferencia bancaria no reconocida por la denunciante.
+Pago efectivo no reconocido por la denunciante.

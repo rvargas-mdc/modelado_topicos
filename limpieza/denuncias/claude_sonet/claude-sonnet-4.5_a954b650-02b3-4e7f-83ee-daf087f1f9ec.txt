@@ -1,0 +1,7 @@
+1. Mediante Resolución N° 1 de fecha 13 de marzo de 2025, se inició un procedimiento administrativo sancionador contra el Banco por presunta infracción a lo establecido en los artículos 1° literal c), 18° y 19° del Código de Protección y Defensa del Consumidor (en adelante, el Código), en tanto habría debitado indebidamente una (1) operación de la cuenta de ahorros N° 164-****264 del denunciante, la cual no reconoce pues (i) la operación se realizó desde un teléfono que no es suyo; y, (ii) el Banco no cumplió con los protocolos de seguridad a fin de custodiar sus fondos, pese a que la operación es inusual:
+
+**Salida:**
+
+Débito indebido en cuenta de ahorros.
+Operación desde teléfono no reconocido por usuario.
+Incumplimiento de protocolos de seguridad bancaria.

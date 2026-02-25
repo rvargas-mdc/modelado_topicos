@@ -1,0 +1,4 @@
+Operaciones no reconocidas por el usuario.
+Monto de extra cash en disputa.
+Información equivocada sobre transferencia.
+Desistimiento de la denuncia.

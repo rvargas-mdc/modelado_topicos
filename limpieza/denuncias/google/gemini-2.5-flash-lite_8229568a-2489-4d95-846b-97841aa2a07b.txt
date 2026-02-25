@@ -1,0 +1,4 @@
+Retiros no autorizados de cuenta de ahorros.
+Banco no aplicó medidas de seguridad.
+Banco no emitió alertas preventivas.
+Solicitud de devolución de fondos retirados.

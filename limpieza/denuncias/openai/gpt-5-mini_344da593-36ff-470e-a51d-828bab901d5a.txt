@@ -1,0 +1,8 @@
+Falta de medidas de seguridad en operación no reconocida
+Falta de medidas de seguridad en otra operación no reconocida
+No informar que beneficios del seguro aplican solo una vez
+Cobro indebido de intereses por consumo no reconocido
+Cobro indebido de intereses por otro consumo no reconocido
+Cortar llamadas telefónicas sin brindar atención
+Negativa a otorgar cobertura del seguro por límite anual
+Debitar indebidamente intereses desde cuenta de ahorros

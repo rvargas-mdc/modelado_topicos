@@ -1,0 +1,2 @@
+Operación no reconocida cargada a tarjeta de crédito.
+Falta de medidas de seguridad, monitoreo y alerta del banco.

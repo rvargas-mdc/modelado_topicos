@@ -1,0 +1,8 @@
+1. Cobro de membresía no solicitada por el usuario.
+2. Pronunciamiento del usuario respecto al requerimiento formulado.
+3. Pago de deuda mantenida con el banco.
+4. Allanamiento del banco a la denuncia.
+5. Audiencia de conciliación programada.
+6. Aceptación de términos y condiciones de audiencia de conciliación por el usuario.
+7. Acuerdo entre las partes en audiencia de conciliación.
+8. Presentación virtual de escritos sin necesidad de presentación física.

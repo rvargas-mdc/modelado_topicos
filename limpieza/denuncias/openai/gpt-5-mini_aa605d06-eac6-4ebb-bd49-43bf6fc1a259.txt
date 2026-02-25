@@ -1,0 +1,9 @@
+Operaciones no reconocidas en cuenta corriente desde dispositivos distintos
+Operaciones no reconocidas en cuenta CTS desde ubicaciones distintas
+Transacciones no correspondían al patrón habitual de consumo
+Transacciones mostraban un patrón de fraude
+Banco no notificó al usuario sobre las operaciones realizadas
+Respuestas del banco a reclamos fueron insuficientes y mínimas
+Banco no adoptó medidas de seguridad adecuadas para prevenir fraudes
+Banco no implementó métodos adicionales de autenticación solicitados
+Denunciante solicitó devolución por operaciones no reconocidas

@@ -1,0 +1,4 @@
+No atendieron solicitud de anulación de préstamo.
+Préstamo desembolsado pese a rechazo condicional del consumidor.
+Fondos abonados en cuenta sin consentimiento del consumidor.
+Posible afectación del reporte crediticio por referido préstamo.

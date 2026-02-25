@@ -1,0 +1,3 @@
+Débitos indebidos de múltiples operaciones no autorizadas tras robo celular
+Falta de monitoreo y alerta ante operaciones inusuales
+No aplicación de autenticación reforzada según normativa de ciberseguridad

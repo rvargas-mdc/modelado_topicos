@@ -1,0 +1,4 @@
+No aplicó medidas de seguridad ante operaciones no reconocidas.
+No informó por correo electrónico sobre operaciones no reconocidas.
+No atendió reporte telefónico de operación no reconocida.
+Cargos desde plataforma externa sin relación con la cuenta.

@@ -1,0 +1,4 @@
+Cobro de membresía no informada.
+No se informó línea de crédito.
+No se informó tipo de moneda.
+Respuesta de reclamo no favorable.

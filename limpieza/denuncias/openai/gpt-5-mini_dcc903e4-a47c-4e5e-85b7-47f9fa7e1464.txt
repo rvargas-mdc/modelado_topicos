@@ -1,0 +1,5 @@
+Cargos no autorizados en tarjeta de crédito
+Operaciones inusuales que el cliente no reconoce
+Operaciones realizadas desde dispositivo ajeno
+Banco brindó información errónea en llamada telefónica
+Atención de reclamos inadecuada: no verificaron ni respondieron

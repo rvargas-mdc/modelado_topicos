@@ -1,0 +1,5 @@
+Sustracción de dinero de cuenta del denunciante.
+Operaciones no reconocidas cargadas a su cuenta sin autorización.
+Entidad bancaria respondió desfavorablemente al reclamo del consumidor.
+Falta de medidas de seguridad que permitieron operaciones no autorizadas.
+Banco no acreditó la validez de las operaciones cuestionadas.

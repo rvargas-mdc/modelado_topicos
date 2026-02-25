@@ -1,0 +1,2 @@
+Operaciones no reconocidas por el usuario.
+No envío de estados de cuenta de tarjeta de crédito.

@@ -1,0 +1,10 @@
+Operaciones no reconocidas en cuenta corriente.
+Operaciones no correspondían a patrón de consumo.
+Realizadas desde dispositivos distintos al del titular.
+Realizadas desde ubicaciones diferentes a la habitual.
+Operaciones correspondían a patrón de fraude.
+Banco no notificó realización de operaciones.
+Operaciones no reconocidas en cuenta CTS.
+Usuario no autorizó las operaciones realizadas.
+Banco no notificó operaciones cuestionadas.
+Atención inadecuada de reclamos del usuario.

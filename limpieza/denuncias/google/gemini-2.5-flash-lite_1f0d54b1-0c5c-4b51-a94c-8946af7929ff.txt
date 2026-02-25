@@ -1,0 +1,7 @@
+Autorización indebida de operación en tarjeta de crédito.
+No reconocimiento de operación por el titular.
+No verificación de identidad del titular.
+Tarjeta de crédito fue robada.
+Operación procesada pese a no reconocimiento.
+Firma en voucher no pertenece al titular.
+Voucher no señala número de DNI.

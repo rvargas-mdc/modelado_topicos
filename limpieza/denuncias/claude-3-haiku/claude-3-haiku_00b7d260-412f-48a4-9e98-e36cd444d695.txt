@@ -1,0 +1,4 @@
+1. Operaciones no reconocidas efectuadas con tarjeta de débito del usuario.
+2. Usuario solicitó estados de cuenta al banco.
+3. Usuario presentó estados de cuenta.
+4. Banco no presentó descargos.

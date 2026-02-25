@@ -1,0 +1,3 @@
+Debito indebido de cuenta de ahorros.
+Operaciones y comisiones no autorizadas por el usuario.
+Uso de token digital vulnerado por terceros.

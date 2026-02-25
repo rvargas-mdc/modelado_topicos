@@ -1,0 +1,4 @@
+Cobro de importe de cuenta de ahorros sin dispensación de efectivo.
+Uso de tarjeta y clave secreta del usuario para realizar transacción.
+Registros del banco indican dispensación de efectivo solicitado.
+Cajero automático no registró sobrante, excedente o fallas durante transacción.

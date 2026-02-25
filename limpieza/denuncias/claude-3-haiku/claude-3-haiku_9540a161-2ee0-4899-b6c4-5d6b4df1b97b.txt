@@ -1,0 +1,7 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de membresía no solicitada por el usuario.
+Cajero no dispensó efectivo pero descontó saldo.
+Transferencia de S/ 4,600 de cuenta independencia a cuenta sueldo sin autorización.
+Retiros en efectivo de cuenta sueldo sin autorización.
+Falta de medidas de seguridad para monitoreo y realización de operaciones.

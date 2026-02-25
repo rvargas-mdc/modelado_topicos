@@ -1,0 +1,3 @@
+Falta de medidas de seguridad, monitoreo y alerta.
+
+Retiros en cajero con tarjeta bloqueada no reconocidos.

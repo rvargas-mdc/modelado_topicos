@@ -1,0 +1,3 @@
+1. Cobro de operaciones no reconocidas por el usuario en tarjeta de crédito.
+2. Solicitud de extorno de operaciones no reconocidas y devolución de montos descontados de cuenta de ahorros.
+3. Banco se allana a la denuncia.

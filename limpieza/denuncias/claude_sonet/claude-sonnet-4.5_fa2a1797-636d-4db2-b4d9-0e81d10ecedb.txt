@@ -1,0 +1,9 @@
+Basándome en la resolución presentada, aquí está el resumen de las infracciones denunciadas:
+
+**0174-2025/ILN-PS0**--------------------Falta de medidas de seguridad en operaciones Yape.
+Cambio no autorizado de límite de cuenta.
+Operaciones superaron límite diario permitido.
+Préstamo atribuido sin verificar identidad del titular.
+Incumplimiento de atención de reclamo presentado.
+Incumplimiento de atención de segundo reclamo presentado.
+Incumplimiento de atención de tercer reclamo presentado.====================

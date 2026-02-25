@@ -1,0 +1,3 @@
+Cobro indebido de dos operaciones en tarjeta de crédito no reconocidas por la usuaria.
+Falta de medidas de seguridad y monitoreo de operaciones por parte del banco.
+Operaciones realizadas fuera del comportamiento habitual de consumo de la usuaria.

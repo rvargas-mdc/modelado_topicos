@@ -1,0 +1,4 @@
+Demora en responder solicitud de reprogramación.
+Negativa injustificada a reprogramar deuda.
+Demora en otorgar propuesta de pago.
+Cobranza prejudicial exigiendo pago.

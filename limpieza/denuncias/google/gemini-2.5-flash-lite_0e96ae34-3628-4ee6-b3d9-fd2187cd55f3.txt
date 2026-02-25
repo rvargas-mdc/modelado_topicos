@@ -1,0 +1,3 @@
+Cajero automático no registró depósito correctamente.
+Contradicción entre monto depositado y voucher.
+Falta de horario en tickets de atención.

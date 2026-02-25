@@ -1,0 +1,3 @@
+Cajero automático no dispensó efectivo.
+Tarjeta bloqueada tras intento de retiro.
+Devolución de dinero no expedido por cajero.

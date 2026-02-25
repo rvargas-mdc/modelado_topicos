@@ -1,0 +1,2 @@
+Debitado indebidamente operaciones no reconocidas.
+Operaciones excedieron monto máximo de transferencia.

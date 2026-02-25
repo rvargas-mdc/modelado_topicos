@@ -1,0 +1,5 @@
+Carga indebida de dos operaciones en tarjeta de crédito.
+Disposición de efectivo cargada a la tarjeta de crédito.
+Vulneración del sistema de seguridad y suplantación de identidad.
+Operaciones inusuales respecto al comportamiento habitual de consumo.
+No pérdida de tarjeta ni entrega de clave a terceros.

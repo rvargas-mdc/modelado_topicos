@@ -1,0 +1,5 @@
+Operaciones bancarias no reconocidas por la usuaria.
+Falta de medidas de seguridad por parte del banco.
+Devolución de montos no reconocidos por la usuaria.
+Reconocimiento de operaciones por parte de la usuaria.
+Contradicción en la información brindada por el banco.

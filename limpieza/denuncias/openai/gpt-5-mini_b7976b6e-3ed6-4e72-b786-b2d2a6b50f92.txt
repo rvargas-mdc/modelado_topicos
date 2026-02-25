@@ -1,0 +1,6 @@
+Transferencia no autorizada desde cuenta asociada a tarjeta de débito.
+Terceras personas realizaron transferencia sin autorización del titular.
+Banco no aplicó medidas de seguridad pertinentes.
+Banco cargó la operación pese a solicitud de cancelación.
+Titular niega haber proporcionado número de tarjeta o claves.
+Solicita devolución del dinero transferido.

@@ -1,0 +1,9 @@
+Cargo indebido de operación no reconocida en tarjeta de crédito.
+No bloqueo preventivo de tarjeta ante operación atípica.
+No notificación al titular vía llamada telefónica o SMS.
+Afiliación a canales digitales no acreditada por el banco.
+Medios probatorios sin visado que garanticen inalterabilidad.
+Inconsistencia temporal entre envío de clave y autorización de operación.
+Autorización mediante Token cuestionada por registro inconsistente.
+No bloqueo efectivo pese a alerta de posible fraude.
+Notificación por correo enviada a destinatario erróneo.

@@ -1,0 +1,4 @@
+1. Cobro indebido de 3 operaciones en tarjeta de crédito del denunciante.
+2. Débito indebido de 4 operaciones en cuenta de ahorros del denunciante.
+3. Falta de medidas de seguridad en el seguimiento y monitoreo de operaciones.
+4. Operaciones no reconocidas por el denunciante por no corresponder a su comportamiento habitual de consumo.

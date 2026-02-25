@@ -1,0 +1,7 @@
+1. Cobro de operaciones no reconocidas por el usuario en su cuenta de ahorros.
+
+2. Atribución indebida al usuario de operaciones no reconocidas.
+
+3. Devolución parcial de monto cuestionado por el usuario.
+
+4. Solicitud de emisión de resolución final.

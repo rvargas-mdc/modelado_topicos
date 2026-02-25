@@ -1,0 +1,4 @@
+Cobro indebido de operaciones no autorizadas en tarjeta de crédito.
+Falta de medidas de seguridad en el monitoreo y seguimiento de operaciones.
+Operaciones con patrón de fraude sin requerir PIN ni firma del tarjetahabiente.
+Establecimiento comercial permitió operaciones sin verificar identidad del titular de la tarjeta.

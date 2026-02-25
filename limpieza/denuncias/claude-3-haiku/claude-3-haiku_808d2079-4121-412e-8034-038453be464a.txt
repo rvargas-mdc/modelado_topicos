@@ -1,0 +1,5 @@
+1. Cobro de tipo de cambio aplicado a operación en cuenta de ahorros en dólares.
+2. Falta de información sobre tipo de cambio definitivo aplicado a la transacción.
+3. Aplicación de tipo de cambio irrazonable y desproporcional.
+4. Variación significativa entre tipo de cambio informado y aplicado.
+5. Obligación del banco de informar tipo de cambio definitivo antes de la transacción.

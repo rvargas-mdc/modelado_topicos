@@ -1,0 +1,4 @@
+Uso de tarjetas no activadas por el titular.
+Imputación de deuda por operaciones no reconocidas en tarjeta.
+Negativa a proporcionar detalle de las operaciones solicitadas.
+No envío de estados de cuenta de tarjetas.

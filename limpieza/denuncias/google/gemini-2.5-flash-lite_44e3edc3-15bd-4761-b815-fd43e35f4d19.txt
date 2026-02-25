@@ -1,0 +1,13 @@
+Cargos indebidos en tarjeta de crédito no reconocidos.
+Falta de notificación oportuna de operación.
+Ausencia de medidas de seguridad preventivas.
+Operación inusual no corresponde a consumo habitual.
+No autenticación de identidad del usuario.
+Tarjeta de crédito siempre bajo custodia.
+Atención inadecuada de reclamos.
+Respuesta incompleta a reclamos.
+Devolución parcial de monto reclamado.
+Falta de información sobre comercios.
+Demora en respuesta de voucher/comprobantes.
+Validación de operación pese a falta de custodia.
+No remisión de información de compra.

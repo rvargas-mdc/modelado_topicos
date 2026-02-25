@@ -1,0 +1,5 @@
+1. Cobro indebido de operaciones no reconocidas por el usuario en su tarjeta de crédito.
+2. Retiro de efectivo a través de cajero automático con uso de tarjeta y clave secreta.
+3. Disposición de efectivo a través de banca móvil con uso de contraseña y token digital.
+4. Solicitud de devolución del monto total adeudado por operaciones no reconocidas.
+5. Acuerdo conciliatorio entre el usuario y el banco por devolución de S/ 3,050.00.

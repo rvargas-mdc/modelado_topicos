@@ -1,0 +1,7 @@
+Cajero automático no aceptó dinero introducido.
+Cajero contó y retuvo dinero sin entregar voucher.
+Operación de depósito no se registró en la cuenta.
+Otro cajero contó y retuvo dinero sin entregar voucher.
+Depósito en otro cajero no se registró en la cuenta.
+Banco no devolvió saldo retenido en la cuenta.
+Banco no respondió oportunamente ni adecuadamente el reclamo.

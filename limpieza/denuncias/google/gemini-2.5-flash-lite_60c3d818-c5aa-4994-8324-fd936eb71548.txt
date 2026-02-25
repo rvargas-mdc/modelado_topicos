@@ -1,0 +1,5 @@
+Compra no reconocida con tarjeta de crédito.
+No se verificó la seguridad de la compra virtual.
+No se proporcionaron documentos de entrega del producto.
+Se consignaron datos de contacto ajenos en la boleta.
+No se obtuvo firma de recepción del producto.

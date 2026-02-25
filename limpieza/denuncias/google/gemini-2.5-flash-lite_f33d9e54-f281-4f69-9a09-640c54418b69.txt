@@ -1,0 +1,2 @@
+No se cumplieron medidas de seguridad.
+Permitieron operación no reconocida por el usuario.

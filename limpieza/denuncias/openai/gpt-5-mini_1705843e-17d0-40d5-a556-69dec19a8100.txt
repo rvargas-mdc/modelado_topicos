@@ -1,0 +1,5 @@
+Transferencia realizada con cargo a tarjeta que estaba bloqueada.
+Banco no aplicó medidas de seguridad para evitar transferencia.
+Banco no remitió confirmación de la transacción al correo.
+Banco no envió token digital al correo del titular.
+Operaciones con cargo no reconocidas por el titular.

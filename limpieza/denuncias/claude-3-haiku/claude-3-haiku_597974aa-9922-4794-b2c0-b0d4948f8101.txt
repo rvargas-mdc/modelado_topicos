@@ -1,0 +1,2 @@
+1. Cobro de operaciones no reconocidas por el usuario en la cuenta de ahorros.
+2. Retiro de efectivo sin verificar la identidad del tarjetahabiente.

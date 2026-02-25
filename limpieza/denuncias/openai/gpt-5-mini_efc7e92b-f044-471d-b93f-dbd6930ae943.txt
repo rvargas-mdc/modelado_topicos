@@ -1,0 +1,4 @@
+Apertura de cuenta en dólares no autorizada.
+Transferencia de fondos desde cuenta CTS sin autorización.
+Operación bancaria no reconocida por el usuario.
+Atención inadecuada del reclamo por parte del proveedor.

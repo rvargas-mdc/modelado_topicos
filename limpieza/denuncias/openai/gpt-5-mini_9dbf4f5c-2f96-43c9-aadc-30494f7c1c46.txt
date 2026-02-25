@@ -1,0 +1,4 @@
+Cargo no reconocido en tarjeta de crédito del consumidor.
+No verificó identidad del titular y no monitoreó operaciones.
+No activó medidas de prevención pese a operaciones inusuales.
+Atención inadecuada del reclamo derivándolo al asegurador.

@@ -1,0 +1,3 @@
+Banco retuvo dinero a pesar de levantamiento de embargo.
+Banco no levantó embargo bancario electrónico.
+Banco retuvo fondos de cuenta de ahorros indebidamente.

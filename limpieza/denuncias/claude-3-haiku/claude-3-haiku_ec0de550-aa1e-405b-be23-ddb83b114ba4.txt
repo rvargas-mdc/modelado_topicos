@@ -1,0 +1,5 @@
+1. Cobro de membresía no solicitada por el usuario.
+2. Requerimiento de subsanación de denuncia.
+3. Imposibilidad de notificar requerimiento a correo electrónico del denunciante.
+4. Notificación de requerimiento a domicilio del denunciante.
+5. Denunciante no subsanó denuncia dentro del plazo otorgado.

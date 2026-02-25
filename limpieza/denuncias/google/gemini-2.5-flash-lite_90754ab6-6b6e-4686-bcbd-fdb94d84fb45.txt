@@ -1,0 +1,4 @@
+Falta de medidas de seguridad en operaciones no reconocidas.
+No atendió requerimiento de información de consumos.
+Devolución de importe y abstención de cobro.
+Pago de costas del procedimiento.

@@ -1,0 +1,5 @@
+Cobro indebido de operaciones en tarjeta de crédito no autorizadas.
+Cobro por membresía exigida mediante llamada del banco.
+Recomendación de anular tarjeta para exonerar membresía.
+Negativa a anular la compra cuando se solicitó.
+Falta de devolución de los cargos cobrados indebidamente.

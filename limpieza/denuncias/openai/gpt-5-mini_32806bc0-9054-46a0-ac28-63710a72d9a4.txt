@@ -1,0 +1,2 @@
+Fallo en medidas de monitoreo y alerta del banco.
+Transferencia a terceros no reconocida y no autorizada.

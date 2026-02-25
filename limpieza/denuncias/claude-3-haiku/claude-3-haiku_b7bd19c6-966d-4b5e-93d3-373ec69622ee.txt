@@ -1,0 +1,4 @@
+1. Filtración de datos no autorizada de un grupo de clientes del Interbank.
+2. Transferencia no autorizada de USD 7,000.00 desde la cuenta del señor Morales.
+3. Interbank desestimó el reclamo del señor Morales.
+4. Señor Morales se desistió del procedimiento y pretensiones contra Interbank.

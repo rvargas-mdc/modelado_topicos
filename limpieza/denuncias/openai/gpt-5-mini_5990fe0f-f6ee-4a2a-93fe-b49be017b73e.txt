@@ -1,0 +1,4 @@
+Llamada telefónica fingiendo ser trabajador de la entidad.
+Envío de enlace WhatsApp para registrar datos en página fraudulenta.
+Transferencia no reconocida a tercero desde cuenta empresarial.
+Banco no adoptó medidas de seguridad para prevenir operación.

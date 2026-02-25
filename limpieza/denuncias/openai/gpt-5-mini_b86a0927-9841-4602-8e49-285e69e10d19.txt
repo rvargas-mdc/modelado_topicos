@@ -1,0 +1,12 @@
+Operación no reconocida cargada a tarjeta adicional.
+Entidad bancaria no adoptó medidas de seguridad pertinentes.
+Transacciones inusuales fuera del patrón de consumo.
+Titular afirma tarjeta estaba en su poder (clonación).
+Consumidor alertó al banco antes del procesamiento.
+Banco no reportó ni emitió alertas por fraude.
+Banco no bloqueó la tarjeta tras el reporte.
+Demora excesiva en investigación y plazo de respuesta.
+Banco brindó información errónea prometiendo abono temporal.
+Banco efectuó cobro del importe cuestionado al titular.
+Atención inadecuada del reclamo inicial y su ampliación.
+No se brindaron facilidades ni alternativas para solución.

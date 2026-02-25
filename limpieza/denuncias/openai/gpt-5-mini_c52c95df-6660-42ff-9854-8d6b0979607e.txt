@@ -1,0 +1,5 @@
+Operaciones no autorizadas cargadas a cuenta de ahorros.
+Compras POS en establecimiento no reconocidas por titular.
+Retiros en cajero automático no reconocidos por titular.
+Presunta ausencia de medidas de seguridad por el banco.
+Solicitud de devolución de fondos retirados indebidamente.

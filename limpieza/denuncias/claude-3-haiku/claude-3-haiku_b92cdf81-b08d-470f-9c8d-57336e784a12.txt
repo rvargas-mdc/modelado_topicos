@@ -1,0 +1,6 @@
+Atribución indebida de préstamo al denunciante.
+Préstamo no reconocido por el denunciante.
+Datos del préstamo no coinciden con los del denunciante.
+Denunciante no firmó ni colocó huella.
+Banco se allanó al cargo imputado.
+Solicitó amonestación como sanción y exoneración de costos.

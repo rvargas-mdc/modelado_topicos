@@ -1,0 +1,2 @@
+Operación en cuenta no válidamente autorizada.
+No adoptó medidas de seguridad para detectar la operación.

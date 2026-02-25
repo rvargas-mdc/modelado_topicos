@@ -1,0 +1,2 @@
+- Informar falsamente sobre deuda pendiente.
+- Reprogramar unilateralmente préstamo, aumentando cuotas e intereses.

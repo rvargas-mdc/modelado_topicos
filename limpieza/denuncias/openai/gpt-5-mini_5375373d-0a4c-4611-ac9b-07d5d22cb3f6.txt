@@ -1,0 +1,3 @@
+Medidas de seguridad insuficientes; dos operaciones no reconocidas.
+Medidas de seguridad insuficientes; una operación no reconocida en cuenta.
+Respuesta al reclamo no idónea.

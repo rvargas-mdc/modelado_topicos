@@ -1,0 +1,5 @@
+Retiros de efectivo no reconocidos por el usuario.
+Falta de monitoreo y alertas en operaciones.
+Negativa de devolución de montos extraídos.
+Falta de cámaras en agencia bancaria.
+Solicitud de devolución de dinero y gastos.

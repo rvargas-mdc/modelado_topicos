@@ -1,0 +1,7 @@
+Débito indebido en cuenta ahorro digital no autorizado por titular.
+Débito indebido de operaciones en cuenta ahorros sueldo no reconocidas.
+Retiro efectuado pese a reporte de robo de tarjeta.
+Víctima de robo obligada a entregar contraseñas bancarias.
+Falta de medidas de autenticación que identifiquen al titular.
+Incumplimiento del deber de monitoreo; no emitieron alerta ni bloqueo.
+Atención de reclamo inadecuada; respuesta sin investigación ni devolución.

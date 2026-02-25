@@ -1,0 +1,4 @@
+Cobro de membresía no informada al contratar la tarjeta.
+Falta de información sobre la línea de crédito al contratar.
+Falta de información sobre el tipo de moneda de tarjeta.
+Respuesta inadecuada a reclamo del consumidor.

@@ -1,0 +1,4 @@
+Cobro de préstamos de empresa desvinculada.
+Exigencia de pago como aval sin consentimiento.
+Solicitud de desvinculación de préstamos.
+Solicitud de informe a la SBS.

@@ -1,0 +1,4 @@
+Resumen de las infracciones denunciadas:
+
+1. Cobro de cuotas de crédito sin imputar los pagos efectuados por el usuario durante el año 2023.
+2. No permitir al usuario regularizar el pago de su crédito.

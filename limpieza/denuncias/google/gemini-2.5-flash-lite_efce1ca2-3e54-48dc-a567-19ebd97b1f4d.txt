@@ -1,0 +1,4 @@
+Operación no reconocida en tarjeta de crédito.
+No se adoptaron medidas de seguridad pertinentes.
+Se ordenó extorno de operación y devolución de pagos.
+Se ordenó rectificar reportes en central de riesgos.

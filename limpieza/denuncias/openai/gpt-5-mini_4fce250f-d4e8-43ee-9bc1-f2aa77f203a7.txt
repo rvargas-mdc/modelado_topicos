@@ -1,0 +1,3 @@
+Trato diferenciado por rangos edad en Préstamo Personal Efectivo.
+Trato diferenciado por rangos edad en Préstamo para Estudios.
+Trato diferenciado por rangos edad en Préstamo con Garantía Líquida.

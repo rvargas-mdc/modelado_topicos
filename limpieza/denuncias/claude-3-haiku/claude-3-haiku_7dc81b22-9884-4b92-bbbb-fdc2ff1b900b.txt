@@ -1,0 +1,5 @@
+1. Cobro indebido de préstamo hipotecario de la cuenta del usuario.
+2. Solicitud de devolución de fondos retirados indebidamente.
+3. Presentación de descargos por parte del banco.
+4. Programación de audiencia de conciliación virtual y posterior reprogramación en modalidad híbrida.
+5. Acuerdo conciliatorio entre el usuario y el banco durante la audiencia de conciliación.

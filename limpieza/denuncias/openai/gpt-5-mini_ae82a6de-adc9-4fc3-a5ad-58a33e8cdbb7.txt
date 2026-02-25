@@ -1,0 +1,2 @@
+Permitir operación en tarjeta de crédito no reconocida.
+Débito indebido en tarjeta de crédito no autorizado.

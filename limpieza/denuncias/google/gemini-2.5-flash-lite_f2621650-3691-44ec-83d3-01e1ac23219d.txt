@@ -1,0 +1,6 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no reconocidas por el usuario.
+Falta de verificación de identidad y firma.
+Vouchers con firma suscrita.
+Verificación de firma corresponde al establecimiento.
+Operaciones dentro del patrón de consumo.

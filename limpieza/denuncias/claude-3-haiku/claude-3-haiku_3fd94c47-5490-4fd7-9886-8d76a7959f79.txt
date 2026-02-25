@@ -1,0 +1,3 @@
+Cobro de deuda pese a haber sido cancelada.
+Falta de emisión de constancia de no adeudo.
+Permanencia como deudor reportado en central de riesgos.

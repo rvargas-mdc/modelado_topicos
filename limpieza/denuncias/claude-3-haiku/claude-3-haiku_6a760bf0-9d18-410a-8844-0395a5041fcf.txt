@@ -1,0 +1,3 @@
+1. Cobro de préstamos sin atender solicitud de información y facilidades de pago.
+2. Incumplimiento de atender solicitud de información sobre préstamos.
+3. Incumplimiento de atender solicitud de facilidades de pago sobre préstamos.

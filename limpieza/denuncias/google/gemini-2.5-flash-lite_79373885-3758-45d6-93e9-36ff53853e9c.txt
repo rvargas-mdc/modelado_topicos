@@ -1,0 +1,3 @@
+Debito indebido de operaciones en cuenta de ahorros.
+El banco no verificó identidad del titular.
+No activó medidas de seguridad ante operaciones inusuales.

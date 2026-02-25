@@ -1,0 +1,5 @@
+Cajero no registró depósito.
+Cajero retuvo dinero sin entregar váucher.
+Banco no devolvió importe de depósito.
+Banco no respondió reclamo de manera oportuna.
+Banco no respondió reclamo de manera favorable.

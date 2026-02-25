@@ -1,0 +1,13 @@
+Resumen de las infracciones denunciadas:
+
+1. No cumplimiento de medidas de seguridad en operaciones bancarias:
+- Permitió transferencia de S/ 9,000 de cuenta CTS a cuenta sueldo del denunciante, sin su reconocimiento.
+- Permitió dos operaciones por S/ 4,800 con cargo a cuenta sueldo del denunciante, sin su reconocimiento.
+
+2. Desistimiento parcial del allanamiento respecto a la validez de la operación por S/ 9,000.
+
+3. Argumentos de Banbif:
+- Denunciante afiliado a banca digital, operación realizada con datos válidos.
+- Medida de seguridad es el cuidado del cliente con su tarjeta, la cual no estaba bloqueada.
+- Operación de transferencia entre cuentas propias no requería clave token.
+- Cuenta CTS es especial, retiro de fondos era potestativo del denunciante.

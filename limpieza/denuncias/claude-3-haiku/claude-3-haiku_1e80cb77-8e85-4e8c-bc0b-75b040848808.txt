@@ -1,0 +1,4 @@
+1. Generación de préstamo no solicitado a través de aplicación móvil.
+2. Banco atribuyó operación al usuario pese a sus reclamos.
+3. Solicitud de investigación exhaustiva e identificación del destinatario final de los fondos transferidos.
+4. Solicitud de anulación del préstamo no solicitado.

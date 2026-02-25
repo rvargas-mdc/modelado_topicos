@@ -1,0 +1,7 @@
+Hechos denunciados:
+
+Cobro de transferencia bancaria no reconocida por el usuario.
+Banco no invalida la transacción a pesar del reporte del usuario.
+Banco no se pronuncia sobre las llamadas telefónicas recibidas.
+Banco indica que la transferencia fue producto de un fraude externo.
+Banco no asume responsabilidad por la seguridad de sus servicios.

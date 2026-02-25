@@ -1,0 +1,4 @@
+1. Cobro de operaciones no reconocidas por la usuaria.
+2. Falta de precisión en la identificación de las operaciones cuestionadas.
+3. Presunta autorización de operaciones en Tottus.
+4. Incumplimiento de presentar comprobante de pago de tasa administrativa.

@@ -1,0 +1,4 @@
+Operaciones bancarias no autorizadas por el usuario.
+Banco no adoptó medidas de seguridad.
+Consumidor ingresó a página falsa.
+Operaciones fuera del comportamiento habitual.

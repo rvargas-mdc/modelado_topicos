@@ -1,0 +1,6 @@
+Operaciones con cargo a tarjeta no reconocidas por el usuario.
+No adoptó medidas de seguridad para prevenir cargos no reconocidos.
+No proporcionó dirección ni datos del establecimiento solicitado.
+Establecimiento permitió consumo con tarjeta sin verificar identidad.
+Establecimiento permitió consumo con tarjeta sin verificar identidad.
+Establecimiento permitió consumo con tarjeta sin verificar identidad.

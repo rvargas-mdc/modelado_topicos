@@ -1,0 +1,5 @@
+Envío de tarjeta adicional no solicitada al domicilio.
+Consumidor niega haber afiliado tarjeta a billetera digital.
+Cargos no reconocidos realizados mediante billetera digital.
+Posible clonación de tarjeta atribuida a empleados del banco.
+Respuestas del banco a los reclamos fueron desfavorables.

@@ -1,0 +1,2 @@
+Permitir operación no reconocida por falta de monitoreo y alerta
+Hechos no revelados explícitamente

@@ -1,0 +1,8 @@
+Cargo indebido en tarjeta de crédito no autorizado.
+Fue alertada por movimiento inusual y pidió frenar operación.
+Banco solo ofreció bloqueo de tarjeta como alternativa.
+Operación no se efectuó con uso de datos de tarjeta.
+Tarjeta siempre estuvo en poder de la denunciante.
+No autorizó servicio de operaciones por internet.
+No fue notificada inmediatamente sobre la operación.
+Nunca había realizado pagos a ese proveedor.

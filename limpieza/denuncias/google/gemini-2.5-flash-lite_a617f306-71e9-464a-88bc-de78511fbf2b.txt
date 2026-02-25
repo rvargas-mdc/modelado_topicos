@@ -1,0 +1,5 @@
+Operaciones no reconocidas en cuenta de ahorros.
+No se informó sobre operaciones no reconocidas.
+No se reconoce operación de fecha específica.
+No tiene cuenta en Agora.
+Solicita devolución de dinero y reposición de tarjeta.

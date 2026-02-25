@@ -1,0 +1,4 @@
+Operaciones no reconocidas en tarjeta de crédito.
+No envío de estados de cuenta a correo electrónico.
+No notificación de respuesta a reclamo en plazo legal.
+No brindó respuesta íntegra a reclamo sobre identificación de establecimiento.

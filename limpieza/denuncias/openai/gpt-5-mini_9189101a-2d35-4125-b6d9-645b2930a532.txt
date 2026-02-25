@@ -1,0 +1,1 @@
+Envío de mensajes WhatsApp a tercero sobre morosidad.

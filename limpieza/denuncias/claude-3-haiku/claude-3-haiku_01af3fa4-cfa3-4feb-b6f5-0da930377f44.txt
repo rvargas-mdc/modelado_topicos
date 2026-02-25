@@ -1,0 +1,5 @@
+1. Cargo no autorizado de dos operaciones en tarjeta de crédito de la denunciante.
+2. Error en monto ordenado como medida correctiva, debiendo ser en dólares.
+3. No se ordenó pago de intereses y gastos generados hasta pago efectivo.
+4. No se ordenó retiro de reporte de deuda y emisión de carta de no adeudo.
+5. Scotiabank apeló la resolución en extremos de medida correctiva y costas.

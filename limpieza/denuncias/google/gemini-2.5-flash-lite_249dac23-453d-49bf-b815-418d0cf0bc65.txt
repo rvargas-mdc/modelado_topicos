@@ -1,0 +1,12 @@
+Operaciones no reconocidas mediante banca móvil.
+Falta de medidas de seguridad pertinentes por el banco.
+Robo de teléfono móvil y billetera con tarjetas.
+Bloqueo posterior de tarjetas.
+Denuncia policial con demora.
+Solicitud de reconocimiento de montos no favorable.
+Solicitud de indemnización por daños y perjuicios.
+Explicación de factores de autenticación reforzada.
+Control ante ataques "hombre en el medio".
+Uso de DNI, clave de operaciones y Clave Token Digital.
+Autorización de operaciones con clave token de uso único.
+Envío de constancias de operaciones al correo del cliente.

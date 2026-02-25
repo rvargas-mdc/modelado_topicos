@@ -1,0 +1,9 @@
+1. Incremento de línea de crédito sin consentimiento del usuario.
+2. Movimientos no reconocidos en la tarjeta de crédito.
+3. Eliminación y bloqueo de la tarjeta de crédito de la aplicación móvil.
+4. Eliminación de la tarjeta de débito sin explicación válida.
+5. Amenaza de bloqueo de cuentas, considerado trato discriminatorio.
+6. Solicitud de pruebas que demuestren el incremento de línea de crédito.
+7. Solicitud de restablecimiento de línea de crédito original.
+8. Solicitud de eliminación de intereses y cargos generados por incremento no autorizado.
+9. Solicitud de implementación de medidas de seguridad más estrictas.

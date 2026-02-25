@@ -1,0 +1,6 @@
+Cobro indebido en tarjeta de crédito por operación no reconocida.
+Falta de verificación de identidad al procesar la operación.
+No alertó ni solicitó consentimiento ante comportamiento atípico.
+No aplicó medidas de monitoreo de seguridad.
+Tarjeta y teléfono permanecieron en poder del titular.
+Suplantación ante operadora de línea móvil.

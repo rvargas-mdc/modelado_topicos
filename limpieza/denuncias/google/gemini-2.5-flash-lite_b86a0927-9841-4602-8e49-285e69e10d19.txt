@@ -1,0 +1,8 @@
+Operación no reconocida en tarjeta adicional.
+Falta de medidas de seguridad.
+No se validó patrón de consumo.
+No se reportó ni alertó fraude.
+No se atendió reclamo adecuadamente.
+Se brindó información errónea.
+No se atendió otro reclamo.
+Se realizó cobro de monto no reconocido.

@@ -1,0 +1,7 @@
+Llamadas insistentes de supuestos empleados del banco ofreciendo asesoría.
+Afiliación al token digital realizada tras llamadas.
+Provisión de código de seguridad a interlocutor por llamada.
+Retiros y giros en cuenta desconocidos por la titular.
+Retiros en cajeros o agentes sin medidas de seguridad.
+Banco habría bloqueado tarjeta de débito sin autorización.
+Solicitan devolución de dinero y ubicación del cajero o agente.

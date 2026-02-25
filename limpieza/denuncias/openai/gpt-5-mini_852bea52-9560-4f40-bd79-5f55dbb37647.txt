@@ -1,0 +1,1 @@
+Permitir operación con tarjeta no reconocida sin medidas de seguridad

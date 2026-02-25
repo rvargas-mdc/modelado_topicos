@@ -1,0 +1,3 @@
+Cobro de deuda en situación de cobranza judicial o vencida.
+Baja de tarjeta de crédito sin permitir continuar con el pago de cuotas.
+Reporte negativo ante la Central de Riesgo de la SBS.

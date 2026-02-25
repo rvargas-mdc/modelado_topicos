@@ -1,0 +1,6 @@
+Resumen de las infracciones denunciadas:
+
+Cobro indebido de dos operaciones en la cuenta de ahorros del usuario.
+Débito de transferencia a otra cuenta sin autorización del usuario.
+Falta de activación oportuna de medidas de seguridad para evitar las operaciones.
+Responsabilidad del usuario por no custodiar adecuadamente sus datos personales y clave digital.

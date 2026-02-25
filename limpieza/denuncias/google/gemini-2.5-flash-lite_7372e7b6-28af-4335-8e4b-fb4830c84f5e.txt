@@ -1,0 +1,5 @@
+El BCP no adoptó medidas de seguridad.
+El Banco de la Nación no adoptó medidas de seguridad.
+El BCP no respondió al reclamo del usuario.
+El usuario fue víctima de phishing.
+Las operaciones no fueron reconocidas por el usuario.

@@ -1,0 +1,8 @@
+Operaciones no reconocidas en cuenta corriente.
+No se permitió realizar una transferencia.
+Respuesta inadecuada a reclamo.
+Fraude informático y suplantación de identidad.
+Falta de sistema de monitoreo adecuado.
+No se acreditó validez de operaciones.
+No se acreditó impedimento de transferencia.
+Respuesta desfavorable, ambigua y general a reclamo.

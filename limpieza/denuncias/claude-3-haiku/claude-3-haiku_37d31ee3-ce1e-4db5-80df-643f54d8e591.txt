@@ -1,0 +1,4 @@
+Resumen de las infracciones denunciadas:
+
+1. Cobro de deuda por S/ 8,770.35 por operaciones no reconocidas por el usuario en tarjetas de crédito.
+2. Falta de envío de estados de cuenta de tarjetas de crédito al usuario.

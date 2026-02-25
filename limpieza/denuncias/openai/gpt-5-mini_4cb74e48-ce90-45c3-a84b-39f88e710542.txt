@@ -1,0 +1,4 @@
+Procesamiento indebido de cargo por intento de compra no concretado.
+Brindar información errónea sobre supuesta devolución no efectuada.
+Procesamiento y cobro indebido por intento de compra no concretado.
+Retraso en extorno que generó intereses para el consumidor.

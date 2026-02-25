@@ -1,0 +1,2 @@
+Procesamiento de operaciones bancarias no reconocidas.
+Falta de medidas de seguridad para evitar operaciones.

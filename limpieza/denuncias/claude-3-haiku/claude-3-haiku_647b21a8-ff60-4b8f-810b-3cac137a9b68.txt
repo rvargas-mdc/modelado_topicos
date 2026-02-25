@@ -1,0 +1,4 @@
+Cobro indebido de operaciones no autorizadas en tarjeta de crédito.
+Banco alega que cliente compartió información confidencial con tercero.
+Cliente niega haber autorizado las operaciones.
+Banco presenta reporte que acredita que operaciones fueron realizadas conforme a instrucciones del cliente.

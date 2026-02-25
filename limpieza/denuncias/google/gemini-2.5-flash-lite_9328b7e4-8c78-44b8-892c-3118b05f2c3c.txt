@@ -1,0 +1,5 @@
+- Consumos no autorizados en tarjeta de crédito.
+- Incumplimiento de medida correctiva.
+- No remisión de estados de cuenta completos.
+- Sanción por incumplimiento de medida correctiva.
+- Apelación de sanción por información incompleta.

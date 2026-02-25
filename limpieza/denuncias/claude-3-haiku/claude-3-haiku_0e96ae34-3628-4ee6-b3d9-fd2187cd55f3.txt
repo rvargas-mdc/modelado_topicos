@@ -1,0 +1,6 @@
+1. Cobro de membresía no solicitada por el usuario.
+2. Hechos no revelados explícitamente.
+3. Funcionamiento defectuoso de cajero automático que no registró correctamente el depósito.
+4. Contradicción entre relato del usuario y voucher de depósito.
+5. Banco señala que el usuario completó correctamente los pasos para validar su titularidad y que el sistema registró el monto ingresado.
+6. Banco indica que la falta de horario en los tickets de atención no constituye un requisito fundamental.

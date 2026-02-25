@@ -1,0 +1,5 @@
+Cobros indebidos en tarjeta por operaciones no reconocidas.
+No acreditación de cumplimiento de medidas de ciberseguridad.
+Operaciones no reconocidas con tarjeta bloqueada y reclamo informado.
+No atención a reclamos por parte del banco.
+Falta de ingreso y validación de clave OTP.

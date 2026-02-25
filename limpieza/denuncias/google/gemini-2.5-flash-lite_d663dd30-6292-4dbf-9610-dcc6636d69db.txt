@@ -1,0 +1,23 @@
+Carga indebida de operaciones en tarjeta de crédito.
+Retiro de efectivo en cajero automático con tarjeta y clave.
+Disposición de efectivo mediante banca móvil con token digital.
+Sanción por infracción a Ley de Protección al Consumidor.
+Devolución de importes, intereses, comisiones y gastos.
+Rectificación de historial crediticio.
+Argumentos sobre deber de cuidado del tarjetahabiente.
+Responsabilidad del usuario en salvaguardar datos de tarjeta.
+Carga de la prueba recae en el denunciante.
+Operación de retiro con uso de tarjeta y clave secreta.
+Habilitación de retiro de efectivo vía banca móvil.
+Uso de token digital para disposición de efectivo.
+Afiliación al servicio softoken.
+Tarjeta activa al momento de las operaciones.
+Monitoreo "ex post" de operaciones sospechosas.
+Notificación de operación cuestionada.
+Sistemas de seguridad oportunos y suficientes.
+Vulneración del principio de razonabilidad en la sanción.
+Devolución de importe de avance en efectivo.
+Pago de deuda generada en tarjeta de crédito.
+Reclamo SAC por devolución de montos no reconocidos.
+Acuerdo conciliatorio para abono de monto.
+Declaración de improcedencia por sustracción de materia.

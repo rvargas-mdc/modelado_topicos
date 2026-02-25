@@ -1,0 +1,3 @@
+Debitado indebidamente de operación en cuenta.
+Operación no reconocida por el usuario.
+Bloqueo preventivo e información de anulación.

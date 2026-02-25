@@ -1,0 +1,6 @@
+Debito indebido en cuenta de ahorros.
+Operación no reconocida por el usuario.
+Cuenta dejada en cero soles.
+Debito indebido en cuenta de ahorros.
+Pago no reconocido por el usuario.
+Cuenta dejada en cero soles.

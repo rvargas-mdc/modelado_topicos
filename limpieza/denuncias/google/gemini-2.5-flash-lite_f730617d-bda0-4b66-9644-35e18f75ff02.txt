@@ -1,0 +1,5 @@
+Transferencia no reconocida en tarjeta de crédito.
+Operaciones no reconocidas en cuenta de ahorros.
+Falta de medidas de seguridad en operaciones.
+Devolución de parte de operaciones no reconocidas.
+Transferencia a cuenta propia no exonera medidas de seguridad.

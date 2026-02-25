@@ -1,0 +1,6 @@
+Según la información proporcionada, las infracciones denunciadas son:
+
+Atribución indebida de un préstamo personal por S/61,900 sin consentimiento del usuario.
+Suplantación de identidad del usuario para la contratación del préstamo.
+Falta de medidas de seguridad por parte del banco para evitar la suplantación de identidad.
+Reporte del préstamo no reconocido en las centrales de riesgo, afectando el récord crediticio del usuario.

@@ -1,0 +1,6 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de membresía no solicitada por el usuario.
+Cajero no dispensó efectivo pero descontó saldo.
+Negativa a proporcionar grabaciones de cámaras de seguridad.
+Falta de información sobre dispositivos y personal que accedieron al secreto bancario del usuario.

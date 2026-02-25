@@ -1,0 +1,5 @@
+Descuento indebido de cuenta sueldo sin autorización.
+Descuento indebido de cuenta sueldo aplicado a crédito sin atrasos.
+Descuento indebido para amortizar tarjeta pese a compromiso de pago.
+Negación de refinanciamiento de deudas sin atrasos.
+Impedimento de pago de Extracash vía aplicación; exigir link mensual.

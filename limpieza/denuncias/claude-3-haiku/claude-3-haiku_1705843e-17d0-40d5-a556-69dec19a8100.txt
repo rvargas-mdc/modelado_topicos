@@ -1,0 +1,6 @@
+1. Cobro de transferencia con cargo a tarjeta de débito bloqueada sin confirmación al usuario.
+2. Banco sancionado con amonestación por infracción al artículo 19 del Código.
+3. Banco ordenado a devolver importe de operaciones no reconocidas más intereses.
+4. Banco ordenado a pagar costas del procedimiento.
+5. Banco inscrito en Registro de Infracciones y Sanciones de Indecopi.
+6. Partes llegan a acuerdo conciliatorio y dan por finalizada la controversia.

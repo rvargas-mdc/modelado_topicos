@@ -1,0 +1,5 @@
+1. Cobro irregular de dinero de la cuenta del usuario.
+2. Solicitud de devolución de monto retirado, reparación por daños y perjuicios, y devolución de costas y costos.
+3. Inicio de procedimiento administrativo sancionador contra el banco.
+4. Presentación de descargos y anexos por el banco.
+5. Informe Final de Instrucción y plazo para observaciones.

@@ -1,0 +1,3 @@
+Cobro indebido de operaciones no reconocidas por el usuario.
+Suplantación de identidad del usuario.
+Falta de monitoreo y bloqueo preventivo de operaciones inusuales por parte del banco.

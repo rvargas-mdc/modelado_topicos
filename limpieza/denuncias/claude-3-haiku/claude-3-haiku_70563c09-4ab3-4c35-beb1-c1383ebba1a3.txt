@@ -1,0 +1,13 @@
+Resumen de las infracciones denunciadas:
+
+No atendió adecuadamente el reclamo del usuario:
+
+1. No justificó el motivo por el cual las transacciones cuestionadas fueron consideradas como parte del comportamiento habitual de consumo.
+
+2. No proporcionó ejemplos concretos que evidencien que las transacciones cuestionadas se encuentran dentro del comportamiento habitual de consumo.
+
+3. La respuesta brindada sobre la validez de las transacciones cuestionadas fue genérica y no aportó claridad ni sustento.
+
+4. No brindó evidencia verificable de que las transacciones cuestionadas no activaron las alertas de fraude.
+
+5. No explicó por qué las transacciones cuestionadas no se consideraron como fraudulentas pese a sus características.

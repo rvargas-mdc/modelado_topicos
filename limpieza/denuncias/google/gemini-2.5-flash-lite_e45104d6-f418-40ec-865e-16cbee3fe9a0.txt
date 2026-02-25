@@ -1,0 +1,4 @@
+Debitado indebidamente una operación en cuenta de ahorros.
+Operación no reconocida por el usuario.
+Atención inadecuada de reclamos.
+Respuesta sin análisis de hechos y pruebas.

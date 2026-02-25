@@ -1,0 +1,6 @@
+Resumen de las infracciones denunciadas:
+
+Cobro indebido de 8 operaciones no reconocidas en la tarjeta de crédito del denunciante.
+Incumplimiento del circuito de autenticación dispuesto en el Reglamento de Ciberseguridad.
+Operaciones no realizadas con clave dinámica ni a través del dispositivo informado por el banco.
+Demora en la atención para el bloqueo de la tarjeta de crédito.

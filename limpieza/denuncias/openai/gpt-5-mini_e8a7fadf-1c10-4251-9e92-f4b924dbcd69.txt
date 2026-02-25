@@ -1,0 +1,4 @@
+Permitir operaciones no reconocidas por falta de medidas de seguridad
+Operaciones inusuales fuera del patrón de consumo
+No reportar ni emitir alertas sobre operaciones fraudulentas
+Responder de manera no adecuada a reclamo del consumidor

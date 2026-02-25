@@ -1,0 +1,3 @@
+Debitado indebidamente operaciones no reconocidas.
+No se alertó al usuario de las operaciones.
+Operaciones excedieron el límite diario.

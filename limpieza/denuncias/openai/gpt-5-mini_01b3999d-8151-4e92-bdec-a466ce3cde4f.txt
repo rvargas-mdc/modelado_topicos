@@ -1,0 +1,3 @@
+Permitir dos operaciones no reconocidas en cuenta de ahorros.
+Permitir una operación no reconocida en tarjeta de crédito.
+Permitir cambio del límite transaccional de tarjeta de crédito.

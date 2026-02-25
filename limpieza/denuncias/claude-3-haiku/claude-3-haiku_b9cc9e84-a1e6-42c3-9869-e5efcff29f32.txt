@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de operaciones no solicitadas por el usuario.
+Negativa a anular operaciones realizadas por tercero con acceso a la cuenta del usuario.
+Falta de devolución de montos transferidos por tercero a cuenta del usuario.

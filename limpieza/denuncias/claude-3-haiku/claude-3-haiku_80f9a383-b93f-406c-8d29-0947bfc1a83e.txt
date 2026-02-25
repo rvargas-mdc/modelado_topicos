@@ -1,0 +1,2 @@
+1. Cobro de membresía no solicitada por el usuario.
+2. Fallas en el aplicativo móvil del usuario que le impidieron realizar transferencias y cambiar su clave.

@@ -1,0 +1,3 @@
+Permitir operaciones no autorizadas por terceros en cuenta de ahorros.
+Atribuir contratación de cuenta y entrega de tarjeta sin autorización.
+Atribuir cuenta de ahorro sin autorización y operaciones no autorizadas.

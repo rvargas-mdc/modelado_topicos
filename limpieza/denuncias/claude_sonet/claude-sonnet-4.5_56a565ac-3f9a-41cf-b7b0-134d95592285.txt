@@ -1,0 +1,4 @@
+Llamadas de cobranza por préstamo no reconocido.
+Desembolso de préstamo no solicitado por usuario.
+Débitos automáticos en cuenta sin autorización del titular.
+Método abusivo de cobranza por parte del banco.

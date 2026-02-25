@@ -1,0 +1,7 @@
+Operaciones no reconocidas en tarjeta de crédito.
+Falta de medidas de seguridad y alertas.
+No notificación de operaciones fraudulentas.
+Solicitud de bloqueo de tarjeta no atendida.
+Información errónea sobre montos de operaciones.
+Sobregiro de línea de crédito.
+Negativa injustificada a otorgar cobertura de seguro.

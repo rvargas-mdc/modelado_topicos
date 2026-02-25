@@ -1,0 +1,3 @@
+Débito indebido de operación no reconocida en cuenta bancaria.
+Débito indebido de operación no reconocida en otra cuenta.
+Atención inadecuada del reclamo por parte del banco.

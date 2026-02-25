@@ -1,0 +1,4 @@
+1. Cobro de operaciones no autorizadas en cuenta de ahorros.
+2. Presunta infracción por no adoptar medidas de seguridad para detectar operaciones no autorizadas.
+3. Banco señala que operaciones fueron válidas por uso de datos y claves del titular.
+4. Usuario reconoce realizar operaciones habituales, pero cuestiona transferencias a cuentas extrañas y montos inusuales.

@@ -1,0 +1,4 @@
+Cargos indebidos en tarjeta de crédito no reconocidos.
+Falta de medidas de seguridad en monitoreo de operaciones.
+Débitos indebidos en cuenta de ahorros no reconocidos.
+Falta de alerta o bloqueo preventivo de tarjeta.

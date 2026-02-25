@@ -1,0 +1,4 @@
+Cargos no reconocidos en tarjeta de débito.
+Operaciones no reconocidas en cuenta de ahorros.
+Banco no adoptó medidas de seguridad, incumplimiento deber de idoneidad.
+Solicitud de devolución de cargos y comisiones cobrados.

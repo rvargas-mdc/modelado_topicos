@@ -1,0 +1,7 @@
+Cargos en tarjeta de crédito no autorizados por el titular.
+Entidad no verificó identidad del titular al realizar operaciones.
+No se alertó al titular por SMS o correo electrónico.
+Operaciones no corresponden al patrón habitual de consumo.
+Operaciones inusuales realizadas en países donde titular no estuvo.
+Cargos generaron intereses y cobros por mora.
+Titular no autorizó habilitar tarjeta para consumos en Europa.

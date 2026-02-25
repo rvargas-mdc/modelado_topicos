@@ -1,0 +1,6 @@
+Infracción al no atender adecuadamente reclamos.
+Banco respondió distinto a lo solicitado.
+No se atendió reclamo sobre yapeo erróneo.
+Se solicitó información no proporcionada.
+Falta de pruebas en gestión con destinatario.
+Negativa a confirmar titularidad de número telefónico.

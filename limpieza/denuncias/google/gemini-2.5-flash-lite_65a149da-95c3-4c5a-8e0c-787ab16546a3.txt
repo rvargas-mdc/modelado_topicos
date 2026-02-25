@@ -1,0 +1,4 @@
+No se informó el tipo de cambio aplicado.
+Se aplicó un tipo de cambio indebido.
+No se justificó el tipo de cambio aplicado.
+Se aplicó un tipo de cambio diferente al pactado.

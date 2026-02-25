@@ -1,0 +1,5 @@
+Operación no reconocida debitó cuenta de ahorros.
+Falta de medidas de seguridad para verificar validez de operación.
+No envío de copia del reclamo al correo del consumidor.
+Solicitó información sobre lugar del consumo no reconocido.
+Operación no se condecía con patrón de consumo del cliente.

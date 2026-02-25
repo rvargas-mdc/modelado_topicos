@@ -1,0 +1,5 @@
+Cobro de operaciones en tarjeta no reconocidas tras devolverla.
+Falta de monitoreo ante operaciones inusuales y no habituales.
+Atribución indebida de tarjeta adicional no solicitada.
+Permitir operaciones con tarjeta sin verificar identidad del titular.
+Permitir operación con tarjeta sin verificar identidad del titular.

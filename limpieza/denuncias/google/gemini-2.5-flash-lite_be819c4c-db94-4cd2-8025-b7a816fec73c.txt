@@ -1,0 +1,16 @@
+Atribución de contratación de tarjeta no reconocida.
+Atribución de contratación de póliza de seguro no reconocida.
+Contratación de tarjeta con identificación biométrica.
+Contratación de póliza de seguro con reconocimiento de cliente.
+Cancelación de seguro antes de notificación.
+Desconocimiento de documentos y tarjetas presentadas.
+Nulidad parcial de resolución.
+Atenución de requerimiento de información.
+Conclusión anticipada por transacción extrajudicial.
+Desistimiento de pretensión y procedimiento.
+Cuestionamiento de medios de prueba.
+Vínculo entre tarjetas y mismo contrato.
+Tarjeta no completó proceso hasta flujo final.
+Tarjeta completó íntegramente ciclo de gestión.
+Acreditación de firma y recepción de tarjeta.
+Inicio de contrato con identificación biométrica.

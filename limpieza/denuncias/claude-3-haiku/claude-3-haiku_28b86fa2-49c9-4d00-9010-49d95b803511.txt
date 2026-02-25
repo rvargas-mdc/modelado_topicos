@@ -1,0 +1,4 @@
+Resumen de las infracciones denunciadas:
+
+Banco no habría adoptado medidas de seguridad pertinentes para evitar procesamiento de operaciones bancarias no reconocidas.
+Banco realizó transferencias vía Banca Internet sin autorización del usuario.

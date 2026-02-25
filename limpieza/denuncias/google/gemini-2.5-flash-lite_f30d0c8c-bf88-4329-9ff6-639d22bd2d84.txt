@@ -1,0 +1,3 @@
+Operaciones no reconocidas en tarjeta de crédito y cuenta de ahorros.
+Falta de medidas de seguridad idóneas por parte del banco.
+Consumos no habituales que debieron ser alertados.

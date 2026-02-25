@@ -1,0 +1,8 @@
+Mensajes informando bloqueo de tarjeta por supuesto fraude.
+Operaciones no reconocidas realizadas mediante billetera electrónica iOS.
+Consumidor notificó bloqueo pero entidad permitió procesar operaciones.
+Entidad declaró improcedente reclamo alegando uso autorizado de billetera.
+Operaciones registradas en ciudad distinta a la del consumidor.
+Reclamaciones reiteradas por no reconocimiento de operaciones.
+Falta de medidas de seguridad para identificar patrones de fraude.
+Procesamiento de operaciones pese a instrucción de bloqueo.

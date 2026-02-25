@@ -1,0 +1,4 @@
+Cargos en tarjeta de crédito no reconocidos por el usuario.
+Bloqueo temporal levantado sin autorización y no cancelaron tarjeta.
+Operaciones inusuales fuera del patrón de consumo habitual.
+Atención del reclamo inadecuada; no respondieron sobre audios ni prevención.

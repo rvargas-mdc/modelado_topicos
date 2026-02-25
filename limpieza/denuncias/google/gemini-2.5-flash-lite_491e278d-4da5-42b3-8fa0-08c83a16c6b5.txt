@@ -1,0 +1,3 @@
+- Operaciones no autorizadas en tarjeta de crédito.
+- No se permitió el registro de reclamo.
+- Falta de medidas de seguridad para detectar operaciones no válidas.

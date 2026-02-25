@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cobro indebido de tres operaciones con cargo a la tarjeta de crédito del denunciante.
+Falta de verificación de la identidad del denunciante en las operaciones cuestionadas.
+Falta de validación de las operaciones a través de código o clave enviada al teléfono o correo del denunciante.

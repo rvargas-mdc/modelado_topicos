@@ -1,0 +1,4 @@
+Requerimiento indebido de descuento en planilla.
+Modificación unilateral de cronograma de pagos.
+Devolución de cuota cobrada indebidamente.
+Anulación de reprogramación de pagos.

@@ -1,0 +1,8 @@
+Cargo indebido en tarjeta de crédito.
+Retiro en cajero no reconocido por la consumidora.
+Suplantación telefónica y entrega de tarjeta.
+Movimientos en cuenta no autorizados.
+Falta de notificación al cliente sobre operaciones.
+Ausencia de políticas y medidas de seguridad preventivas.
+Manejo inadecuado de información personal y sensible.
+Falta de monitoreo y detección de operaciones irregulares.

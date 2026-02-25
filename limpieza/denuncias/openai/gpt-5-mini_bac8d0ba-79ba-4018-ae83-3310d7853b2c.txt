@@ -1,0 +1,3 @@
+Operaciones no reconocidas con tarjeta realizadas mediante Apple Pay.
+Afiliación de tarjeta a billetera electrónica sin autorización ni información.
+Falta de medidas de seguridad idóneas para la tarjeta.

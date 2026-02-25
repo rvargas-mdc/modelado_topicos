@@ -1,0 +1,3 @@
+Cobro indebido de operaciones no reconocidas por el usuario en tarjeta de crédito.
+Falta de medidas de seguridad y monitoreo de operaciones inusuales.
+Incumplimiento del deber de verificar identidad del titular.

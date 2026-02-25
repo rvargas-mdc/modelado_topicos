@@ -1,0 +1,2 @@
+1. Operación no reconocida de disposición de efectivo con cargo a tarjeta de crédito.
+2. Operación no reconocida de transferencia a terceros con cargo a cuenta de ahorros.

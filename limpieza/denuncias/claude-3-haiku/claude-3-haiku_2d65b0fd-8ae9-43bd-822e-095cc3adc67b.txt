@@ -1,0 +1,2 @@
+Cobro de membresía no solicitada por el usuario.
+Respuesta fuera del plazo informado al usuario.

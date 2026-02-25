@@ -1,0 +1,5 @@
+Cobro de transacciones no reconocidas por el usuario.
+Falta de medidas de seguridad por parte del banco.
+Devolución de importe cobrado indebidamente.
+Pago de costas y costos del procedimiento.
+Inscripción del banco en el Registro de Infracciones y Sanciones.

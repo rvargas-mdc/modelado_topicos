@@ -1,0 +1,5 @@
+No emisión de constancia de no adeudo tras pago.
+No consideraron seguros al liquidar deuda, no quedó cancelada.
+Información errónea indicando cancelación total de la deuda.
+No atendieron solicitud enviada por correo electrónico.
+No atendieron otra solicitud enviada por correo electrónico.

@@ -1,0 +1,2 @@
+1. Cobro de operaciones no reconocidas por el usuario en tarjeta de crédito.
+2. Cobro de operaciones no reconocidas por el usuario en cuenta de ahorros.

@@ -1,0 +1,22 @@
+1. Mediante Resolución N° 1 de fecha 12 de diciembre de 2024, se inició un procedimiento
+administrativo sancionador contra el Banco por presunta infracción a lo establecido en los
+artículos 1° literal c), 18° y 19° del Código de Protección y Defensa del Consumidor (en
+adelante, el Código), en tanto, habría debitado indebidamente una (1) operación de la
+cuenta de ahorros N° 821-******6 del denunciante, la cual no reconoce haber autorizado,
+pues: (i) fue víctima del delito de suplantación de identidad; (ii) no utilizó su token digital;
+(iii) no ha perdido su tarjeta; y (iv) el denunciado no cumplió con su deber de monitoreo y
+seguimiento de operaciones pues no es acorde a su comportamiento habitual de consumo
+ya que: (a) es una operación inusual, (b) no realiza operaciones vía internet, (c) ni por ese
+monto dinerario:
+Fecha Detalle Importe S/
+08/11/2024 Transferencia 3 315,30
+2. El 26 de diciembre de 2024, el Banco presentó sus descargos y formuló su allanamiento
+al cargo imputado en su contra. En esa medida, solicitó que se le imponga como sanción
+una amonestación y se le exonere del pago de los costos del procedimiento.
+
+--------------------
+
+Débito indebido de transferencia no autorizada.
+Suplantación de identidad del usuario.
+Falta de monitoreo de operaciones inusuales.
+Operación no acorde a comportamiento habitual.

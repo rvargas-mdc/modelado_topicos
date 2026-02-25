@@ -1,0 +1,5 @@
+Debito indebido de operaciones no reconocidas en cuenta de ahorros.
+Debito indebido de operaciones no reconocidas en otra cuenta.
+Falta de notificación y alerta sobre las operaciones realizadas.
+Vulneración del sistema del banco permitiendo accesos no autorizados.
+Atención inadecuada de reclamos; contraseñas calificadas como fácilmente identificables.

@@ -1,0 +1,5 @@
+Operación no reconocida cargada pese a rechazo del usuario
+No anularon transacción tras rechazo en la aplicación
+Falta de medidas de seguridad frente a operación no reconocida
+Llamada y courier facilitaron acceso a tarjeta y firma
+Bloqueo de tarjeta realizado; reclamos por cargo rechazados

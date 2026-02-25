@@ -1,0 +1,2 @@
+Cobro indebido de operaciones en tarjeta de crédito no reconocidas por el usuario.
+Incumplimiento de atención de reclamos del usuario.

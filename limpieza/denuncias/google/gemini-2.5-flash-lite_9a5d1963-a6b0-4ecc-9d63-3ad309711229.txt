@@ -1,0 +1,7 @@
+Contratación de préstamo no solicitado.
+Operaciones no reconocidas en cuenta de ahorros.
+Operación no reconocida en tarjeta de crédito.
+Operación no reconocida en otra tarjeta de crédito.
+Respuesta inadecuada a reclamos.
+Respuesta inadecuada a segundo reclamo.
+Respuesta inadecuada a tercer reclamo.

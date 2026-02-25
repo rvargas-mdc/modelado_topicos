@@ -1,0 +1,3 @@
+Cobro indebido de operación no reconocida por la usuaria en tarjeta de crédito.
+Banco no aplicó medidas de seguridad para evitar operación realizada por tercero.
+Banco no presentó descargos en el procedimiento.

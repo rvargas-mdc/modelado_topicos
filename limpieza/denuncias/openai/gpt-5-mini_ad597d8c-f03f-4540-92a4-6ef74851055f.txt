@@ -1,0 +1,3 @@
+Cargos no reconocidos en tarjeta de crédito del consumidor.
+Entidad no adoptó medidas de seguridad para prevenir consumos.
+Pago solo del monto mínimo de la cuota, generando intereses.

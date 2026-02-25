@@ -1,0 +1,5 @@
+1. Cobro de operaciones no reconocidas por el usuario en su cuenta de ahorros.
+2. Solicitud de devolución de operaciones no reconocidas y pago de intereses legales.
+3. Programación de audiencia de conciliación virtual.
+4. Presentación de descargos por parte del Banco.
+5. Acuerdo conciliatorio entre denunciante y Banco durante la audiencia.

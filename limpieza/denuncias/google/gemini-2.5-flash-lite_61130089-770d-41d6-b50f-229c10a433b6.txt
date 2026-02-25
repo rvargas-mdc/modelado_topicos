@@ -1,0 +1,2 @@
+Cajero automático no dispensó el importe total.
+Debitó importe mayor al entregado.

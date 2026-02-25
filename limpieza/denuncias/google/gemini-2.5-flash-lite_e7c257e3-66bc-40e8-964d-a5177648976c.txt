@@ -1,0 +1,4 @@
+Desembolso de préstamo no solicitado.
+Operaciones no reconocidas en cuenta bancaria.
+Transferencia y PLIN no autorizados.
+Reclamo de devolución de monto sustraído.

@@ -1,0 +1,3 @@
+Transferencia interbancaria no reconocida por el usuario.
+Banco no adoptó medidas de seguridad respecto de la operación.
+Presunta infracción al deber de idoneidad.

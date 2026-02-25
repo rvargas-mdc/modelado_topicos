@@ -1,0 +1,3 @@
+Operación no reconocida en tarjeta de crédito.
+Falta de medidas de seguridad.
+Reclamo no atendido de manera idónea.

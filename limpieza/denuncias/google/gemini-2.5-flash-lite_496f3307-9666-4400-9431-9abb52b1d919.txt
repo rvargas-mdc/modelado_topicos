@@ -1,0 +1,4 @@
+Falta de medidas de seguridad en operación de tarjeta.
+Consumo no reconocido por titular de tarjeta.
+No verificación de identidad del titular.
+Tarjeta en poder del usuario.

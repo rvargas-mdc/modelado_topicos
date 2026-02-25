@@ -1,0 +1,3 @@
+Descuento indebido en planilla de empleado.
+Modificación unilateral de cronograma de pagos.
+Reprogramación de cuotas ya descontadas previamente.

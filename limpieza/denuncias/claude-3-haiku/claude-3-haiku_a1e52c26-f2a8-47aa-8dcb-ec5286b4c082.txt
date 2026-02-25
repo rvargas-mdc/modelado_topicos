@@ -1,0 +1,4 @@
+1. Extravío de tarjeta de débito y retiros no reconocidos.
+2. Devolución de operaciones no reconocidas.
+3. Pago de costas y costos del procedimiento.
+4. Solicitud de conclusión anticipada del procedimiento por desistimiento.

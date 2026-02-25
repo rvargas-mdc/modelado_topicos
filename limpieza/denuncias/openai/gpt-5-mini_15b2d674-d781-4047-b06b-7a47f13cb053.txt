@@ -1,0 +1,2 @@
+Cobro indebido de comisión por canje de cheques.
+Se cobró pese a consulta que indicó inexistencia de comisión.

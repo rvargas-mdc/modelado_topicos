@@ -1,0 +1,2 @@
+Cobro de deuda mediante envío de mensajes de WhatsApp a familiar del usuario.
+Allanamiento del Banco a la imputación de cargos.

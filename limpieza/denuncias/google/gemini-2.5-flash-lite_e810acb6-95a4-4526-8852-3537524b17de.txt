@@ -1,0 +1,4 @@
+Operaciones no reconocidas en cuenta de ahorros.
+Banco no realizó bloqueo preventivo.
+Atención lenta en reclamo y entrega de información.
+No se informó beneficiarios de operaciones.

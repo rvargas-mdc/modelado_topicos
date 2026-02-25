@@ -1,0 +1,3 @@
+"Cobro de crédito cancelado pese a transacción.
+Cobro de monto mayor al adeudado en otro crédito.
+Proceso judicial en curso sobre la misma materia."

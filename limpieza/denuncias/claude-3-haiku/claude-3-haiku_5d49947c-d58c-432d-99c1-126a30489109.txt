@@ -1,0 +1,7 @@
+1. Cobro de operaciones bancarias no reconocidas por la usuaria.
+2. Solicitud de anulación de operaciones fraudulentas y pago de costas y costos.
+3. Prórroga de plazo al Banco para presentar descargos.
+4. Descargos del Banco: Operaciones realizadas a través de Interbank APP con dispositivos de seguridad.
+5. Informe Final de Instrucción y otorgamiento de plazo para observaciones.
+6. Observaciones del Banco: Falta de verificación de hechos y cuestionamiento de graduación de sanción.
+7. Solicitud del Banco de convocatoria a audiencia de conciliación.

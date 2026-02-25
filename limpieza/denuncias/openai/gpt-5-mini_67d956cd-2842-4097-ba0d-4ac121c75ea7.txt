@@ -1,0 +1,3 @@
+Débito indebido de operaciones en cuentas de ahorro.
+Débitos no reconocidos por el titular en transferencias digitales.
+Operaciones debitadas sin autorización válida del titular.

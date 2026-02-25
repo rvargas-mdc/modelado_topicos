@@ -1,0 +1,6 @@
+Cargos no reconocidos en tarjeta de crédito.
+Autenticaciones inválidas usadas para autorizar transacciones.
+Uso indebido de datos biométricos para autorizar operaciones.
+Discrepancia entre dispositivo informado por banco y dispositivo real.
+Operaciones autorizadas sin uso de clave dinámica.
+Demora en atención telefónica para bloqueo de tarjeta.

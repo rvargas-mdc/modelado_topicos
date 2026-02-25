@@ -1,0 +1,9 @@
+Fraude bancario por ausencia de mecanismos de seguridad idóneos
+Transferencias no reconocidas en cuentas del cliente
+Cortes de comunicación impidieron bloqueo oportuno de tarjetas
+Llamada prolongada de presunto funcionario durante bloqueo
+Banco no realizó bloqueo preventivo mientras ocurrían transferencias
+Funcionario demoró y no alertó sobre transacciones inusuales
+Reclamo declarado improcedente sin fundamentación por el banco
+Demora en atención del reclamo por parte del banco
+Banco no congeló operaciones pese a detectar patrones atípicos

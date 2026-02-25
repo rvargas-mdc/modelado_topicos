@@ -1,0 +1,4 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no autorizadas por el usuario.
+Banco buscó evitar devolución de montos cobrados.
+Banco se negó a anular compra a tiempo.

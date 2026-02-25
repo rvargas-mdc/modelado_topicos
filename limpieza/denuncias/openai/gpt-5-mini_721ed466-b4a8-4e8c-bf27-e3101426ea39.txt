@@ -1,0 +1,9 @@
+Cargos no reconocidos en cuenta corriente por transacciones fraudulentas
+Entidad financiera permitió cargos pese a patrón de consumo distinto
+Titular tenía token y solicitó bloqueo, pero cargos se realizaron
+Se impidió al usuario realizar una transferencia desde su cuenta
+Proveedor no atendió adecuadamente el reclamo, respuesta desfavorable y ambigua
+Se habría cometido fraude informático y suplantación de identidad
+Falta de sistema de monitoreo adecuado para detectar anomalías
+No se implementaron procedimientos complementarios para gestionar alertas
+No se identificaron patrones de fraude en el sistema

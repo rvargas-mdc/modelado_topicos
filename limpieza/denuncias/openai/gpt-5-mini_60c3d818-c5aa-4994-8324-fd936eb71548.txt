@@ -1,0 +1,10 @@
+Uso de datos de tarjeta para compra no reconocida.
+Compra realizada desde distinto lugar de residencia.
+No verificaron estado de activación para compras virtuales.
+No se verificaron datos consignados en la operación de compra.
+Producto comprado no entregado.
+Boleta consignó correo y celular ajenos al comprador.
+Boleta sin consignar nombre del comprador.
+Solicitó reiteradamente documentos de entrega sin recibirlos.
+Presentó reclamo sin obtener respuesta del proveedor.
+Cuestionamiento sobre medidas de seguridad en operación virtual.

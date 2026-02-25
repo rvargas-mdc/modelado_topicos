@@ -1,0 +1,5 @@
+Debitado indebidamente de operaciones de cuenta.
+Operaciones no realizadas con clave dinámica.
+No reconoce beneficiarios de operaciones.
+Operaciones realizadas con equipo celular ajeno.
+Operaciones realizadas mientras se encontraba laborando.

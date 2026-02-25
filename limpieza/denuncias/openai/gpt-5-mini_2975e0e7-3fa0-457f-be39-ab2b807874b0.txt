@@ -1,0 +1,3 @@
+Cargos indebidos en tarjeta de crédito no autorizados.
+Operaciones no coinciden con comportamiento habitual de consumo.
+No se verificó identidad al realizar las operaciones.

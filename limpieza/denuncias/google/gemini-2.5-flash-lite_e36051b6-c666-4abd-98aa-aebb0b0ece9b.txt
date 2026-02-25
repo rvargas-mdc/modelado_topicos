@@ -1,0 +1,2 @@
+- Banco no adoptó medidas de seguridad.
+- Banco no brindó información de operación no reconocida.

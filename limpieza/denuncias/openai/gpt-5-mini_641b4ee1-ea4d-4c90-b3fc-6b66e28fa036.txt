@@ -1,0 +1,8 @@
+Cobro con tipo de cambio distinto al mostrado en aplicativo.
+Aplicación del tipo de cambio días después del consumo.
+Devolución parcial del importe de la transacción.
+No atención o respuesta al reclamo presentado.
+Uso de distintos tipos de cambio sin adecuada información.
+Cobro antojadizo o con mala fe por parte del proveedor.
+No acreditación de los tipos de cambio aplicados.
+Cobro en moneda distinta a la cuenta aplicando conversión contractual.

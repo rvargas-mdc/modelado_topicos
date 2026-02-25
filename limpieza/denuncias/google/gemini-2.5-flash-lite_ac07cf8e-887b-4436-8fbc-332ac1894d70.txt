@@ -1,0 +1,5 @@
+El Banco cargó indebidamente operaciones de tarjeta de crédito no reconocidas.
+El Banco no alertó ni previno operaciones inusuales.
+Tottus permitió consumos indebidos sin verificar firma.
+Tottus no verificó la identidad del tarjetahabiente.
+El Banco no es responsable de los cargos imputados.

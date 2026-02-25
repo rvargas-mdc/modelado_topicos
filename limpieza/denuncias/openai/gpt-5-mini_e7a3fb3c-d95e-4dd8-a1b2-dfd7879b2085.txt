@@ -1,0 +1,6 @@
+Cargos por operaciones no reconocidas en tarjeta de crédito.
+No adopción de medidas de seguridad ante patrón de fraude.
+Solicitud de bloqueo de tarjeta no impidió cargos posteriores.
+Imposibilidad de afiliar tarjeta a servicio de alertas.
+Respuesta del reclamo fue desfavorable e inadecuada.
+Negativa a entregar estados de cuenta vía WhatsApp.

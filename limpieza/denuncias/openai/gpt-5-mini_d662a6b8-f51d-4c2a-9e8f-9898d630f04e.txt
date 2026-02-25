@@ -1,0 +1,5 @@
+Llamada fraudulenta de supuesto asesor que solicitó códigos.
+Transferencias desde cuenta no reconocidas por la usuaria.
+Banco no adoptó medidas de seguridad para prevenir operaciones.
+Banco no alertó sobre operaciones consecutivas no habituales.
+Solicita reembolso y suspensión de cobranza pendiente.

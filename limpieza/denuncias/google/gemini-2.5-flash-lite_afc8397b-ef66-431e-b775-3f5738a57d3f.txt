@@ -1,0 +1,4 @@
+Operación no reconocida en tarjeta de crédito.
+No se brindaron medidas de seguridad idóneas.
+Terceros realizaron operación no reconocida.
+Se permitió operación fuera del patrón de consumo.

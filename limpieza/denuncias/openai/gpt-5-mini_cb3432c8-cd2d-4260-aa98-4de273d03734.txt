@@ -1,0 +1,7 @@
+Operaciones no reconocidas cargadas a tarjeta en provincia no visitada.
+Posible clonación de la tarjeta.
+Entidad no adoptó medidas de seguridad pertinentes ni alertas.
+No se realizó bloqueo preventivo ante operaciones inusuales.
+Establecimientos sin registro fiscal, posiblemente tiendas virtuales.
+Entrega de vouchers otorgada con demora.
+Respuesta del banco al reclamo fue no favorable.

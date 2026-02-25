@@ -1,0 +1,9 @@
+Operaciones no reconocidas cargadas a tarjeta de crédito.
+Entidad no adoptó medidas de seguridad ante fraudes.
+No se reportaron ni emitieron alertas por operaciones inusuales.
+Bloqueo de tarjeta realizado después de las operaciones.
+Contratación de seguro de tarjeta sin solicitud del titular.
+Compañía de seguros negó cobertura injustificadamente.
+Respuestas a reclamos y apelaciones fueron desfavorables y tardías.
+Banco ofreció condonar deuda sin conformidad de la denunciante.
+Reclamo presentado ante defensoría del cliente financiero.

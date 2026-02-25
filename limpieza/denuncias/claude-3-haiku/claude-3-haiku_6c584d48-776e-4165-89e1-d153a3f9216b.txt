@@ -1,0 +1,4 @@
+1. Cobro de operaciones no reconocidas por la usuaria en tarjeta de crédito.
+2. Banco alega que usuaria entregó tarjeta a tercero que se hizo pasar por courier.
+3. Banco señala que operaciones se realizaron con tarjeta activa y clave secreta.
+4. Comisión declara nulidad de resolución por falta de debida motivación, ordenando nueva imputación de cargos.

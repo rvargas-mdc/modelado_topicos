@@ -1,0 +1,2 @@
+Cargo indebido de dos operaciones de micropagos.
+Tarjeta de crédito con operaciones no reconocidas.

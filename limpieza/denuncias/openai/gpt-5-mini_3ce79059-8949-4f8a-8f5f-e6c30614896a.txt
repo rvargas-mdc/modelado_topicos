@@ -1,0 +1,2 @@
+Permitir transferencia desde cuenta CTS a cuenta sueldo no reconocida.
+Permitir operaciones con cargo a cuenta sueldo no reconocidas.

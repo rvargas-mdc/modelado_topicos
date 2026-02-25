@@ -1,0 +1,4 @@
+Transferencia no autorizada y fraudulenta desde la cuenta de ahorros del usuario.
+Reincidencia del banco al permitir dicha transferencia no autorizada.
+Vulnerabilidad de los sistemas de seguridad del banco.
+Solicitud de anulación de la operación no reconocida y devolución del monto transferido.

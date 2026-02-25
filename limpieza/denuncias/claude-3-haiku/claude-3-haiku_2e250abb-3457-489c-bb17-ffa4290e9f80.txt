@@ -1,0 +1,6 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de membresía no solicitada por el usuario.
+Cajero no dispensó efectivo pero descontó saldo.
+Falsificación de firma en crédito no solicitado.
+Operación no reconocida por el usuario por S/. 60.00.

@@ -1,0 +1,4 @@
+Debitaron indebidamente operaciones sin autenticación reforzada.
+No acreditaron notificación de operaciones.
+Archivado por uso de Apple Pay no utilizado.
+Archivado por robo cibernético.

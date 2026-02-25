@@ -1,0 +1,10 @@
+Cargo indebido en tarjeta de crédito.
+Denuncia de hurto de tarjeta y uso fraudulento.
+Falta de verificación de identidad en transacción.
+Comprobante no muestra documento de identidad del titular.
+Transacción atípica sin alertas de fraude.
+No envío de notificaciones inmediatas sobre operación.
+No bloqueo de operaciones sospechosas.
+Promesa de extorno telefónico luego incumplida.
+Allanamiento parcial para evadir sanción.
+Falta de medidas de seguridad y validaciones adicionales.

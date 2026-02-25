@@ -1,0 +1,4 @@
+Apertura de cuenta de ahorros sin consentimiento del titular.
+Préstamo cargado a la cuenta no reconocido por el titular.
+Transferencias desde la cuenta no reconocidas por el titular.
+Incumplimiento de la medida correctiva ordenada.

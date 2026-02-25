@@ -1,0 +1,2 @@
+1. Operación no reconocida con cargo a tarjeta de crédito del usuario.
+2. Acuerdo entre el usuario y el banco, con desistimiento del usuario.

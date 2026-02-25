@@ -1,0 +1,5 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no autorizadas por robo de tarjeta.
+No verificación de identidad del titular.
+Incumplimiento de medidas de seguridad.
+No bloqueo preventivo de operaciones.

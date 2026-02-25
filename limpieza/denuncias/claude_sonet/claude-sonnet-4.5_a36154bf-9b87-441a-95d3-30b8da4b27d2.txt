@@ -1,0 +1,9 @@
+Bloqueo de cuentas y tarjeta sin autorización.
+
+Transferencias no autorizadas realizadas sin claves dinámicas.
+
+Falta de alertas sobre operaciones sospechosas.
+
+Respuesta insuficiente del banco ante reclamo presentado.
+
+Falta de medidas de seguridad en cuentas.

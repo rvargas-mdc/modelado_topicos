@@ -1,0 +1,5 @@
+1. Bloqueo temporal de cuenta de ahorros sin explicación.
+2. Detección de transacciones no realizadas por la denunciante.
+3. Solicitud de bloqueo inmediato de cuentas.
+4. Disconformidad con monto devuelto por el banco.
+5. Solicitud de devolución del dinero sustraído.

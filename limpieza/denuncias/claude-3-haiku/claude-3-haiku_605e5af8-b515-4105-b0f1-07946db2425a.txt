@@ -1,0 +1,12 @@
+De acuerdo a la información proporcionada, se han denunciado las siguientes infracciones:
+
+1. Cobro de membresía no solicitada por el usuario.
+2. Cajero no dispensó efectivo pero descontó saldo.
+3. Falsificación de firma en crédito no solicitado.
+4. Falta de atención a reclamos del usuario.
+5. Demora en la concreción de una transferencia interbancaria.
+6. Bloqueo de tarjetas de crédito sin previo aviso al usuario.
+7. Brindado de información contradictoria sobre vigencia y cantidad de puntos de tarjeta de crédito.
+8. Falta de entrega de hoja de reclamación.
+9. Incumplimiento de promesa de devolver llamada telefónica al usuario.
+10. Incumplimiento de promesa de atención por gerente de agencia bancaria.

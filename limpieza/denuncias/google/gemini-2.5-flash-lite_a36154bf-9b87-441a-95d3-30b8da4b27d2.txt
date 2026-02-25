@@ -1,0 +1,7 @@
+Bloqueo de cuentas y tarjeta sin atención.
+Transferencias no autorizadas sin alerta.
+Devolución de monto no conforme.
+Sanción por falta de medidas de seguridad.
+Devolución de operaciones no reconocidas.
+Imposición de multas por cada cuenta.
+Vulneración de principios de tipicidad y proporcionalidad.

@@ -1,0 +1,4 @@
+Operaciones no reconocidas en tarjetas de crédito y débito.
+El banco no adoptó medidas de seguridad.
+Se permitió el uso de datos sensibles de las tarjetas.
+El consumidor fue víctima de estafa telefónica.

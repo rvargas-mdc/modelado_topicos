@@ -1,0 +1,2 @@
+Cargos indebidos en tarjeta de crédito sin autorización del usuario.
+Cargos indebidos en tarjeta de crédito sin doble autenticación.

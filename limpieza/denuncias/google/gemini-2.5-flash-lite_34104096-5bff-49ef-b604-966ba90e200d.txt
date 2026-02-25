@@ -1,0 +1,4 @@
+Llamadas constantes de cobranza por deuda ajena.
+Continuas llamadas a pesar de notificar fallecimiento.
+Gestión de cobranza a deudo fallecido.
+Proporcionar número de contacto del fallecido.

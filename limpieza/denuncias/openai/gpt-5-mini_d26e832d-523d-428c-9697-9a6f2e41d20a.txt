@@ -1,0 +1,4 @@
+Transferencia entre cuentas propias no reconocida por el usuario.
+Transferencia desde cuenta free no reconocida por el usuario.
+Operación pese a recibir clave dinámica en celular del usuario.
+Operación realizada desde equipo iPhone no perteneciente al usuario.

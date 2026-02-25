@@ -1,0 +1,48 @@
+Cargo indebido de tres operaciones en tarjeta de crédito.
+Operaciones no acreditadas con mecanismos de ciberseguridad.
+Declarada infundada denuncia por verificación de identidad.
+No se efectuaron con ingreso de código o validación secreta.
+Ordenan extornar operaciones, intereses y comisiones.
+Solicitar rectificación en Central de Riesgos.
+Responder reclamos del denunciante.
+Inscripción en Registro de Infracciones y Sanciones.
+El banco visualizó correcta realización de operaciones.
+Operaciones realizadas vía Banca por Internet.
+Se requiere clave secreta y clave digital.
+Dispositivo marcado como confiado solo requiere clave.
+Pasos para pago de servicios vía web o app.
+Contraseña y clave digital solicitadas para concretar pago.
+Denunciante afiliado a Banca Virtual y bloqueado.
+Número móvil para recibir claves digitales.
+Correcto ingreso a web con clave digital y validación.
+Cada operación generó código de autorización único.
+Operaciones generaron código de operación.
+Cumplieron con segundo paso del reglamento.
+Notificaron al denunciante de las operaciones.
+Cliente debe custodiar su información y claves.
+Entidades financieras cargan cuentas según órdenes de pago.
+Principio de predictibilidad.
+Exclusión de responsabilidad a entidades financieras.
+Principio de Presunción de Veracidad.
+No es posible determinar quién realizó las operaciones.
+Sistema de monitoreo para detectar transacciones fraudulentas.
+Análisis de autorización para determinar fraude.
+Cumplieron con validez de operaciones.
+Sistemas de monitoreo se activan ante operaciones sospechosas.
+Consumos del cliente eran similares o superiores.
+Sanción impuesta desproporcionada.
+No se consideró reporte "Detalle de Autorización".
+Reporte "Detalle de Autorización" para cuentas pasivas.
+Generaron código en sistema por cada operación.
+Generaron número de operación.
+Principios de Verdad Material y Presunción de Veracidad.
+Declarar infundada la denuncia.
+Enrolamiento a Banca Virtual acreditado.
+Afiliación de número móvil para claves digitales.
+Ingreso con clave alfanumérica y clave digital.
+Generación de código único de autenticación.
+Reporte "Detalle de Asiento del Histórico" para cuentas pasivas.
+Notificaron al denunciante las operaciones no reconocidas.
+Responsabilidad exclusiva del cliente sobre sus claves.
+Usuarios responsables de mantener secreto de claves.
+Advertencia sobre fraudes comunes.

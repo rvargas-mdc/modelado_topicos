@@ -1,0 +1,2 @@
+Cobro indebido de operación no reconocida por el usuario.
+Atención inadecuada de reclamo por operación no reconocida.

@@ -1,0 +1,3 @@
+1. Cobro indebido de operación en tarjeta de crédito no reconocida por la denunciante.
+2. El banco alega que la operación se realizó a través de la aplicación móvil con clave alfanumérica y clave digital enviada por SMS.
+3. El banco indica que notificó a la denunciante por correo electrónico y bloqueó preventivamente la tarjeta.

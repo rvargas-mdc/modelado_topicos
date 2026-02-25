@@ -1,0 +1,5 @@
+1. Robo de teléfono móvil y tarjetas de crédito.
+2. Operaciones no reconocidas realizadas mediante Banca Móvil.
+3. Falta de adopción de medidas de seguridad por el Banco.
+4. Solicitud de reconocimiento de montos de operaciones no reconocidas.
+5. Solicitud de indemnización por daños y perjuicios.

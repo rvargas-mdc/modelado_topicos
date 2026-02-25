@@ -1,0 +1,6 @@
+Banco no cumplió medidas de seguridad.
+Permitió operaciones no reconocidas.
+Reportó indebidamente al consumidor.
+Tiendas no cumplió política de entrega.
+Productos no fueron entregados.
+No se remitió nota de compra.

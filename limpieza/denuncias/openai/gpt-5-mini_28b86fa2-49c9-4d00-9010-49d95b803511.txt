@@ -1,0 +1,3 @@
+Falla en medidas de seguridad banco; operaciones no reconocidas procesadas.
+Transferencias por Banca Internet cargadas a cuenta de ahorro.
+Operaciones no reconocidas por el titular.

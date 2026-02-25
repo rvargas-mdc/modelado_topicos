@@ -1,0 +1,3 @@
+Debito indebido de operaciones no reconocidas.
+No se verificó identidad del titular.
+Desconocimiento de persona que retiró dinero.

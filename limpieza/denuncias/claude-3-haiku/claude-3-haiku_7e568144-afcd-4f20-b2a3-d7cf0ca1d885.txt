@@ -1,0 +1,2 @@
+1. Atribución de préstamo personal no contratado por el usuario.
+2. Realización de operación no reconocida en cuenta de ahorros del usuario.

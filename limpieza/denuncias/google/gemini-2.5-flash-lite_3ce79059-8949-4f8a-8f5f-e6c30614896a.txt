@@ -1,0 +1,9 @@
+No cumplió medidas de seguridad en operaciones.
+Permitió transferencias no reconocidas por el usuario.
+Permitió operaciones no reconocidas por el usuario.
+Se desiste parcialmente del allanamiento.
+Cliente ingresó a banca móvil exitosamente.
+Operación entre las mismas cuentas.
+Cliente debe cuidar su tarjeta.
+Tarjeta sin bloqueo al momento de operación.
+Operación de transferencia a favor de su cuenta.

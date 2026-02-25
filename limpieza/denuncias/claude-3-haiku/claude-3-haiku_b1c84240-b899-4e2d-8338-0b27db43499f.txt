@@ -1,0 +1,6 @@
+1. Cobro de membresía no solicitada por el usuario.
+2. Solicitud de audiencia de conciliación virtual.
+3. Presentación de estados de movimientos de tarjeta de débito.
+4. Solicitud de audiencia de conciliación virtual por la aseguradora.
+5. Designación de representantes para audiencia de conciliación virtual.
+6. Acuerdo conciliatorio parcial con el banco, sin acuerdo con la aseguradora.

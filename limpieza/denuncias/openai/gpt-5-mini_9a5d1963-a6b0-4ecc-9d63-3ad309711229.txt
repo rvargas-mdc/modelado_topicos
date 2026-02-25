@@ -1,0 +1,8 @@
+Operaciones no reconocidas en cuenta y tarjetas.
+Atribución de contratación de préstamo no solicitado ni consentida.
+Operaciones desde cuenta de ahorros sin consentimiento ni alertas.
+Operación con tarjeta de crédito no reconocida.
+Operación con otra tarjeta de crédito no reconocida.
+Respuesta inadecuada a reclamo; niegan recuperación de fondos.
+Respuesta reiterada que rechaza atención favorable del reclamo.
+No respondieron a reclamo de impugnación.

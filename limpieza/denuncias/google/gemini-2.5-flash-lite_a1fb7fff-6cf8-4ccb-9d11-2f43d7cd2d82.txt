@@ -1,0 +1,2 @@
+Consumo no reconocido en tarjeta de crédito.
+Filtración de datos personales y financieros.

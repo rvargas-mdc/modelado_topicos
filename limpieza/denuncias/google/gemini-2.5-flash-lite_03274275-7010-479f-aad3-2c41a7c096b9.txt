@@ -1,0 +1,3 @@
+Operaciones no reconocidas en tarjeta de crédito.
+Tarjeta de crédito dada de baja.
+Falta de medidas de seguridad.

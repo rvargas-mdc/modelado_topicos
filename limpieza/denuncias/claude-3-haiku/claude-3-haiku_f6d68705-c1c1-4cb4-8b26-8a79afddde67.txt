@@ -1,0 +1,5 @@
+Hechos denunciados:
+
+Cobro indebido de dos operaciones en tarjeta de crédito no autorizadas por el usuario.
+Falta de verificación de identidad del titular.
+Falta de alerta o notificación al usuario sobre las operaciones.

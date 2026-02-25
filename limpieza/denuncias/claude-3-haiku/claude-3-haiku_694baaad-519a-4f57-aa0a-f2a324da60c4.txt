@@ -1,0 +1,4 @@
+1. Cobro de deuda a pesar de haber cancelado la totalidad de la deuda.
+2. Incumplimiento en la entrega de la carta de no adeudo.
+3. Llamadas de cobranza de Serlefin a pesar de haber cancelado la deuda.
+4. Negativa de Interbank a entregar la constancia de no adeudo.

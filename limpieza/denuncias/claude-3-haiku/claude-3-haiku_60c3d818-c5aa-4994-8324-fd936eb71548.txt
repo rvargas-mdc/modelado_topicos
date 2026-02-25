@@ -1,0 +1,7 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de membresía no solicitada por el usuario.
+Cajero no dispensó efectivo pero descontó saldo.
+Falsificación de firma en crédito no solicitado.
+Falta de atención a requerimiento del usuario.
+Falta de verificación de datos en operación de compra.

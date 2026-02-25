@@ -1,0 +1,8 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de membresía no solicitada por el usuario.
+Cajero no dispensó efectivo pero descontó saldo.
+Abono indebido de fondos a cuenta mancomunada.
+Retención indebida de fondos en cuenta mancomunada.
+Atención inadecuada de reclamo por abono indebido.
+Atención inadecuada de reclamo por retención indebida.

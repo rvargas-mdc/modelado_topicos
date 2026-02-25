@@ -1,0 +1,5 @@
+Banco cargó operación en tarjeta de crédito no reconocida.
+Banco no activó medidas de seguridad ante estafa.
+Banco no brindó asesoría adecuada sobre fraude y aseguradora.
+Chubb negó cobertura al siniestro.
+Chubb no brindó orientación ni procedimiento claro para siniestro.

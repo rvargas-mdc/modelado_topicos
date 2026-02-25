@@ -1,0 +1,4 @@
+Operaciones no reconocidas cargadas a la cuenta de ahorros.
+Falta de medidas de seguridad para prevenir operaciones fraudulentas.
+No bloqueo de tarjeta pese a alerta por movimientos inusuales.
+Atribución indebida de préstamo mediante aplicación de pago vinculada.

@@ -1,0 +1,3 @@
+Cargos no autorizados en tarjeta de crédito.
+Falta de verificación de identidad del titular.
+No alertó ni notificó al titular sobre las operaciones.

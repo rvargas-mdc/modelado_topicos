@@ -1,0 +1,5 @@
+Debitado indebidamente una operación no reconocida.
+Robo de celular y desconocimiento del beneficiario.
+Transferencia interbancaria no habitual.
+Alerta de seguridad activada posterior a la operación.
+Operación realizada con credenciales y token válidos.

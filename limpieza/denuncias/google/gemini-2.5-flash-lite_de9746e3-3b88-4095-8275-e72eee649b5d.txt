@@ -1,0 +1,2 @@
+No adopción de medidas de seguridad en autorizar movimientos no reconocidos.
+Transferencias y pagos no autorizados por el usuario.

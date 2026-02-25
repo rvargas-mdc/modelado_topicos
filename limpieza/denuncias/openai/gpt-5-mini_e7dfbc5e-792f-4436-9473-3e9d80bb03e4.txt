@@ -1,0 +1,8 @@
+Operaciones no reconocidas en tarjeta de crédito.
+Banco no adoptó medidas de seguridad para prevenir operaciones.
+No envío de estados de cuenta al correo electrónico autorizado.
+Respuesta de reclamo enviada a correo electrónico incorrecto.
+Impugnación no identificó establecimiento ni proporcionó su dirección.
+Continuaron cobros por consumos no reconocidos.
+Registro en reporte crediticio por deudas de consumos no reconocidos.
+Acoso mediante llamadas, WhatsApp y correos sobre cobranza.

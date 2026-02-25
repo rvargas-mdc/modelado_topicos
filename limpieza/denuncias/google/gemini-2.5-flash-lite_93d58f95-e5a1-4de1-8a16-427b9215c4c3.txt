@@ -1,0 +1,3 @@
+Debitado indebidamente operaciones no reconocidas por el usuario.
+No adoptó medidas de seguridad ni alertó al usuario.
+No previno operaciones inusuales en su cuenta.

@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de operación no reconocida en tarjeta de crédito.
+Falta de medidas de seguridad idóneas para la tarjeta de crédito.
+Reporte negativo en centrales de riesgo por operación no reconocida.

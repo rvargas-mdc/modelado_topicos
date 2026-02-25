@@ -1,0 +1,5 @@
+1. Atención inadecuada de reclamos del usuario.
+2. Hechos no revelados explícitamente.
+3. Allanamiento a cargos imputados por el Banco.
+4. Ratificación de allanamiento por el Banco.
+5. Solicitud de devolución de monto dinerario por el usuario.

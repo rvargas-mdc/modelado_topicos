@@ -1,0 +1,7 @@
+Llamadas fraudulentas suplantando identidad del banco.
+Visita de courier entregando nueva tarjeta y cortando tarjeta.
+Solicitaron desinstalar e instalar aplicativo móvil.
+Realización de cargos no reconocidos en tarjeta de crédito.
+No recibo de alertas o avisos por correo electrónico.
+Banco exigió pago y rechazó reclamos del usuario.
+Presunta falta de medidas de seguridad e idoneidad.

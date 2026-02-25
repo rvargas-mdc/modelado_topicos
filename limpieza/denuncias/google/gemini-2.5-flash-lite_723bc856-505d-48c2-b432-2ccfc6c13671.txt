@@ -1,0 +1,5 @@
+Operaciones no reconocidas en cuenta de ahorros.
+Banco no adoptó medidas de seguridad.
+No se enviaron alertas ni bloqueo.
+Transacción no corresponde a patrón habitual.
+Infracción al deber de idoneidad.

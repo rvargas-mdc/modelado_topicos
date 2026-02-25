@@ -1,0 +1,5 @@
+Cargó indebidamente una operación en tarjeta de crédito.
+No verificó la identidad del tarjetahabiente.
+No cumplió con el deber de seguimiento y monitoreo.
+La operación no es acorde a su comportamiento habitual.
+No solicitó el DNI para su realización.

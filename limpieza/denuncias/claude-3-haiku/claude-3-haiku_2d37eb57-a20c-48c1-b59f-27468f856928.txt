@@ -1,0 +1,3 @@
+Debitación indebida de operaciones no autorizadas por la denunciante.
+Falta de medidas de seguridad en el monitoreo y seguimiento de las operaciones.
+Incumplimiento de aplicar mecanismos de autenticación reforzada.

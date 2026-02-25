@@ -1,0 +1,4 @@
+Otorgamiento de adelanto de sueldo no solicitado a cuenta
+Operación de retiro no autorizada desde la cuenta del cliente
+Falta de medidas de seguridad para detectar transacciones no autorizadas
+Reclamos del cliente desestimados por considerar operaciones realizadas vía app

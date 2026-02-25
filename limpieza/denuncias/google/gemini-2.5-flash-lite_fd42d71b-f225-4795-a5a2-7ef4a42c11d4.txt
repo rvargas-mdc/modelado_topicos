@@ -1,0 +1,5 @@
+Cobro de cheques falsos no emitidos por el usuario.
+Congelamiento de cuenta bancaria sin justificación.
+No devolución de importe cobrado indebidamente.
+No atención a carta notarial presentada.
+No atención a solicitud posterior.

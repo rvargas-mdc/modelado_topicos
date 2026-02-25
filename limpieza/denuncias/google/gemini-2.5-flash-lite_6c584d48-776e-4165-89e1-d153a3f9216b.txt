@@ -1,0 +1,6 @@
+Cargos por operaciones no reconocidas en tarjeta de crédito.
+Entrega de tarjeta a desconocido.
+Omisión de deber de resguardo de tarjeta.
+Falta de acreditación de comunicación bancaria.
+Operaciones realizadas con tarjeta activa y PIN.
+Consumos dentro del patrón de la denunciante.

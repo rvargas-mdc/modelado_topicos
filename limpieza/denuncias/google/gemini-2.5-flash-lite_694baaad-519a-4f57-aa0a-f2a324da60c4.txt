@@ -1,0 +1,3 @@
+Cobro de deuda cancelada.
+No entrega de carta de no adeudo.
+Cobro de deuda vigente.

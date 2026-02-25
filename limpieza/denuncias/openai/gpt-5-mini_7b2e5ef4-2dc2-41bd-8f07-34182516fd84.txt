@@ -1,0 +1,2 @@
+Cargos no autorizados en tarjeta de crédito.
+No se verificó la identidad del titular.

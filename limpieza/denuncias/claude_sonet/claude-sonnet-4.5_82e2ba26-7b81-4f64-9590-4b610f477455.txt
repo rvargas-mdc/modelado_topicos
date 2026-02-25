@@ -1,0 +1,7 @@
+1687-2023/CC1--------------------Operaciones no reconocidas en tarjeta de crédito.
+Demora en bloqueo de tarjeta solicitado.
+Falta de respuesta a comunicaciones del usuario.
+Reclamos no atendidos adecuadamente por el banco.
+Envío de cartas de cobranza amenazantes.
+Falta de verificación de operaciones cuestionadas.
+====================

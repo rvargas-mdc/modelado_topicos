@@ -1,0 +1,6 @@
+Llamada fraudulenta que informó presunta clonación de tarjeta.
+Retiros, transferencias y compras por internet no reconocidos.
+Consumos no reconocidos cargados a tarjeta de crédito.
+Consumos no reconocidos cargados a cuenta de ahorros.
+Solicitud de bloqueo e inmovilización de operaciones.
+Banco no adoptó medidas de seguridad; permitió consumos no reconocidos.

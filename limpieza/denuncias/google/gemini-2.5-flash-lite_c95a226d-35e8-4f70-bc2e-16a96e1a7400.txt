@@ -1,0 +1,5 @@
+Depósito no abonado en cuenta de destino.
+Diferencia en número de transacción.
+Abono realizado pero con número de operación distinto.
+Falta de acreditación de no abono.
+Cumplimiento de abono en cuenta de destino.

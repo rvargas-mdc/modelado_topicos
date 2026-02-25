@@ -1,0 +1,2 @@
+Transferencia desde la cuenta sin autorización del titular.
+Falta de medidas de seguridad para detectar operación no autorizada.

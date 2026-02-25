@@ -1,0 +1,7 @@
+Pago dirigido abonado a cuenta de un tercero.
+Cambio del formulario de pago dirigido consignando datos de tercero.
+Envío de copia falsa del formulario de pago dirigido.
+Pago por plataforma de pago móvil abonado a tercero.
+No respuesta al reclamo interpuesto por el consumidor.
+No atención al requerimiento de información sobre el cajero.
+No remisión de copia del comprobante de pago solicitado.

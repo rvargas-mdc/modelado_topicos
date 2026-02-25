@@ -1,0 +1,4 @@
+Cargos indebidos en tarjeta de crédito.
+Operaciones no autorizadas por el usuario.
+Exposición de información confidencial por imprudencia del usuario.
+Operaciones realizadas conforme a instrucciones del cliente.

@@ -1,0 +1,8 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de membresía no solicitada por el usuario.
+Cajero no dispensó efectivo pero descontó saldo.
+Cobro de intereses por consumos no reconocidos por el usuario.
+Falta de atención a llamadas telefónicas del usuario.
+Negativa a otorgar cobertura de seguro de tarjeta de crédito.
+Falta de información oportuna sobre alcances del seguro contratado.

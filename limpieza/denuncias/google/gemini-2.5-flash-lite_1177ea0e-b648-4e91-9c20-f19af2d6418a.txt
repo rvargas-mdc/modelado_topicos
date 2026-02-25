@@ -1,0 +1,5 @@
+Cargó indebidamente operación en tarjeta de crédito.
+No verificó identidad del titular.
+No envió alerta de operación inusual.
+Tarjeta de crédito fue robada.
+Operación cargada a pesar de bloqueo.

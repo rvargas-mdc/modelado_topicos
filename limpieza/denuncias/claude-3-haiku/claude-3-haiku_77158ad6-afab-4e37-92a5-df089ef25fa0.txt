@@ -1,0 +1,4 @@
+Resumen de las infracciones denunciadas:
+
+Banco BBVA Perú no habría aplicado las medidas de seguridad necesarias para evitar operaciones no reconocidas por el usuario con su tarjeta de débito.
+Cobro de operaciones no reconocidas por el usuario.

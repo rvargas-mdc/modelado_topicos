@@ -1,0 +1,9 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de crédito Mype sin firma de contrato por el usuario.
+Desembolso de crédito Mype sin conocimiento del usuario.
+Negativa de pago anticipado de crédito Mype.
+Realización de operaciones no reconocidas por el usuario en su cuenta.
+Falta de alerta ante operaciones no reconocidas en la cuenta del usuario.
+Demora en atender solicitud de bloqueo de cuenta.
+Falta de transparencia y actitud irregular del sectorista del banco.

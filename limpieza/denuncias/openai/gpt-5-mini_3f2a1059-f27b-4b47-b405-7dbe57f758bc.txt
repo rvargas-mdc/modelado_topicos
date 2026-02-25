@@ -1,0 +1,5 @@
+Transferencia no llegó al beneficiario.
+Banco debitó comisión por investigación.
+Banco reconoció error pero no entregó fondos.
+No respondió a requerimiento sobre el estado de la transferencia.
+Banco anunció abono menor por deducción de gastos.

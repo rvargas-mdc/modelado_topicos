@@ -1,0 +1,6 @@
+Desembolso de crédito sin firma de contrato.
+Crédito sin conocimiento ni suscripción de documento.
+Firma de contrato con fecha anterior al desembolso.
+Denegación de pago adelantado no comunicado previamente.
+Operaciones no reconocidas desde cuenta a cuentas desconocidas.
+Falta de alerta ante transacciones no reconocidas.

@@ -1,0 +1,5 @@
+Débitos indebidos de la cuenta de ahorros de la denunciante.
+Operaciones no realizadas con clave dinámica.
+Beneficiarios desconocidos por la denunciante.
+Operaciones realizadas con equipo celular distinto al de la denunciante.
+Operaciones realizadas mientras la denunciante se encontraba laborando.

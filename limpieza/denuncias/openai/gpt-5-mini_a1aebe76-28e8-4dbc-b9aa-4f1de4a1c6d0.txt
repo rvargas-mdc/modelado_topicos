@@ -1,0 +1,7 @@
+Llamada fraudulenta usando número oficial del banco.
+Realización de cargos en tarjeta no reconocidos por el consumidor.
+Banco no bloqueó determinadas operaciones atípicas en la tarjeta.
+Banco negó reclamo y no anuló cargos cuestionados.
+Banco efectuó cobros automáticos en cuentas pese a depósito previo.
+Incumplimiento de medidas de seguridad exigidas a la entidad financiera.
+Suplantación de identidad mediante solicitud de datos y códigos.

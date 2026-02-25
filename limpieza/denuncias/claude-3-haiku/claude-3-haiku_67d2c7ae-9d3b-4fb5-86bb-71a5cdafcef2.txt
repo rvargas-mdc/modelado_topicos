@@ -1,0 +1,5 @@
+1. Retención de tarjeta de cajero automático manipulado por terceros.
+2. Retiros y compras no reconocidas por el usuario.
+3. Solicitud de devolución de retiros y compras no reconocidas.
+4. Presentación de descargos por parte del Banco.
+5. Acuerdo conciliatorio entre denunciante y Banco.

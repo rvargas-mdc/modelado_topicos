@@ -1,0 +1,6 @@
+Débitos indebidos de operaciones no autorizadas en cuenta de ahorros
+Titular no autorizó operaciones desde su teléfono ni con clave
+Opción de compras por internet de la cuenta estaba bloqueada
+No recibió notificación por correo electrónico sobre dichas operaciones
+Banco no cumplió deber de monitoreo ni alertó al teléfono
+Operaciones excedieron el límite máximo diario de transacción

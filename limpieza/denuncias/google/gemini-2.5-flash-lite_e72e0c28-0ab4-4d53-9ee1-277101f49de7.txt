@@ -1,0 +1,3 @@
+Negativa a aceptar pago para amortizar crédito.
+Solicita se acepte pago con fecha anterior.
+Solicita pago de gastos y perjuicios.

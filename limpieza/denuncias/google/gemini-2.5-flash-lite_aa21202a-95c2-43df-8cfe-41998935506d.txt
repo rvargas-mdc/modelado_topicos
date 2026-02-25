@@ -1,0 +1,8 @@
+Solicitud de aplazamiento de pago de préstamo.
+No se recibió respuesta a la solicitud.
+Se solicitó pago de cuota para reprogramación.
+Se consideró trato discriminatorio.
+No se atendió solicitud de cita.
+Se enviaron mensajes de cobranza indebidamente.
+Se solicitó evidencia de salud de cónyuge.
+Se solicitó documentación legible de salud.

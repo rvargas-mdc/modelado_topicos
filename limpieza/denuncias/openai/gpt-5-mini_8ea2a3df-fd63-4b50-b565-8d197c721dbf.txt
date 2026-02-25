@@ -1,0 +1,2 @@
+Operación en tarjeta de crédito no reconocida por consumidor.
+No activaron nueva tarjeta de crédito, limitando acceso a cuenta.

@@ -1,0 +1,4 @@
+Robo de tarjeta de crédito.
+Operaciones no reconocidas por el usuario.
+Firma no pertenece al usuario.
+Vouchers sin número de DNI del usuario.

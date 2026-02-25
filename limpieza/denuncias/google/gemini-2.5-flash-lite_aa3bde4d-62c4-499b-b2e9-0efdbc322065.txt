@@ -1,0 +1,7 @@
+Debito indebido en cuenta de ahorros por fraude.
+Banco permitió uso de datos personales para fraude.
+Error en monto de operación debitada.
+Transferencia a cuenta usada para fraudes.
+Banco no recuperó fondos de transferencia fraudulenta.
+Operación realizada con tarjeta y clave secreta.
+Consumidor no acreditó obligación de devolución.

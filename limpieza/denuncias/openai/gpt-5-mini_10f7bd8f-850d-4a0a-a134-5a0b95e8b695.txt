@@ -1,0 +1,11 @@
+Débito indebido en cuenta por operación no reconocida.
+Permiso de acceso de terceros a la cuenta sin autorización.
+Suplantación de identidad para realizar la operación.
+Titular mantuvo la tarjeta en su poder.
+Banco no aplicó medidas de seguridad ante comportamiento inusual.
+No entregó la clave secreta a terceros.
+No bloqueo temporal de tarjeta antes de operación no reconocida.
+Banco no acreditó cumplimiento de mecanismos de seguridad.
+Falta de autenticación reforzada en operaciones digitales.
+No se notificó al usuario sobre la operación.
+Monitoreo y alarmas no evitaron la operación cuestionada.

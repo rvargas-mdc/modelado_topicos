@@ -1,0 +1,4 @@
+1. Cobro de operación no reconocida por la usuaria en su tarjeta de crédito.
+2. Falta de medidas de seguridad por parte del banco para monitorear y alertar sobre operaciones no reconocidas.
+3. Ordenan al banco extornar la operación no reconocida, devolver los abonos realizados por la usuaria y solicitar rectificación ante la central de riesgos.
+4. Banco apela solo el extremo de la medida correctiva, quedando consentidos los demás extremos de la resolución.

@@ -1,0 +1,5 @@
+Cobro indebido de dos operaciones de la cuenta de ahorros del denunciante.
+Banco alega que las operaciones fueron realizadas con uso físico de la tarjeta de débito e ingreso de clave secreta del denunciante.
+Banco indica que las operaciones fueron válidas según reportes de operaciones y wincha auditora.
+Banco señala que no aplica Reglamento de Seguridad de la Información, pues operaciones se realizaron en ATM.
+Banco afirma que la tarjeta del denunciante se encontraba activa al momento de las operaciones reclamadas.

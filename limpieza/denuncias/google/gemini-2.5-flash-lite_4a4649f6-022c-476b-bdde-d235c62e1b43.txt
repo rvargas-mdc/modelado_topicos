@@ -1,0 +1,6 @@
+Debito indebido de operaciones no reconocidas.
+No aplicó medidas de seguridad.
+No realizó bloqueo temporal de tarjeta.
+No alertó sobre transacciones sospechosas.
+Devolución de importe total de operaciones.
+Pago de costas del procedimiento.

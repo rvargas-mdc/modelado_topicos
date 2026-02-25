@@ -1,0 +1,4 @@
+Debito indebido de operaciones no autorizadas.
+El usuario fue víctima de robo de celular y tarjeta.
+El banco no monitoreó operaciones inusuales.
+Las operaciones se realizaron mediante billetera digital no afiliada.

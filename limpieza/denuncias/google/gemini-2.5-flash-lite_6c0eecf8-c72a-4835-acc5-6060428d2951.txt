@@ -1,0 +1,4 @@
+Debitado indebidamente operaciones no reconocidas.
+No alertó ni bloqueó tarjeta ante operaciones inusuales.
+Atribución indebida de préstamo no solicitado.
+No atendió reclamo del consumidor.

@@ -1,0 +1,9 @@
+Brindar información errónea sobre deuda vencida.
+No atender pedido de cambio de cuenta de ahorros.
+Exponer datos personales del denunciante a terceros.
+Desembolsar suma menor a la solicitada en préstamo.
+No entregar copia de documentos de ampliación de préstamo.
+Cobrar importe menor al valor real de la cuota.
+No atender reclamos telefónicos por exposición de datos.
+Permitir apertura de cuentas por terceras personas.
+Métodos abusivos de cobranza sin requerimiento escrito.

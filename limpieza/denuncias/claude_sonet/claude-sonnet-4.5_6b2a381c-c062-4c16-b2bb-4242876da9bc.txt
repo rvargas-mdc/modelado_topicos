@@ -1,0 +1,7 @@
+1. Mediante Resolución N°1 de fecha 16 de enero de 2025, se inició un procedimiento administrativo sancionador contra el Banco por presunta infracción a lo establecido en los artículos 1° literal c), 18° y 19° del Código de Protección y Defensa del Consumidor (en adelante, el Código), toda vez que, habría debitado indebidamente de su cuenta de ahorros N° 193-******4064, una (01) operación por el importe de S/ 10 000,00, bajo el concepto de "Pago Tarjeta Negocio"; la cual no reconoce, pues: (i) se realizó sin su consentimiento; y, (ii) su cuenta de ahorros no está asociada a la cuenta de su empresa, lo cual contravendría la Ley General de Sociedades:
+
+**Salida:**
+
+Débito indebido de cuenta de ahorros.
+Operación realizada sin consentimiento del usuario.
+Cuenta personal asociada indebidamente a cuenta empresarial.

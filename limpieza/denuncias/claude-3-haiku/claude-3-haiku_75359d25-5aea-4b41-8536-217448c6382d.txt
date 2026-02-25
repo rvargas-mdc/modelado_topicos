@@ -1,0 +1,11 @@
+Resumen de las infracciones denunciadas:
+
+1. Brindó información errónea al usuario sobre deuda vencida.
+2. No atendió pedido de cambio de número de cuenta para pagos.
+3. Expuso datos personales del usuario, generando solicitudes de terceros.
+4. Desembolsó solo S/. 11,000 de un préstamo de S/. 45,000.
+5. No entregó copia de documentos de ampliación de préstamo.
+6. Cobró cuota menor al valor real.
+7. No atendió reclamos telefónicos del usuario.
+8. Permitió apertura de cuentas por terceros sin medidas de seguridad.
+9. Utilizó métodos abusivos de cobranza sin requerimiento previo por escrito.

@@ -1,0 +1,4 @@
+1. Cobro indebido de 21 operaciones en tarjeta de crédito no autorizadas por el usuario.
+2. Descuentos en cuenta de ahorros y acciones de cobranza por operaciones no reconocidas.
+3. Banco apeló medida correctiva de extornar monto cobrado indebidamente, argumentando que ya lo habría devuelto.
+4. Banco solicitó dejar sin efecto pago de costas, indicando que plazo otorgado fue insuficiente.

@@ -1,0 +1,4 @@
+1. Apertura de cuenta de ahorros sin consentimiento de la usuaria.
+2. Préstamo de S/5,000 no reconocido por la usuaria.
+3. Transferencias de S/1,000 cada una no reconocidas por la usuaria.
+4. Incumplimiento de medida correctiva ordenada.

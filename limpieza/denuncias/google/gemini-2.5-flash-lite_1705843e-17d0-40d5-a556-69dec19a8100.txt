@@ -1,0 +1,5 @@
+No se adoptaron medidas de seguridad para transferencia.
+Tarjeta de débito bloqueada, pero se realizó operación.
+No se envió confirmación de transacción ni token digital.
+Devolución de importe por operaciones no reconocidas.
+Pago de intereses y costas del procedimiento.

@@ -1,0 +1,4 @@
+Permitir operaciones no reconocidas por falta de medidas de seguridad.
+Reportar indebidamente al consumidor ante las centrales de riesgo.
+Incumplir la política de entrega de productos adquiridos.
+Productos adquiridos no fueron entregados ni se remitió nota.

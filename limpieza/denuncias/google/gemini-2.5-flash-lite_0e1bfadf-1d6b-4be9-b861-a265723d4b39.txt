@@ -1,0 +1,3 @@
+Debito indebido en cuenta de ahorros.
+Operaciones no autorizadas por el usuario.
+No recibió notificación de las operaciones.

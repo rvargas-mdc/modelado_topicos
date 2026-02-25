@@ -1,0 +1,3 @@
+Atribución indebida de préstamo no solicitado.
+Debito indebido de operaciones no reconocidas.
+Falta de medidas de seguridad en transacciones.

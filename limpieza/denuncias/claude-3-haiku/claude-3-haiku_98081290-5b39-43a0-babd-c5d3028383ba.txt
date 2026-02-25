@@ -1,0 +1,8 @@
+1. Atribución de préstamo PYM no reconocido por el usuario.
+2. Allanamiento del Banco.
+3. Denuncia declarada fundada por allanamiento del Banco.
+4. Banco apeló resolución final.
+5. Nulidad de resolución final por vulneración de debido procedimiento.
+6. Audiencia de conciliación sin asistencia del usuario.
+7. Nueva audiencia de conciliación con asistencia de ambas partes.
+8. Acuerdo conciliatorio entre el usuario y el Banco.

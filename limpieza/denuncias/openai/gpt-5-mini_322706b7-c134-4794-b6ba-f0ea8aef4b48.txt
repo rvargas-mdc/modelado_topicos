@@ -1,0 +1,3 @@
+No adoptó medidas de seguridad ante operación no reconocida.
+Brindó información no veraz sobre transacción con tarjeta.
+Indujo confusión al dar luego negar datos del beneficiario.

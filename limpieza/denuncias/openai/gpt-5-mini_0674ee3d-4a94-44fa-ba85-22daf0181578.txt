@@ -1,0 +1,2 @@
+Falta de medidas de seguridad que permitió retiro no autorizado.
+Retiro en cajero con tarjeta de débito no reconocido.

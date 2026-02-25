@@ -1,0 +1,3 @@
+Operaciones fraudulentas no reconocidas en tarjeta de crédito
+Falta de alertas y medidas de seguridad
+Operaciones desde ubicación distinta a la del titular

@@ -1,0 +1,3 @@
+Cobro indebido de operación no reconocida por el usuario.
+Transferencia a terceros sin autorización del usuario.
+Incumplimiento de protocolos de seguridad por parte del Banco.

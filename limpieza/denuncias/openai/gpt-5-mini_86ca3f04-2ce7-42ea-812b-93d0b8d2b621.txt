@@ -1,0 +1,6 @@
+Permitir operaciones no reconocidas por falta de medidas de seguridad
+No reportó ni emitió alertas por operaciones fraudulentas
+No notificar al titular sobre operaciones no reconocidas
+Brindar información errónea sobre operaciones en tarjeta
+Sobregirar línea de crédito por operaciones no reconocidas
+Negar injustificadamente cobertura de seguro por operaciones no reconocidas

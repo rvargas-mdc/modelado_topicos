@@ -1,0 +1,5 @@
+Resumen de las infracciones denunciadas:
+
+Cobro indebido de operación no autorizada por el usuario.
+Falta de alerta sobre operación inusual en la cuenta del usuario.
+Respuestas inadecuadas del banco al usuario.

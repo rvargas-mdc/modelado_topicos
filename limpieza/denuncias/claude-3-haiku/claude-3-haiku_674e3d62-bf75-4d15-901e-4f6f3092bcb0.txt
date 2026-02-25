@@ -1,0 +1,11 @@
+Resumen de las infracciones denunciadas:
+
+Cobro de membresía no solicitada por el usuario.
+Cajero no dispensó efectivo pero descontó saldo.
+Denegación de retiro de "banca especial" sin justificación.
+Consignación como cliente de "banca especial" sin justificación.
+Bloqueo injustificado de tarjeta de crédito.
+Consideración de deuda de empresa relacionada sin sustento.
+Falta de atención a solicitud de cese de sectorización.
+Envío tardío de enlace para reunión pactada.
+Falta de respuesta a solicitudes presentadas.

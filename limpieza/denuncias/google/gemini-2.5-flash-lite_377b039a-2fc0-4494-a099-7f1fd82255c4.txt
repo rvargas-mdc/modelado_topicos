@@ -1,0 +1,5 @@
+Debitado indebidamente de operaciones no autorizadas.
+El usuario fue víctima de suplantación de identidad.
+No utilizó clave ni token digital.
+El banco no cumplió con su deber de monitoreo.
+No bloqueó la tarjeta ante operaciones inusuales.

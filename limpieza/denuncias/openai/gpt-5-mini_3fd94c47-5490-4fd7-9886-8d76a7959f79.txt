@@ -1,0 +1,3 @@
+Pago conforme a acuerdo de cancelación realizado.
+Banco emitió constancia de pago, no constancia de no adeudo.
+Calificación crediticia no fue rectificada; permanece reportado como deudor.

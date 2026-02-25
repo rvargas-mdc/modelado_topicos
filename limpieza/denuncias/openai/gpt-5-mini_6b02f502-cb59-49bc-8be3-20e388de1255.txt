@@ -1,0 +1,4 @@
+Cargos no autorizados en tarjeta de crédito.
+Autorización de transacciones inusuales sin aplicar medidas de seguridad.
+Consumidor afirma no haber realizado consumos con su tarjeta.
+Banco no se apersonó ni presentó descargos en procedimiento.
