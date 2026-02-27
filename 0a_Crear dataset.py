@@ -455,4 +455,3 @@ df.pivot(on='area',
                       values='pal_por_parrafo',
                       aggregate_function='mean')
 )
-
