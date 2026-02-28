@@ -1,0 +1,49 @@
+====================00016507-cadc-4abc-baa7-0ecd50ff4664--------------------josé raúl,serrano,niño,yosely rosi,osorio,luciano
+====================0014c56c-bbff-48c8-98f1-6beff9710db7--------------------john eduardo,morales,chiroque,josé luis,liendo,sotomayor,francisco martín,sigüeñas,andrade,javier mihail,pazos,hayashida,lorena pilar,sotelo,huamán
+====================0028940e-1bcc-4922-b427-119930c6556e--------------------rita jesica,paz,guerrero,yosely rosi,osorio,luciano
+====================00300f2c-b690-4316-ac24-fffdd464c761--------------------max arthur,flores,rado,galán,javier ernesto,castro,cuba,león,rocío de maría,vignes,pareja,maurice,pacheco,niño de guzmán,maría haydee,rojas,huapaya
+====================0053441a-5ff4-48b1-8e86-a59afa049e11--------------------julio césar,arce,rado,gonzáles,julio cesar,erika claudia,bedoya,chirinos,mónica tatiana,siverio,puycán,maría de fátima,ponce,regalado
+====================005aff73-2472-4537-b2d6-b47b4cb714c6--------------------juan alberto,quispe,bazan,yosely rosi,osorio,luciano
+====================005c6f20-29bc-4b06-96be-c2ab850e6853--------------------janier vicente,sanchez,vargas,sánchez,silvana patricia,córdova,zárate
+====================00770f2f-b66a-49d8-93f3-7f8e7b504b7f--------------------jose ricardo,tejada,arbulu,josé ricardo,josé luis,liendo,sotomayor,francisco martín,sigüeñas,andrade,javier michael,pazos,hayashida,lorena pilar,sotelo,huamán
+====================007bee93-f618-4f07-b9f7-dc82810db2ad--------------------jorge luis,pumachagua,baltodano,erika claudia,bedoya,chirinos,mónica tatiana,siverio,puycán,maría de fátima,ponce,regalado
+====================009a2b2b-ee79-4df3-80e2-1013897f1949--------------------renán lobsang,diaz,velásquez,erika claudia,bedoya,chirinos,mónica tatiana,siverio,puycán,maría de fátima,ponce,regalado
+====================00a82dbc-d3f4-4890-afda-7360bdc033a7--------------------karla lorenst,castro,torres,cynthia,ramirez,medina
+====================00abd265-de64-445c-b3eb-d7a7378caacb--------------------merly antonia,ricaldi,rodríguez,erika claudia,bedoya,chirinos,mónica tatiana,siverio,puycán,maría de fátima,ponce,regalado
+====================00af9b36-3da9-4d0b-825d-5c2ed7081dc4--------------------aymara diony,francia,vasquez,josé luis,herrera,pachari
+====================00b7d260-412f-48a4-9e98-e36cd444d695--------------------valdiviezo,saavedra,victor hugo,rocío ibet,anastacio,ramos
+====================00c7d3a5-7275-48a5-a553-3d0dfef293b4--------------------jorge pedro,olivares,salazar,dula irma,salazar,farfan,yosely rosi,osorio,luciano
+====================00cf6ef3-2cf0-4d5b-a3e8-d91854d1fb45--------------------carolina nelly,coveñas,rodríguez,carlos raúl,tapia,florián
+====================00e2b276-30b2-4bc5-bcdf-5803e1ae3222--------------------jose kleider,santa cruz,hernandez,yosely rosi,osorio,luciano
+====================00efb6ec-f001-45c8-94c4-121d4ad3328c--------------------werlin ildefonso,tapullima,blanca luz,castillo,marichi,eleazar,chota,macahuachi,josé ignacio alfonso,baltazar,chacón,alvarez,sara sofia,solsol,saldaña,manuel ulises,urcia,quispe
+====================00fa6958-2544-44ad-8316-3527881e5861--------------------julio césar,bernabé,huanayay,torres,flores,edwin orlando,silvana patricia,córdova,zárate
+====================01089871-d054-4fdf-bc56-7c4e2954b687--------------------renee aquilina,vicencio,conde,mónica tatiana,siverio,puycan,maría de fátima,ponce,regalado,ernesto alonso,calderón,burneo
+====================017424f6-ce2d-408a-8ffc-f99798b42142--------------------luis alberto,valencia,llontop,silvana patricia,córdova,zárate
+====================01905ea8-95ae-4056-8cd5-cc9b20ffe0c9--------------------george jerzy,figueroa,pajares,yosely rosi,osorio,luciano
+====================01abe2e6-aa16-4272-98f3-5ef252609e5b--------------------jenny liliana,quiroga,farfan,nova,guillermo,chang,chuyes,sandro,navarro,castañeda,ana maría,salaverry,armas,javier,lópez,romaní
+====================01af3fa4-cfa3-4feb-b6f5-0da930377f44--------------------grecia del rocio,carrera,garcía,vania lorena,vergara,lau,eduardo alonso,pacheco,yépez,teddy adolfo,panitz,mau,arquímedes gonzalo,cruz,sandoval
+====================01b2e852-9b81-4e14-8e62-042d507d88f7--------------------pedro,machaca,lópez,alberto iván,junco,bravo,marco antonio,garrido,bodero,víctor hugo,rodríguez,rojas,césar humberto,reyes,chávez
+====================01b3999d-8151-4e92-bdec-a466ce3cde4f--------------------isaac agustin,villar,morales,isaac agustín,erika claudia,bedoya,chirinos,mónica tatiana,siverio,puycán,maría de fátima,ponce,regalado
+====================01cfe371-ef93-4e02-b591-86992093d936--------------------pedro,herrera,socola,piero,velasquez,lopez,sandro,navarro,castañeda,ana maría,salaverry,armas,guillermo,chang,chuyes,javier,lópez,romaní
+====================01ea585c-6b6c-4cea-b426-014e98c3706c--------------------rocio,rivas,rivadeneira,yosely rosi,osorio,luciano
+====================01ef2f55-1946-4cd6-af37-a6ba205cae64--------------------karla alejandra,arrieta,jaimes,erika claudia,bedoya,chirinos,mónica tatiana,siverio,puycán,maría de fátima,ponce,regalado
+====================020b7245-4d5b-4ed7-84a1-c743a36daefa--------------------jhonatan ángel,sonco,cuevas,benjamín,carrasco,del carpio,roberto,delgado,zegarra-ballón,carlos,rodríguez,martínez,ludovina,villanueva,núñez
+====================021c3dce-a84d-42ea-80bd-b33c34d57b58--------------------yuri,cervantes,barazorda,vicson ricardo,alvarez,palomino
+====================024696e8-a9ef-4e4d-addb-930c144d0f9d--------------------lesly manuela,cashu,falconi,juan enrique,sologuren,álvarez,marleni,lea,monroy,carmen beatriz,velazco,ramos,ever glicerio,hernandez,cervera
+====================026844e1-9485-420e-a9e4-b2e8b4d61f07--------------------emily franschesca,hernani,quispe,yosely rosi,osorio,luciano
+====================02684e03-095e-41ce-8438-b1e8076b9eb8--------------------milagros rosario,roque,quispe,henry luis,cáceres,salas
+====================0285e2b7-533b-4c30-b320-e45e46a3eea2--------------------wilfredo fredy,flores,llanque,henry luis,cáceres,salas
+====================02985953-4d0f-4193-9ddd-67d7c8499879--------------------pablo alberto,de la flor,bedoya,erika claudia,bedoya,chirinos,mónica tatiana,siverio,puycán,maría de fátima,ponce,regalado
+====================02c3ed69-89aa-4520-9f43-babd0aa3676a--------------------dionisio,quenta,paredes,piero,velasquez,lopez,juan enrique,sologuren,álvarez,marleni,lea,monroy,ever glicerio,hernandez,cervera
+====================02cc222d-d11f-481b-9765-aae3bfef6ace--------------------tatiana pricila,alfaro,malca,silvana patricia,córdova,zárate
+====================02d5969f-51b9-4dd2-8ea9-0b81be6e13ee--------------------dany yudet,millones,liza,dany yuet,erika claudia,bedoya,chirinos,mónica tatiana,siverio,puycán,maría de fátima,ponce,regalado
+====================02e3d044-7019-4de4-bac0-3ba5a909a089--------------------yosely rosi,osorio,luciano
+====================02e4e7be-0445-45fd-90fb-a4b354fd22d9--------------------edgar,escalante,torres,erika claudia,bedoya,chirinos,mónica tatiana,siverio,puycán,maría de fátima,ponce,regalado
+====================02f3aa4a-0f57-4fda-aaac-fbb861acda16--------------------cynthia judith,dextre,lázaro,yosely rosi,osorio,luciano
+====================031572c1-faf6-4f74-8a16-4cfaae57c592--------------------mayra katherine,cuadros,denegri,yosely rosi,osorio,luciano
+====================0319cbf8-c5c0-4d9a-96d1-6bd75be2ffb0--------------------dominga,cruz,mendoza,benjamín,carrasco,del carpio,roberto,delgado,zegarra-ballón,carlos,rodríguez,martínez,ludovina,villanueva,núñez
+====================031a3d33-2595-4004-b14b-a8efc58066e5--------------------richard edgardo,pajuelo,valderrama,josé luis,herrera,pachari
+====================03216cf5-10cc-486a-92bf-a025fd83453c--------------------estefany azucena,polo,fermin,estefani azucena,jesús manuel,torres,acuña,vania lorena,vergara,lau,eduardo alonso,pacheco,yépez,teddy adolfo,panitz,mau,arquímedes gonzalo,cruz,sandoval
+====================03274275-7010-479f-aad3-2c41a7c096b9--------------------ambrocio policarpio,manrique,badillo,josé luis,liendo,sotomayor,javier mihail,pazos,hayashida,lorena pilar,sotelo,huamán,francisco martín,sigüeñas,andrade
+====================032d6893-7b91-4ea5-8315-17c8fea1d2ee--------------------jhonatan,jauregui,arbieto,carlos raúl,tapia,florián
+====================FIN

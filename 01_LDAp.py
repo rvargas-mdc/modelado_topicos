@@ -1,7 +1,6 @@
 from joblib import Parallel, delayed
 from tqdm import tqdm
 import polars as pl
-import polars as pl
 import numpy as np
 import random
 import math
@@ -11,7 +10,6 @@ from gensim.models import CoherenceModel, LdaModel
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
 from pathlib import Path
-import polars as pl
 from modulos import *
 
 def ejecutar_lda_desde_tokens(
@@ -71,7 +69,6 @@ def mostrar_topicos(modelo_lda, num_palabras=10):
         print(f"Tópico {idx}: {palabras}")
 
 
-from gensim.models import CoherenceModel
 
 
 def calcular_coherencias(

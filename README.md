@@ -15,17 +15,41 @@ Comparativa de modelado de tópicos en un cojunto de resoluciones de Indecopi em
 
 **0b_Extraer_muestra.py**:
 - Genera cinco muestras a partir del conjunto de datos global:
-  a) Considerando todos los datos
-  b) Considerando solo las resoluciones provenientes de ORPS de todo el país.
-  c) Considerando solo las resoluciones provenientes de comisiones de todo el país.
-  d) Considerando solo las resoluciones provenientes de ORPS de Lima.
-  e) Considerando solo las resoluciones provenientes de comisiones de Lima.
+|-----|------------------|
+|Muestra|Contenido        |
+|-----|------------------|
+|todos|Muestra de todos los documentos|
+|comisión|Muestra de todas las resoluciones provenientes de comisiones|
+|orps|Muestra de todas las resoluciones provenientes de las oficinas de resolución de procesos sumarísimos|
+|com-lima|Muestra de todas las resoluciones provenientes de comisiones de la sede Lima|
+|orps|Muestra de todas las resoluciones provenientes de la ORPS de Lima| 
+|-----|------------------|
+
 
 **0c_Descubrir_nombres.py**:
 - Crea lista de nombres de los denunciantes en un archivo CSV que sirve para retirar de ella palabras como "viuda".
 
 **0d_Anonimizar.py**
 - Anonimiza números de documentos nacionales de identidad (DNI), números únicos de contribuyentes tributarios (RUC), números telefónicos, correos, direcciones web, nombres de denunciantes y nombres de denunciados.
+- Crea la columna `contenido_anonimizado`
 
-**0e_Extraer_denuncia.py**
+**0e_Extraer_secciones.py**
+- Extrae la sección antecedentes y la sección dictamen en cada documento. Crea tres columnas `antecedentes_anonimizado`, `dictamen_anonimizado`,
+`antecedentes_dictamen_anonimizado`
 
+**0f_Limpiar_texto.py**
+- Convierte en minúsculas, retira *stopwords* y lematiza el contenido de `contenido_anonimizado`, `antecedentes_anonimizado`, `dictamen_anonimizado` y `antecedentes_dictamen_anonimizado` y se genera las columnas `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio` y `antecedentes_dictamen_anonimizado_limpio`
+
+**01.LDA.py**
+- Hiperparámetros:
+   a. Se emplea todas las muestras: "todos", "orps", "comisión","com-lima","orps-lima"
+   b. Se emplea las columnas: `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio` y `antecedentes_dictamen_anonimizado_limpio`
+   c. Se experimenta con tópicos entre 3 y 35
+- Se genera un modelo para cada compibación de hiperparámetros.
+
+**02.NMF.py**
+- Hiperparámetros:
+   a. Se emplea todas las muestras: "todos", "orps", "comisión","com-lima","orps-lima"
+   b. Se emplea las columnas: `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio` y `antecedentes_dictamen_anonimizado_limpio`
+   c. Se experimenta con tópicos entre 3 y 35
+- Se genera un modelo para cada compibación de hiperparámetros.

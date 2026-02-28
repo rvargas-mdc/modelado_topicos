@@ -1,0 +1,1001 @@
+3f2a1059-f27b-4b47-b405-7dbe57f758bc------------------------------COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+RESOLUCIÓN FINAL N° 0141-2025/CC1
+DENUNCIANTE : DISTRIBUIDORA VENSO S.A.C. (DISTRIBUIDORA)
+DENUNCIADO : BANCO BBVA PERÚ S.A. (BANCO)
+MATERIAS : PROTECCIÓN AL CONSUMIDOR
+NOCIÓN DE CONSUMIDOR FINAL
+IMPROCEDENCIA
+ACTIVIDAD : SISTEMA FINANCIERO BANCARIO
+Lima, 17 de enero de 2025
+ANTECEDENTES
+1. Mediante escrito del 21 de noviembre de 2024, subsanado mediante escrito del 17 de
+diciembre de 2024, la Distribuidora interpuso una denuncia contra el Banco por
+presuntas infracciones a la Ley N° 29571, Código de Protección y Defensa del
+Consumidor (en adelante, Código)1, señalando lo siguiente:
+(i) El 22 de octubre de 2024, realizó una transferencia por el monto de US$ 206
+548.59 desde su cuenta en dólares Nº 0011-0910-****063**, a la cuenta de destino
+Nº 015-48-***-*** a nombre del proveedor Mingbai Enterprise Limited.
+(ii) El 29 de octubre de 2024, se solicitó una investigación debido al error causado por
+el proveedor denunciado en la transferencia, realizándose un débito por el mismo
+de US$ 21.00.
+(iii) A pesar de haber aceptado el error y mencionarse que el pago se habría efectuado
+el 04 de noviembre de 2024, hasta la fecha el proveedor no ha recibido el dinero.
+(iv) El 13 de noviembre de 2024, se cursó mediante Carta Notarial se pueda informar
+el estado de dicha transferencia; sin embargo, no ha sido posible recibir una
+respuesta.
+(v) El 19 de noviembre de 2024, se le indicó que se abonaría el dinero de US$ 206
+466.39 a su cuenta, debido a que se estaban debitando los gastos generados.
+2. La Distribuidora solicitó, como medidas correctivas, que (i) el Banco realice la devolución
+por el monto de US$ 206 548.59 y (ii) se asuman los gastos generados por la
+transferencia realizada puesto que esta nunca llegó al proveedor de destino. Cabe
+resaltar que no requirió el pago de los costos y costas del procedimiento.
+3. Por escrito del 17 de diciembre de 2024, la Distribuidora presentó un escrito a través del
+cual adjuntó las declaraciones mensuales (PDT-IGV Renta mensual) del Impuesto
+General a las Ventas (IGV) e Impuesto a la Renta (IR) completas del ejercicio
+correspondiente al año 2023; ficha RUC; certificado literal; y, reporte tributario.
+1 Publicado el 2 de setiembre de 2010 en el Diario Oficial El Peruano, vigente desde el 2 de octubre de 2010 y modificado
+por Decreto Legislativo N° 1308.
+1
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03
+COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+4. Por Resolución N° 0008-2025/CC1-ST del 08 de enero de 2025, la Secretaría Técnica
+de la Comisión de Protección al Consumidor N° 1 declaró confidencial las declaraciones
+juradas mensuales (PDT-IGV Renta mensual) del Impuesto General a las Ventas (IGV)
+e Impuesto a la Renta (IR) del ejercicio correspondiente al 2023 de la Distribuidora, que
+obra en fojas 28 al 63 del expediente.
+MARCO JURÍDICO APLICABLE A LA NOCIÓN DE CONSUMIDOR FINAL
+(i) Sobre la noción de consumidor
+5. El numeral 1 del artículo IV del Título Preliminar del Código define a aquellos sujetos
+que pueden ser considerados como consumidores o usuarios y, por consiguiente,
+dispone quienes pueden acceder al nivel de protección especial que brinda la normativa
+de protección al consumidor2.
+6. La norma señalada establece que son consumidores las personas naturales o jurídicas
+que adquieren, usan o disfrutan un producto o servicio en beneficio propio o de su
+entorno familiar o social, actuando así en un ámbito ajeno a la actividad empresarial.
+Asimismo, se incluye en la misma categoría a los microempresarios que evidencien una
+situación de asimetría informativa con el proveedor respecto de aquellos bienes que no
+formen parte del giro propio de su negocio.
+7. De acuerdo con el esquema que el legislador peruano ha previsto a partir del Código, la
+Comisión considera que, a efectos de evaluar la calidad de consumidor de la parte
+denunciante, deberá seguirse el siguiente diagrama:
+(Ver imagen en la siguiente página)
+2 LEY N° 29571, CÓDIGO DE PROTECCIÓN Y DEFENSA DEL CONSUMIDOR, publicada el 2 de setiembre de 2010
+y modificada por el DECRETO LEGISLATIVO N° 1308, publicado el 30 de diciembre de 2016
+TÍTULO PRELIMINAR
+Artículo IV.- Definiciones
+Para los efectos del presente Código, se entiende por:
+1. Consumidores o usuarios
+1.1 Las personas naturales o jurídicas que adquieren utilizan o disfrutan como destinatarios finales productos o
+servicios materiales e inmateriales, en beneficio propio o de su grupo familiar o social, actuando así en un
+ámbito ajeno a una actividad empresarial o profesional. No se considera consumidor para efectos de este
+Código a quien adquiere, utiliza o disfruta de un producto o servicio normalmente destinado para los fines de
+su actividad como proveedor.
+1.2 Los microempresarios que evidencien una situación de asimetría informativa con el proveedor respecto de
+aquellos productos o servicios que no formen parte del giro propio del negocio.
+1.3 En caso de duda sobre el destino final de determinado producto o servicio, se califica como consumidor a quien
+lo adquiere, usa o disfruta.
+(…)
+2
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03
+COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+Diagrama N° 1
+8. En atención a ello, existe un filtro general que la presente instancia debe evaluar para
+determinar si la parte accionante posee la calidad de consumidor. Este filtro consiste en
+analizar si la adquisición, uso o disfrute que la parte denunciante realiza sobre el
+producto o servicio materia de controversia está vinculado a un fin personal, familiar o
+de su entorno social inmediato, en cuyo caso la persona natural o jurídica califica como
+consumidor final. Cabe precisar que en este filtro es irrelevante si la persona natural o
+jurídica posee calidad de microempresa, pequeña, mediana o gran empresa.
+9. En principio, la normativa señala que ante la denuncia de una persona natural o jurídica
+que adquiere, usa o disfruta un producto o servicio para fines distintos a los personales,
+familiares o de entorno social inmediato, la Comisión no podría considerar a dicho
+accionante como consumidor; sin embargo, el propio Código establece un supuesto de
+excepción para las microempresas que se encuentren en una situación de asimetría
+informativa respecto de los productos que no son imprescindibles para su proceso
+productivo.
+10. En el caso de las microempresas (filtro especial), el análisis de procedencia se sujetará
+a los siguientes parámetros:
+(i) Para determinar si se está ante una microempresa, la Comisión determinará si la
+parte denunciante encaja en la noción de microempresario prevista en el Texto
+Único Ordenado de la Ley de Impulso al Desarrollo Productivo y al Crecimiento
+Empresarial, aprobado por Decreto Supremo 013-2013-PRODUCE (en adelante,
+Ley MYPE)3, esto es, si no posee ventas anuales que superen las 150 UIT. Caso
+3 TEXTO ÚNICO ORDENADO DE LA LEY DE IMPULSO AL DESARROLLO PRODUCTIVO Y AL CRECIMIENTO
+EMPRESARIAL, aprobado por DECRETO SUPREMO 013-2013-PRODUCE y publicado el 28 de diciembre de 2013
+3
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03
+COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+contrario, de superarse este monto, la denuncia será declarada improcedente.
+(ii) En el supuesto que se haya acreditado el carácter de microempresario, deberá
+analizarse si el producto o servicio denunciado está relacionado con el giro del
+negocio4, como un elemento imprescindible para el proceso productivo que realiza
+la unidad productiva. En este punto, si se comprueba que el bien materia de
+cuestionamiento forma parte esencial del proceso productivo, la denuncia deberá
+ser declarada improcedente.
+(iii) Finalmente, para el caso de las microempresas cuyo producto o servicio no está
+relacionado con el giro propio del negocio como un elemento imprescindible del
+proceso productivo, deberá analizarse si respecto de dicho bien la persona natural
+o jurídica se encuentra en situación de asimetría informativa5.
+11. De verificarse la existencia de la asimetría informativa en el caso concreto, la parte
+denunciante encajará en la noción de consumidor. Por el contrario, si se acredita que el
+microempresario no se encuentra en una situación de asimetría informativa respecto del
+producto o servicio controvertido, la denuncia deberá ser declarada improcedente.
+(ii) Sobre la noción de microempresario
+● De la condición de microempresario en la legislación nacional
+12. El Código, en forma excepcional, permite el acceso a la tutela administrativa de los
+microempresarios que “evidencien una situación de asimetría informativa con el
+proveedor respecto de aquellos productos o servicios que no formen parte del giro
+propio del negocio”; sin embargo, no establece el modo de acreditación de la condición
+de microempresario ante la autoridad administrativa, por lo que resulta importante
+establecer la modalidad de determinar dicha condición.
+13. La inclusión de los microempresarios tiene como sustento principal su particular posición
+en el mercado, en la medida que el legislador consideró que no cuentan con recursos
+suficientes para equiparar la asimetría informativa frente al proveedor, por lo que
+requieren la tutela que brinda el Código.
+Artículo 5.- Características de las micro, pequeñas y medianas empresas
+Las micro, pequeñas y medianas empresas deben ubicarse en alguna de las siguientes categorías empresariales,
+establecidas en función de sus niveles de ventas anuales:
+Microempresa: ventas anuales hasta el monto máximo de 150 Unidades Impositivas Tributarias (UIT).
+(…)
+4 La Comisión entiende por “giro propio del negocio” aquellas actividades esenciales del proceso productivo, es decir,
+aquellas actividades imprescindibles sin las cuales el negocio no puede desarrollarse. De esta manera, las actividades
+imprescindibles sin las cuales el negocio no puede desarrollarse. De esta manera, las actividades que no forman parte
+del proceso productivo y respecto de las cuales cabe, en principio, la tutela administrativa de la Comisión, son aquellas
+de apoyo al proceso productivo.
+5 LEY 29571, CÓDIGO DE PROTECCIÓN Y DEFENSA DEL CONSUMIDOR, publicada el 2 de setiembre de 2010
+TÍTULO PRELIMINAR
+Artículo IV.- Definiciones
+Para los efectos del presente Código, se entiende por:
+(…)
+7. Asimetría informativa.- Característica de la transacción comercial por la cual uno de los agentes, el proveedor, suele
+tener mayor y mejor información sobre los productos y servicios que ofrece en el mercado a los consumidores.
+4
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03
+COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+14. La Sala Especializada de Protección al Consumidor (en adelante, Sala), refiriéndose a
+la situación de asimetría informativa de los microempresarios, en la Resolución 3311-
+2018/SPC-INDECOPI del 28 de noviembre de 2018, señaló que:
+“La ley obliga a evaluar la asimetría informativa en relación con el rubro de productos
+o servicios materia de denuncia, esto es, considerándolos de manera genérica y
+abstracta. En tal sentido, no se analiza la asimetría informativa respecto de la
+presunta infracción que denuncia el microempresario en el caso concreto. Cabe
+indicar que esta Sala ha señalado que respecto de los productos y servicios que no
+forman parte del giro propio del negocio del microempresario denunciante, se
+presume que este se encuentra en asimetría informativa frente al correspondiente
+proveedor; sin perjuicio de que dicho proveedor pueda acreditar lo contrario.”
+(Subrayado agregado).
+15. En ese sentido, la Comisión estima que no solo compete al denunciante acreditar la
+situación de asimetría informativa, sino que es necesario evidenciar que en
+determinados períodos no cuenta con la capacidad económica para prevenir, mitigar o
+corregir las conductas y prácticas que podrían afectar sus legítimos intereses, a efectos
+de extender de forma excepcional la aplicación del sistema de protección al consumidor.
+16. En efecto, según los artículos 4 y 5 de la Ley MYPE6, el microempresario es definido
+como “la unidad económica constituida por una persona natural o jurídica, bajo cualquier
+forma de organización o gestión empresarial, que tiene como objeto desarrollar
+actividades de extracción, transformación, producción, comercialización de bienes o
+prestación de servicios”, y cuyo nivel de ventas netas anuales no supera 150 UIT.
+17. Así, la persona natural o jurídica que pretende acceder a la tutela del Código por su
+calidad de microempresario deberá acreditar que cumple con el referido requisito, esto
+es, no sobrepasar el parámetro de ventas anuales dispuesto por la Ley MYPE. Sin
+embargo, debido a que la situación o condición de microempresa puede verse
+modificada en cada ejercicio anual, resulta importante establecer el período relevante
+sobre el cual se determinará dicha condición.
+18. Al respecto, la Directiva N° 001-2021/DIR-COD-INDECOPI, Directiva Única que Regula
+los Procedimientos de Protección al Consumidor Previstos en el Código de Protección
+y Defensa del Consumidor (en adelante, Directiva Única de Protección al Consumidor),
+establece que el denunciante debe acreditar que ostenta la condición de
+6 TEXTO ÚNICO ORDENADO DE LA LEY DE IMPULSO AL DESARROLLO PRODUCTIVO Y AL CRECIMIENTO
+EMPRESARIAL, aprobado por DECRETO SUPREMO 013-2013-PRODUCE y publicado el 28 de diciembre de 2013
+Artículo 4.- Definición de la Micro y Pequeña Empresa
+La Micro y Pequeña Empresa es la unidad económica constituida por una persona natural o jurídica, bajo cualquier forma
+de organización o gestión empresarial contemplada en la legislación vigente, que tiene como objeto desarrollar
+actividades de extracción, transformación, producción, comercialización de bienes o prestación de servicios.
+(...)
+Artículo 5.- Características de las micro, pequeñas y medianas empresas
+Las micro, pequeñas y medianas empresas deben ubicarse en alguna de las siguientes categorías empresariales,
+establecidas en función de sus niveles de ventas anuales:
+- Microempresa: ventas anuales hasta el monto máximo de 150 Unidades Impositivas Tributarias (UIT).
+(...)
+5
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03
+COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+microempresario a la fecha de la presentación de la denuncia7.
+19. En ese sentido, el denunciante tendrá que evidenciar la condición de microempresario
+cuando presenta la denuncia administrativa, lo cual realizará mediante la presentación
+de las declaraciones juradas mensuales de IGV y del IR del ejercicio tributario anterior,
+en la medida que el ejercicio gravable (periodo fiscal) comienza el 1 de enero y finaliza
+el 31 de diciembre de cada año, ello según lo establecido en el artículo 57 del Texto
+Único Ordenado de la Ley de Impuesto a la Renta, aprobado por Decreto Supremo 179-
+2004-EF8.
+20. Con relación a ello, el literal b) del numeral 11.4 del artículo 11 de la Directiva Única de
+Protección al Consumidor establece que el denunciante que ostente la condición de
+microempresario debe presentar, entre otros, la copia simple de la documentación que
+acredite su condición de microempresa, de acuerdo con los requisitos exigidos por la
+legislación sobre la materia9.
+21. A efectos de explicar lo expuesto, el análisis de la calidad de microempresario se deberá
+entender, de acuerdo con el siguiente diagrama:
+7 DIRECTIVA N° 001-2021/DIR-COD-INDECOPI, DIRECTIVA ÚNICA QUE REGULA LOS PROCEDIMIENTOS DE
+PROTECCIÓN AL CONSUMIDOR PREVISTOS EN EL CÓDIGO DE PROTECCIÓN AL CONSUMIDOR, aprobada por
+Resolución N° 00044-2021/COD-INDECOPI y publicada el 30 de abril de 2021.
+Artículo 11.- Requisitos de la denuncia
+(…)
+El denunciante deberá acreditar que ostenta, a la fecha de la presentación de la denuncia, la condición de
+microempresario.
+8 Por tanto, los efectos constitutivos de dicho ejercicio gravable continuarán durante el siguiente año hasta la fecha en que
+se determine nuevamente sus ingresos. Por ejemplo, si al finalizar el ejercicio gravable el contribuyente era
+microempresario, entonces, dicha calificación continuará hasta la culminación del siguiente periodo, fecha en la cual se
+volverá a verificar su condición en función de los ingresos generados durante ese periodo.
+9 DIRECTIVA N° 001-2021/DIR-COD-INDECOPI, DIRECTIVA ÚNICA QUE REGULA LOS PROCEDIMIENTOS DE
+PROTECCIÓN AL CONSUMIDOR PREVISTOS EN EL CÓDIGO DE PROTECCIÓN AL CONSUMIDOR, aprobada por
+Resolución N° 00044-2021/COD-INDECOPI y publicada el 30 de abril de 2021.
+Artículo 11.- Requisitos de la denuncia
+(…)
+11.4. En caso de que el denunciante ostente la condición de Microempresa, debe adjuntar a su denuncia:
+a) Copia simple de los documentos que acrediten su existencia y representación, o la identificación del expediente
+administrativo, trámite o reclamo ante el INDECOPI en el cual fueron presentados. Estos documentos pueden ser
+sustituidos por la declaración jurada del administrado sobre la existencia de la persona jurídica, la designación de su
+representante legal y la vigencia del poder, y la identificación de la partida y oficina registral donde conste su inscripción.
+b) Copia simple de la documentación que acredite su condición de microempresa, de acuerdo con los requisitos exigidos
+por la legislación sobre la materia.
+El denunciante deberá acreditar que ostenta, a la fecha de la presentación de la denuncia, la condición de
+microempresario.
+6
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03
+COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+Diagrama N° 2
+22. Es oportuno precisar, que antes de la entrada en vigencia de la mencionada directiva,
+esta Comisión consideraba que los denunciantes tenían que evidenciar la condición de
+microempresario en dos (2) momentos: (i) cuando entabló la relación de consumo; y,
+además, (ii) cuando presentó la denuncia administrativa para acceder a la tutela del
+Código. Así debía acreditar que no sobrepasaba el parámetro de ventas anuales
+dispuesto por la Ley MYPE en dichos periodos.
+23. Sin embargo, actualmente, en cumplimiento con lo dispuesto en la Directiva Única de
+Protección al Consumidor, corresponde a este órgano evidenciar la condición de
+microempresario de la denunciante al momento en que presentó su denuncia. Cabe
+precisar que, conforme lo señalado en la mencionada directiva, su aplicación es
+inmediata para los procedimientos en trámite10.
+24. En consecuencia, el denunciante deberá acreditar que era microempresario al momento
+que interpuso la denuncia administrativa, para lo cual deberá presentar las
+declaraciones juradas mensuales del IGV y del IR del ejercicio tributario anual inmediato
+anterior al momento de la verificación.
+● El requisito de ventas anuales
+25. Para determinar si se está ante un microempresario se deberá analizar si la parte
+denunciante cumple con los requisitos previstos en la Ley MYPE y su Reglamento11.
+26. Al respecto, el artículo 5 de la Ley MYPE establece que, una microempresa (sea
+persona natural o jurídica) debe cumplir con las características que establece la norma,
+10 DIRECTIVA N° 001-2021/DIR-COD-INDECOPI, DIRECTIVA ÚNICA QUE REGULA LOS PROCEDIMIENTOS DE
+PROTECCIÓN AL CONSUMIDOR PREVISTOS EN EL CÓDIGO DE PROTECCIÓN AL CONSUMIDOR, aprobada por
+Resolución N° 00044-2021/COD-INDECOPI y publicada el 30 de abril de 2021.
+PRIMERA DISPOSICIÓN FINAL.- VIGENCIA
+La presente Directiva entra en vigencia al día siguiente de su publicación y es de aplicación inmediata a todos los
+procedimientos que se encuentren en trámite.
+11 Reglamento del Texto Único Ordenado de la Ley de Promoción de la Competitividad, Formalización y Desarrollo de la
+Micro y Pequeña Empresa y del Acceso al Empleo Decente, aprobado por Decreto Supremo Nº 008-2008-TR.
+7
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03
+COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+referidas a que su nivel de ventas anuales no debe superar las 150 UIT12.
+27. Asimismo, el artículo 2 del Reglamento de la Ley MYPE13 establece que, se deberá
+entender por niveles de ventas anuales, lo siguiente:
+- Los ingresos netos anuales gravados con el IR que resulten de la sumatoria de los
+montos de tales ingresos consignados en las declaraciones juradas mensuales de
+los pagos a cuenta del IR, tratándose de contribuyentes comprendidos en el
+Régimen General del IR.
+- Los ingresos netos anuales que resulten de la sumatoria de los montos de tales
+ingresos consignados en las declaraciones juradas mensuales del Régimen
+Especial del IR, tratándose de contribuyentes de este Régimen.
+- Los ingresos brutos anuales que resulten de la sumatoria de los montos de tales
+ingresos consignados en las declaraciones juradas del Nuevo RUS, tratándose de
+contribuyentes de este Régimen.
+28. El artículo 85° de la Ley del Impuesto a la Renta14 establece que se consideran ingresos
+12 TEXTO ÚNICO ORDENADO DE LA LEY DE IMPULSO AL DESARROLLO PRODUCTIVO Y AL CRECIMIENTO
+EMPRESARIAL, aprobado por DECRETO SUPREMO 013-2013-PRODUCE y publicado el 28 de diciembre de 2013
+Artículo 5.- Características de las micro, pequeñas y medianas empresas
+Las micro, pequeñas y medianas empresas deben ubicarse en alguna de las siguientes categorías empresariales,
+establecidas en función de sus niveles de ventas anuales:
+- Microempresa: ventas anuales hasta el monto máximo de 150 Unidades Impositivas Tributarias (UIT).
+(...)
+13 REGLAMENTO DEL TEXTO ÚNICO ORDENADO DE LA LEY DE PROMOCIÓN DE LA COMPETITIVIDAD,
+FORMALIZACIÓN Y DESARROLLO DE LA MICRO Y PEQUEÑA EMPRESA Y DEL ACCESO AL EMPLEO
+DECENTE, APROBADO POR DECRETO SUPREMO 008-2008-TR y publicado el 30 de setiembre de 2008
+Artículo 2.- Características de la Mype
+Las características establecidas en el artículo 5 de la Ley definen, según corresponda, a una microempresa o a una
+pequeña empresa, sin perjuicio de los regímenes laborales o tributarios que les resulten aplicables por ley.
+Para los fines del artículo 5 de la Ley, entiéndase por niveles de ventas anuales lo siguiente:
+1. Los ingresos netos anuales gravados con el Impuesto a la Renta que resultan de la sumatoria de los montos de tales
+ingresos consignados en las declaraciones juradas mensuales de los pagos a cuenta del Impuesto a la Renta,
+tratándose de contribuyentes comprendidos en el Régimen General del Impuesto a la Renta.
+2. Los ingresos netos anuales que resultan de la sumatoria de los montos de tales ingresos consignados en las
+declaraciones juradas mensuales del Régimen Especial del Impuesto a la Renta, tratándose de contribuyentes de
+este Régimen.
+3. Los ingresos brutos anuales que resultan de la sumatoria de los montos de tales ingresos consignados en las
+declaraciones juradas mensuales del Nuevo RUS, tratándose de contribuyentes de este Régimen.
+En caso el contribuyente o la SUNAT variara los ingresos inicialmente declarados, determinándose mayores ingresos,
+se considerarán estos últimos.
+Se considerarán las ventas de los doce (12) meses anteriores al momento en que la MYPE se registra y la UIT
+correspondiente al año respectivo.
+14 TEXTO ÚNICO ORDENADO DE LA LEY DEL IMPUESTO A LA RENTA, aprobado por DECRETO SUPREMO 179-
+2004-EF y publicado el 8 de diciembre de 2004
+Artículo 85.- Los contribuyentes que obtengan de tercera categoría abonarán con carácter de pago a cuenta del
+Impuesto a la Renta que en definitiva, les corresponda por el ejercicio gravable, dentro de los plazos previstos por el
+Código Tributario, el monto que resulte mayor de comparar las cuotas mensuales determinadas con arreglo a lo siguiente:
+a) La cuota que resulte de aplicar a los ingresos netos obtenidos en el mes el coeficiente resultante de dividir el monto
+del impuesto calculado correspondiente al ejercicio gravable anterior entre el total de los ingresos netos del mismo
+ejercicio. En el caso de los pagos a cuenta de los meses de enero y febrero, se utilizará el coeficiente determinado
+sobre la base del impuesto calculado e ingresos netos correspondiente al ejercicio preferente al anterior.
+(...)
+Para efecto de lo dispuesto en este artículo, se consideran ingresos netos el total de ingresos gravables de la tercera
+8
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03
+COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+netos el total de ingresos gravables de la tercera categoría, devengados en cada mes,
+menos las devoluciones, bonificaciones, descuentos y demás conceptos de naturaleza
+similar que respondan a la costumbre de la plaza.
+29. Para mayor abundamiento, el Tribunal Fiscal del Ministerio de Economía y Finanzas,
+mediante Resolución 02760-5-2006, precisó que la determinación de los ingresos netos
+devengados en cada mes debe considerar aquellos ingresos definidos como tales en
+las normas internacionales de contabilidad, gravados por el impuesto a la renta de
+tercera categoría, tales como la venta de productos, la prestación de servicios, el uso
+por terceros de los activos de la empresas que generen intereses, regalías y dividendos,
+la disposición de activos como inmuebles, maquinarias y equipos, e inversiones15.
+30. La definición contable de ingresos a decir de la Norma Internacional de Contabilidad
+(NIC) 18 “Ingresos de Actividades Ordinarias” señala que “los ingresos son definidos
+como incrementos en los beneficios económicos, producidos a lo largo del periodo
+contable, en forma de entradas o incrementos de valor de los activos, o bien como
+disminuciones de los pasivos, que dan como resultado aumentos del patrimonio y no
+están relacionados con las aportaciones de los propietarios de la entidad. El concepto
+de ingreso comprende tanto los ingresos de actividades ordinarias como las ganancias”.
+31. De conformidad con lo expuesto, para determinar la calidad de microempresario de la
+denunciante corresponde verificar que su nivel de ventas, compuesto por sus ingresos
+netos anuales, los cuales incluyen las ventas de bienes o prestación de servicios
+relacionados con su giro de negocio, así como otros ingresos gravados por el IR, no
+supere las 150 UIT.
+32. Es preciso señalar que, a los fundamentos desarrollados precedentemente,
+categoría, devengados en cada mes, menos las devoluciones, bonificaciones, descuentos y demás conceptos de
+naturaleza similar que respondan a la costumbre de la plaza. e impuesto calculado al importe determinado aplicando la
+tasa a que se refiere el primer párrafo del artículo 55 de esta Ley.”
+15 RESOLUCIÓN DEL TRIBUNAL FISCAL 02760-5-2006
+“(...)
+En nuestra legislación, el artículo 85 de la Ley del Impuesto a la Renta, Decreto Legislativo 774 modificado por la Ley
+27034, establece que sobre la base de ingresos netos obtenidos en el mes se calcula el pago a cuenta mensual del
+Impuesto a la Renta de tercera categoría.
+El tercer párrafo del citado artículo considera ingresos netos al total de los ingresos gravables de la tercera categoría,
+devengados en cada mes menos las devoluciones, bonificaciones, descuentos y demás conceptos de naturaleza similar
+que respondan a las costumbres de la plaza.
+Efectuando un análisis de la citada definición, entendemos que los ingresos netos están referidos a lo siguiente:
+a. Ingresos devengados en cada mes, es decir ingresos mensuales sobre los cuales se tienen derecho a obtenerlos,
+es decir ingresos mensuales sobre los cuales se tienen derecho a obtenerlos, es decir una acreencia sobre ellos.
+b. Netos de devoluciones, bonificaciones, descuentos y demás conceptos de naturaleza similar que respondan a las
+costumbres de la plaza, es decir neto de aquello que responde a costumbres del mercado, propio de operaciones
+que realizan las empresas con terceros y por los cuales obtienen un ingreso gravable.
+Del análisis efectuado se aprecia que esta definición no podría comprender la ganancia por diferencia de cambio producto
+de las operaciones a que se refieren los incisos b) al f) del artículo 61 de la Ley del Impuesto a la Renta, en tanto
+constituye un ajuste contable y no un ingreso en el sentido del artículo 85º de la ley, la que resulta luego de compensarse
+las devaluaciones o revaluaciones de la moneda a lo largo del ejercicio, para obtener al cierre de dicho ejercicio (31 de
+diciembre) una diferencia neta de cambio.
+En efecto, bajo lo señalado en las Normas Internacionales de Contabilidad las diferencias de cambio no constituyen
+ingresos entendidos éstos como los provenientes de la venta de productos, la prestación de servicios, el uso por terceros
+de los activos de la empresas que generen intereses, regalías y dividendos (NIC 18: Ingresos), la disposición de activos
+como: inmuebles, maquinaria y equipos (NIC 16), inversiones (NIC 25), etc. y cuyo monto pueda ser usualmente
+determinado por un acuerdo entre la empresa y el comprador o usuario.”
+9
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03
+COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+corresponde considerar como parámetro para la determinación de la calidad de
+microempresario de la denunciante, en los términos de la Ley MYPE y su reglamento,
+la suma de todos los ingresos gravados con el IR más las ventas por bienes o prestación
+de servicios.
+33. En ese sentido, la Comisión procederá a verificar que la suma de los ingresos netos
+consignados en las declaraciones juradas mensuales del IGV y del IR (PDT IGV-Renta
+Mensual) en el ejercicio no superen las 150 UIT, conforme lo dispone el Reglamento de
+la Ley MYPE.
+(iii) Sobre la aplicación al caso concreto
+34. En atención a lo expuesto, la Comisión analizará si la Distribuidora encaja en la noción
+de consumidor establecida por el Código.
+• Filtro general
+35. De la consulta a la información publicada en la página web del Registro Único de
+Contribuyente (RUC) de la Superintendencia Nacional de Aduanas y de Administración
+Tributaria (en adelante, Sunat)16, se ha verificado que la Distribuidora es una Sociedad
+Anónima Cerrada dedicada, entre otros, a la venta al por menor de otros productos
+nuevos en comercios especializados.
+36. Así, de acuerdo con el diagrama señalado en el numeral 8 de la presente Resolución,
+luego de determinar que la parte denunciante no adquirió, usó o disfrutó el
+producto/servicio para un fin personal, familiar o de su entorno social inmediato,
+corresponde que este órgano colegiado analice, a través del filtro especial para
+microempresas, si la Distribuidora tiene calidad de consumidor final.
+● Filtro especial para microempresas
+37. De acuerdo con el resultado obtenido luego de aplicar el filtro general, la Comisión
+debería declarar la improcedencia de la denuncia; sin embargo, tal como se ha expuesto
+previamente, debe analizarse adicionalmente si la Distribuidora se encuentra en el
+supuesto de excepción previsto por el Código para las microempresas.
+- Sobre la condición de microempresa de la Distribuidora.
+38. Tal como se indicó en el marco jurídico expuesto, para acceder a la tutela del Código,
+el denunciante debe acreditar que tenía la condición de microempresario al momento
+en que presentó la denuncia administrativa, de faltar dicha condición la denuncia debe
+ser declarada improcedente.
+39. Para tal efecto, se analizarán los ingresos del ejercicio anual anterior a la fecha en que
+interpuso la presente denuncia. Así, se deberá verificar que sus ingresos netos anuales
+no superen las 150 UIT, que incluyen las ventas de bienes o prestación de servicios
+relacionados con su giro de negocio, así como otros ingresos gravados por el IR.
+16 Ver: https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/jcrS00Alias
+10
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03
+COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+40. En el presente caso, este Colegiado analizó la Declaración Jurada de Pago Mensual del
+Impuesto a la Renta de Tercera Categoría y el PDT-IGV-Renta Mensual del ejercicio
+2023 (periodo de enero a diciembre) presentadas por la Distribuidora de 17 de diciembre
+de 2024, advirtiendo que el volumen de sus ingresos netos excedía las ciento cincuenta
+(150) UIT.
+41. En ese sentido, de acuerdo con lo señalado en los párrafos precedentes, se evidencia
+que la Distribuidora no ostenta la condición de microempresa durante el año 2023, es
+decir, al año anterior a la presentación de la denuncia del 23 de octubre de 2023, toda
+vez que sus ingresos superaron los ciento cincuenta (150) UIT. En consecuencia, la
+Comisión considera que la parte denunciante no califica como consumidor final en los
+términos del Código, de conformidad con lo dispuesto por el numeral 1.1 del artículo IV
+del Título Preliminar del Código.
+42. En consecuencia, corresponde declarar improcedente la denuncia presentada por la
+Distribuidora contra el Banco, por presuntas infracciones al Código, en la medida que
+ha quedado acreditado que la parte denunciante no califica como consumidor final en
+los términos de la normativa de protección al consumidor.
+43. Sin perjuicio de lo anterior, es pertinente señalar que, si bien la Distribuidora no puede
+acceder al nivel de protección administrativa previsto en el Código, ello no la deja en
+estado de indefensión, toda vez que nuestro ordenamiento legal ha previsto que pueda
+acceder a la vía judicial para hacer valer sus derechos, de considerarlo pertinente.
+RESUELVE
+PRIMERO: declarar improcedente la denuncia presentada por la Distribuidora Venso S.A.C.
+contra el Banco BBVA Perú S.A., por presuntas infracciones a la Ley N° 29571, Código de
+Protección y Defensa del Consumidor, en la medida que ha quedado acreditado que el
+denunciante no califica como consumidor final en los términos de la normativa de protección
+al consumidor.
+SEGUNDO: informar a la Distribuidora Venso S.A.C. que la presente resolución tiene vigencia
+desde el día de su notificación y no agota la vía administrativa. En tal sentido, se informa que,
+de conformidad con lo dispuesto por el artículo 38 del Decreto Legislativo Nº 807, el único
+recurso impugnativo que puede interponerse contra lo dispuesto por la Comisión de
+Protección al Consumidor N° 1 es el de apelación17, el cual debe ser presentado ante dicho
+órgano colegiado en un plazo no mayor de quince (15) días hábiles contado a partir del día
+siguiente de su notificación18, ello de acuerdo a lo establecido en el artículo 222 del Texto
+17 LEY Nº 29571, CÓDIGO DE PROTECCIÓN Y DEFENSA DEL CONSUMIDOR, publicada el 2 de setiembre de 2010
+DISPOSICIONES COMPLEMENTARIAS MODIFICATORIAS
+PRIMERA.- Modificación del artículo 38º del Decreto Legislativo núm. 807
+Modificase el artículo 38º del Decreto Legislativo núm. 807, Ley sobre Facultades, Normas y Organización del Indecopi,
+con el siguiente texto:
+“Artículo 38º.- El único recurso impugnativo que puede interponerse durante la tramitación del procedimiento es el de
+apelación, que procede únicamente contra la resolución que pone fin a la instancia, contra la resolución que impone
+multas y contra la resolución que dicta una medida cautelar (…)”.
+18 TEXTO ÚNICO ORDENADO DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO GENERAL, APROBADO POR
+DECRETO SUPREMO N° 004-2019, publicado el 25 de enero de 2019
+Artículo 218.- Recursos administrativos
+11
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03
+COMISIÓN DE PROTECCIÓN AL CONSUMIDOR 1
+SEDE CENTRAL
+EXPEDIENTE 2621-2024/CC1
+Único Ordenado de la Ley del Procedimiento Administrativo General; caso contrario, la
+resolución quedará consentida19.
+Con la intervención de las señoras Comisionadas: Erika Claudia Bedoya Chirinos,
+Mónica Tatiana Siverio Puycán y María de Fátima Ponce Regalado.
+ERIKA CLAUDIA BEDOYA CHIRINOS
+Presidenta
+218.1 Los recursos administrativos son:
+(…)
+b) Recurso de apelación
+(…)
+218.2 El término para la interposición de los recursos es de quince (15) días perentorios (…).
+19 TEXTO ÚNICO ORDENADO DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO GENERAL, APROBADO POR
+DECRETO SUPREMO N° 004-2019, publicado el 25 de enero de 2019
+Artículo 222.- Acto firme
+Una vez vencidos los plazos para interponer los recursos administrativos se perderá el derecho a articularlos quedando
+firme el acto.
+12
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Calle De la Prosa 104, San Borja, Lima 41 - Perú Telf: 224 7800 / Fax: 224 0348
+E-mail: postmaster@indecopi.gob.pe / Web: www.indecopi.gob.pe
+M-CPC-01/03==============================77514211-a50f-462e-a364-e28351ca00f6------------------------------COMISIÓN DE LA OFICINA REGIONAL DEL INDECOPI – AREQUIPA
+EXPEDIENTE EN APELACION Nº 254-2024/CPC-INDECOPI-AQP
+EXPEDIENTE Nº 0510-2024/PS0-INDECOPI-AQP
+RESOLUCIÓN FINAL Nº 0119-2025/INDECOPI-AQP
+DENUNCIANTE : JOSÉ LUIS VALDIVIA ALI
+DENUNCIADO : BANCO DE CRÉDITO DEL PERÚ
+MATERIA : APELACION
+PROCEDENCIA : ÓRGANO RESOLUTIVO DE PROCEDIMIENTOS SUMARÍSIMOS
+SUMILLA: En el procedimiento sancionador iniciado por el señor José Luis Valdivia Ali en contra de
+Banco de Crédito del Perú, el Colegiado ha resuelto lo siguiente:
+i. Declarar la nulidad parcial de la Resolución N° 2 del 30 de julio de 2024 de inicio de procedimiento
+administrativo sancionador, y de todo lo actuado hasta la Resolución Final N° 608-2024/PS0-
+INDECOPI-AREQUIPA del 19 de septiembre de 2024, inclusive, emitidas por el ORPS por
+vulneración a los principios de Verdad Material, Impulso de Oficio y Debido Proceso, en
+consecuencia, se dispone que vuelva a trámite el presente procedimiento, debiendo el órgano
+resolutivo incorporar al procedimiento a los proveedores donde se realizaron las operaciones
+cuestionadas, así como requerir al denunciado las órdenes de pago de las operaciones materia
+de denuncia, y demás actuaciones procesales que considere pertinente, conforme los
+considerandos precedentes, a la brevedad.
+Arequipa, 06 de febrero de 2025
+I. ANTECEDENTES
+1. El 02 de julio de 2024, el señor José Luis Valdivia Ali (en adelante, el señor Valdivia), presentó una contra
+de Banco de Crédito del Perú (en adelante, BCP), por presuntas infracciones al Código de Protección y
+Defensa del Consumidor (en adelante, el Código), denuncia subsanada el 18 de julio de 2023.
+2. Es titular de la cuenta de ahorros N° 251-03319427-0-88, así pues, señala que se materializaron las
+siguientes operaciones no reconocidas en su contra:
+3. Atendiendo a ello, presentó una serie de reclamos solicitando la devolución de lo sustraído; sin embargo,
+estos fueron declarados improcedentes por la entidad financiera.
+4. El señor Valdivia solicitó se ordene como medida correctiva, la devolución de la suma correspondiente a
+las operaciones no reconocidas. Asimismo, solicitó el pago de las costas y costos del procedimiento.
+M-CPC-06-01
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Urbanización La Esperanza Mz. “O”, Lt. 20, José Luis Bustamante y Rivero Arequipa – Perú / Telef. 0-800-4-4040
+E-mail: mlcornejo@indecopi.gob.pe / Web: www.indecopi.gob.pe
+5. Por Resolución N° 02 del 30 de julio de 2024, el Órgano Resolutivo de Procedimientos Sumarísimos de
+Protección al Consumidor Adscrito a la Oficina Regional de Arequipa (en adelante, el ORPS) dispuso:
+- Iniciar procedimiento administrativo sancionador contra Banco de Crédito del Perú. en mérito a la
+denuncia presentada por el señor José Luis Valdivia Ali por:
+- Presunta infracción al artículo 19 del Código de Protección y Defensa del Consumidor; en tanto, no
+habría cumplido con brindar las medidas de seguridad idóneas para la cuenta de ahorros N° 251-
+03319427-0-88 de titularidad del señor José Luis Valdivia Ali, pues el 17 de marzo del 2024, habría
+permitido que terceras personas materialicen cinco operaciones no reconocidas en su instrumento
+bancario, las cuales no se encontrarían dentro de su patrón habitual de consumo, siendo las
+operaciones cuestionadas las siguientes:
+6. El 13 de agosto de 2023, BCP presentó su escrito de descargos, manifestando los siguientes argumentos
+de defensa:
+• Que, el señor Valdivia mantiene entre otros la tarjeta Credimás N° 4557-8813- 7842-9643; como
+consecuencia de ello, se le efectuó la entrega de la tarjeta respectiva, cuya responsabilidad en el
+resguardo de la misma es exclusiva del cliente.
+• Que, toda operación efectuada con la Tarjeta (física o de su numeración), requiere el empleo de la
+firma electrónica y se reputa ineludiblemente efectuada, reconocida y aceptada por el cliente, y
+contabilizada en la fecha en que se realice, aun cuando su empleo fuese realizado por terceros.
+Para el efecto el cliente asume la obligación de mantener a buen resguardo y bajo su posesión
+física, la Tarjeta, así como en total reserva y en secreto la firma electrónica, con facultad de
+modificar dicha firma, directamente y sin intervención del Banco, en las oportunidades y en las
+veces que lo considere conveniente, sustituyendo por nuevos códigos o elementos cada vez que
+presuma que pueda haber trascendido a terceros; debiendo en todo momento mantenerlo en esa
+calidad de secreto y de su exclusivo conocimiento y uso personal.
+• En tanto no se curse a nuestro Banco el aviso correspondiente de pérdida, robo o extravío, es el
+cliente quien asume la responsabilidad de todas aquellas transacciones efectuadas con su tarjeta
+de débito, empleando la clave personal de identificación, ya que recién con este aviso nuestro
+Banco puede proceder a dar los pasos necesarios para comunicar a su sistema y bloquear el uso
+de la tarjeta.
+• En relación al uso de la tarjeta Credimás 4557-8813-7842-9643, esta se encontraba activa, toda
+vez que el bloqueo se realizó el 18 de marzo del 2024 a las 11:14:01 horas.
+• Que, las operaciones no reconocidas se realizaron en estricta observación de las normas técnicas,
+entre ellas el uso de la tarjeta Credimás N° 4557-8813-7842- 9643, así como clave secreta
+correspondiente y otras medidas de seguridad, que son de exclusiva responsabilidad del titular;
+conforme se acredita mediante reporte de operaciones autorizadas y confirmadas.
+• Que el patrón de consumo del cliente abarca movimientos por montos superiores al cuestionado
+como las operaciones realizadas el 04 de abril de 2023, fecha en la que el cliente realiza 6
+operaciones consecutivas por el monto total del S/ 20,981.35 soles; y además el 22 de diciembre
+del 2023 realiza siete operaciones consecutivas por el monto total de S/ 12,254.00 soles. Quedando
+M-CPC-06-01
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Urbanización La Esperanza Mz. “O”, Lt. 20, José Luis Bustamante y Rivero Arequipa – Perú / Telef. 0-800-4-4040
+E-mail: mlcornejo@indecopi.gob.pe / Web: www.indecopi.gob.pe
+2/7
+demostrando, que en cuanto a lo que respecta a su patrón de consumo, en base a un análisis se
+puede ver que las operaciones cuestionadas, se encuentran dentro de su patrón
+7. Mediante escrito del 28 de agosto de 2024, BCP procedió a absolver los requerimientos efectuados por este
+Despacho, de igual forma complementa sus descargos.
+8. Con fecha 19 de septiembre de 2024, el Órgano Resolutivo de Procedimientos Sumarísimos (en adelante,
+el ORPS) emite Resolución Final N° 0608-2024/PS0-INDECOPI-AQP, donde resolvió:
+“(….)
+i. Desestimar la improcedencia formulada por Banco de Crédito del Perú respecto la competencia de
+este Despacho para conocer las infracciones que versen sobre la aplicación del Reglamento para
+la Gestión de la Seguridad de la Información y la Ciberseguridad; ello conforme los fundamentos
+expuestos en la parte considerativa de la presente resolución.
+ii. Desestimar la solicitud formulada por Banco de Crédito del Perú respecto a la ruptura del nexo
+causal por imprudencia del usuario; ello conforme los fundamentos expuestos en la parte
+considerativa de la presente resolución.
+iii. Sancionar a Banco de Crédito del Perú con una multa de 3.49 Unidades Impositivas Tributarias
+(UIT), por infracción a lo establecido en el artículo 19° del Código de Protección y Defensa del
+Consumidor; en tanto no cumplió con prestar las medidas de seguridad pertinentes para la cuenta
+de ahorros N° 251-03319427-0-88 de titularidad de la recurrente, permitiendo que se realicen
+cuatro (4) consumos con fecha 17 de marzo de 2024, por los importes de S/ 800.00, S/ 200.00, S/
+800.00 y S/ 160.00, ello conforme los fundamentos expuestos en la parte considerativa de la
+presente resolución.
+iv. Archivar el procedimiento administrativo sancionador instaurado en contra de Banco de Crédito del
+Perú, por presunta infracción a lo establecido en el artículo 19° del Código de Protección y Defensa
+del Consumidor; ello respecto al retiro de fecha 17 de marzo de 2024, por la suma de S/ 150.00
+efectuado con la tarjeta de débito asociada a la cuenta de ahorros N° 251-03319427-0-88 de
+titularidad de la recurrente, ello conforme los fundamentos expuestos en la parte considerativa de
+la presente resolución.
+v. (….)
+vi. Denegar parcialmente las medidas correctivas solicitadas por el señor José Luis Valdivia Ali.
+vii. Ordenar a Banco de Crédito del Perú como medida correctiva que en un plazo de quince (15) días
+hábiles, contado a partir del día siguiente de notificada la presente resolución, cumpla con
+regularizar la cuenta de ahorro N° 251-03319427-0-88 de titularidad del señor José Luis Valdivia
+Ali, debiendo extornar y/o devolver los importes de los cuatro (4) consumos efectuados con fechas
+17 de marzo de 2023, por las sumas de S/ 800.00, S/ 200.00, S/ 800.00 y S/ 160.00.
+viii. (….)
+ix. (….)”
+9. Con fecha 28 de octubre del 2024, el Banco interpuso recurso de apelación contra de la Resolución Final
+N° 0608-2024/PS0-INDECOPI-AQP:
+- Señores de la Comisión, de acuerdo a la Resolución emitida por el ORPS, se ha señalado que el
+banco tendría responsabilidad sobre los hechos cuestionados por el cliente; la autoridad
+administrativa sustenta ello, en el hecho de que el Banco NO habría cumplido con presentar el
+M-CPC-06-01
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Urbanización La Esperanza Mz. “O”, Lt. 20, José Luis Bustamante y Rivero Arequipa – Perú / Telef. 0-800-4-4040
+E-mail: mlcornejo@indecopi.gob.pe / Web: www.indecopi.gob.pe
+3/7
+voucher de las operaciones cuestionadas; lo cual consideramos es un error, pues el ORI NO ha
+actuado ni analizado de manera correcta los medios probatorios aportados por el Banco,
+vulnerando con ello el derecho de defensa y en consecuencia el debido procedimiento. Ello tal
+como lo acreditaremos a continuación.
+- En principio es fundamental señalar que existe una equivocación en la exigencia realizada al Banco
+de presentar el comprobante de las operaciones en cuestión. En este caso específico, el ORPS
+confunde el tipo de operación y autorización de pago y equipara al misma con un consumo con
+Tarjeta de Crédito, tal como lo menciona en el numeral 37 de la Resolución materia de apelación,
+que es la operación que emite voucher y firma siendo esta una orden de pago; en éste caso se
+trata de operaciones presenciales realizadas con tarjeta de débito, para las cuales en algunos
+casos, se requiere la autorización y confirmación a través del ingreso del PIN (Clava de 4 dígitos)
+y la lectura del chip de la tarjeta, los cuales se evidencian en el reporte de Autorizadas y
+Confirmadas que ya ha sido presentado y obra en el expediente.
+- Es importante precisar que las operaciones presenciales con tarjeta de débito requieren
+únicamente la inserción de la tarjeta en un lector de chip y la autenticación mediante el ingreso del
+PIN, prescindiendo de cualquier comprobante físico adicional, pues es justamente el ingreso de la
+clave la autorización o firma digital otorgada por el cliente. El voucher firmado como orden de pago,
+se genera con tarjetas de crédito que no es el presente caso.
+- En el caso de las operaciones realizadas con tarjeta de crédito, el voucher actúa como una
+confirmación física de la transacción, respaldando al cliente y al emisor en relación con la
+naturaleza de la operación. En cambio, en las operaciones con tarjeta de débito, el monto se
+deduce inmediatamente de la cuenta del titular, y la autorización se garantiza mediante la lectura
+del chip y el ingreso del PIN.
+- Sobre ello, debe tenerse en cuenta que las operaciones cuestionadas fueron realizadas el 17 de
+marzo del 2024 y el cliente recién procedió con el bloqueo de su tarjeta al día siguiente. Acorde a
+ello, el Banco establece dentro de sus condiciones de contratación, que es deber del cliente que
+debe notificar la perdida.
+- De modo que, consideramos que se trataría de una falta de diligencia por parte de la cliente, que
+justamente permitió que se realicen dichas operaciones, al contestar y brindar datos personales,
+generando así, una evidente ruptura del Nexo Causal. Pues se encuentra más que acreditado que
+fue el denunciante quien le permitió a terceras personas conocer información elemental para que
+se concrete la operación cuestionada.
+10. Mediante escrito de fecha 07 de enero de 2025 el señor Valdivia absolvió el recurso de apelación
+presentado por el Banco.
+II. ANALISIS
+Sobre la Nulidad de la Resolución Final
+11. La nulidad de los actos administrativos constituye una herramienta jurídica por medio de la cual se corrigen
+imperfecciones no subsanables en el procedimiento; por ejemplo, cuando existen actos contrarios a la
+Constitución o a las leyes y al debido procedimiento. En ese sentido, en atención al denominado principio
+M-CPC-06-01
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Urbanización La Esperanza Mz. “O”, Lt. 20, José Luis Bustamante y Rivero Arequipa – Perú / Telef. 0-800-4-4040
+E-mail: mlcornejo@indecopi.gob.pe / Web: www.indecopi.gob.pe
+4/7
+de trascendencia, se requiere sancionar con nulidad aquellos actos administrativos que causan un grave
+perjuicio al procedimiento o a los derechos de los administrados.
+12. Al respecto, el artículo 10° del Texto Único Ordenado de Ley del Procedimiento Administrativo General,
+aprobado por Decreto Supremo N° 004-2019-JUS (en adelante, TUO de la LPAG), establece los supuestos
+en que podrá considerarse un acto administrativo como nulo1, encontrándose, entre ellos, el defecto u
+omisión de sus requisitos de validez.
+13. El artículo 3° del TUO de la LPAG2, establece como uno de los requisitos de validez de los actos
+administrativos su objeto; que, según el numeral 5.4 del artículo 5 del mismo cuerpo normativo, debe
+comprender todas las cuestiones de hecho y derecho planteadas por los administrados3.
+14. Asimismo, el artículo IV del Título Preliminar del TUO de la LPAG4 señala los principios que guían todo
+procedimiento administrativo. De este modo, recoge el principio del debido procedimiento; por el cual, los
+administrados gozan de todos los derechos y garantías.
+15. En el presente caso, el órgano de primera instancia resolvió sancionar al Banco en la medida que no acreditó
+la validez del cargo de los cuatro consumos ascendentes a S/. 800.00, S/. 200.00, S/. 800.00 y S/. 160.00,
+en tanto no cumplió con presentar las ordenes de pago y/o autorizaciones electrónicas de los consumos
+generados por el operador de pago del establecimiento afiliado y que fueron efectuados con tarjeta presente,
+ello mientras la tarjeta de crédito se encontraba activa.
+16. El denunciado en su recurso de apelación señaló que, existiría una falta de diligencia por parte de la
+denunciante, que permitió se realicen dichas operaciones al contestar y brindar datos personales,
+generando así una evidente ruptura del nexo causal, en tanto se encuentra acreditado que el denunciante
+permitió a terceras personas conocer información elemental para que se concrete la operación cuestionada,
+eximir al consumidor de su responsabilidad en el extravío de tarjetas generaría un desequilibro injustificado
+en la relación de consumo, ya que si bien el Banco implementa medidas de seguridad adicionales para
+1 DECRETO SUPREMO N° 004-2019-JUS, TEXTO ÚNICO ORDENADO DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO GENERAL,
+publicado el 25 de enero de 2019.
+Artículo 10.- Causales de nulidad. Son vicios del acto administrativo, que causan su nulidad de pleno derecho, los siguientes:
+(…)
+2. El defecto o la omisión de alguno de sus requisitos de validez, salvo que se presente alguno de los supuestos de conservación del acto a que se refiere
+el Artículo 14.
+2 DECRETO SUPREMO N° 004-2019-JUS, TEXTO ÚNICO ORDENADO DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO GENERAL,
+publicado el 25 de enero de 2019
+Artículo 3°. - Requisitos de validez de los actos administrativos
+Son requisitos de validez de los actos administrativos: (…)
+1. Objeto o contenido. - Los actos administrativos deben expresar su respectivo objeto, de tal modo que pueda determinarse inequívocamente sus efectos
+jurídicos. Su contenido se ajustará a lo dispuesto en el ordenamiento jurídico, debiendo ser lícito, preciso, posible física y jurídicamente, y comprender
+las cuestiones surgidas de la motivación.
+3 DECRETO SUPREMO N° 004-2019-JUS, TEXTO ÚNICO ORDENADO DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO GENERAL,
+publicado el 25 de enero de 2019
+Artículo 5º.- Objeto o contenido del acto administrativo
+(...)
+5.4 El contenido debe comprender todas las cuestiones de hecho y derecho planteadas por los administrados, pudiendo involucrar otras no propuestas
+por estos que hayan sido apreciadas de oficio, siempre que la autoridad administrativa les otorgue un plazo no menor a cinco (5) días para que expongan
+su posición y, en su caso, aporten las pruebas que consideren pertinentes.
+4 DECRETO SUPREMO N° 004-2019-JUS, TEXTO ÚNICO ORDENADO DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO GENERAL,
+publicado el 25 de enero de 2019.
+Artículo IV.- Principios del Procedimiento Administrativo
+(…)
+1.2. Principio del debido procedimiento. - Los administrados gozan de todos los derechos y garantías inherentes al debido procedimiento administrativo,
+que comprende el derecho a exponer sus argumentos, a ofrecer y producir pruebas y a obtener una decisión motivada y fundada en derecho. La institución
+del debido procedimiento administrativo se rige por los principios del Derecho Administrativo. La regulación propia del Derecho Procesal Civil es aplicable
+sólo en cuanto sea compatible con el régimen administrativo.
+M-CPC-06-01
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Urbanización La Esperanza Mz. “O”, Lt. 20, José Luis Bustamante y Rivero Arequipa – Perú / Telef. 0-800-4-4040
+E-mail: mlcornejo@indecopi.gob.pe / Web: www.indecopi.gob.pe
+5/7
+proteger los fondos del consumidor, estas medidas no pueden reemplazar la obligación del usuario de
+salvaguardar sus elementos de seguridad, como son sus tarjeta y actuar responsablemente en caso de
+perdida.
+17. Al respecto, de la revisión del expediente se verifica que ambas operaciones fueron realizadas en el
+establecimiento físico The Vip Store, siendo validadas mediante el pago sin contacto con lectura de chip,
+adjuntando los siguientes medios probatorios a fin de acreditar la validez técnica de dichas operaciones: i)
+Reporte de autorizadas y confirmadas (tarjeta de débito), ii) Reporte Tandem, entre otros.
+18. Si bien se aprecia que, el órgano de primera instancia mediante resolución de trámite N° 01 requiere al
+denunciante señale si la denuncia también la interpone en contra del establecimiento comercial, y el
+denunciante precisa que solo es contra el Banco, sin embargo, es importante precisar que, al ser consumos
+realizados en un establecimiento físico, con tarjeta de crédito presente, dicho proveedor posee la obligación
+de comprobar que la firma consignada en la orden de pago coincida con las que figuran en el reverso de la
+tarjeta y en el DNI del portador de esta, con la finalidad de corroborar una similitud aceptable5, por lo que de
+oficio, se debió incorporar a dicho establecimiento a fin de evaluar su responsabilidad.
+19. Asimismo, es importante señalar que, el órgano de primera instancia fundamentó su decisión principalmente
+en la no presentación de las órdenes de pago y/o autorizaciones electrónicas de los consumos generados
+por el operador y/o gestor de pago de los establecimientos afiliados, sin embargo, se advierte que, el órgano
+de primera instancia, en el séquito del procedimiento no ha requerido directamente dichas órdenes,
+vulnerando los principios de Impulso de Oficio y la Verdad Material6, dado que, debió de requerir al
+denunciado suficientes medios probatorios que sirvan de motivo a sus decisiones, realizando una
+investigación de los hechos que dieron lugar a la reclamación, teniendo la facultad de apoyarse en todos
+los medios legales que le permitan llegar a esa verdad material.
+20. En consecuencia, al haberse acreditado que el órgano resolutivo de primera instancia habría incurrido en
+causal de nulidad al vulnerar los principios de verdad material, impulso de oficio y debido proceso, en tanto,
+se advierte que los consumos cuestionados se realizaron en el establecimiento físico The Vip Store,
+mediante el uso de la tarjeta de crédito presente, correspondiendo de oficio la incorporación de dicho
+proveedor, así como, requerir al denunciado las órdenes de pago de las operaciones materia de denuncia,
+por lo que, corresponde declarar la nulidad parcial de la Resolución N° 2 del 30 de julio de 2024 de inicio
+de procedimiento administrativo sancionador, y de todo lo actuado hasta la Resolución Final N° 608-
+2024/PS0-INDECOPI-AREQUIPA del 19 de septiembre de 2024, inclusive; en consecuencia, se dispone
+que vuelva a trámite el presente proceso, debiendo el órgano resolutivo realizar los requerimientos o
+actuaciones procesales que considere pertinente, a la brevedad.
+21. Por lo tanto, corresponde al Colegiado, declarar la nulidad parcial de la Resolución N° 2 del 30 de julio de
+2024 de inicio de procedimiento administrativo sancionador, y de todo lo actuado hasta la Resolución Final
+N° 608-2024/PS0-INDECOPI-AREQUIPA del 19 de septiembre de 2024, inclusive, emitidas por el ORPS
+por vulneración a los principios de verdad material, impulso de oficio y debido proceso, en consecuencia, se
+dispone que vuelva a trámite el presente procedimiento, debiendo el órgano resolutivo incorporar al
+5 Resolución N.° 0521-2022/SPC-INDECOPI
+6 TUO LEY 27444. LEY DEL PROCEDIMIENTO ADMINISTRATIVO GENERAL, Artículo IV. Principios del procedimiento administrativo.
+(…) 1.3. Principio de impulso de oficio. Las autoridades deben dirigir e impulsar de oficio el procedimiento y ordenar la realización o práctica de los
+actos que resulten convenientes para el esclarecimiento y resolución de las cuestiones necesarias.
+(…) 1.11. Principio de verdad material. En el procedimiento, la autoridad administrativa competente deberá verificar plenamente los hechos que
+sirven de motivo a sus decisiones, para lo cual deberá adoptar todas las medidas necesarias autorizadas por la ley, aun cuando no hayan sido
+propuestas por los administrados o hayan acordado eximirse de ellas.
+M-CPC-06-01
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Urbanización La Esperanza Mz. “O”, Lt. 20, José Luis Bustamante y Rivero Arequipa – Perú / Telef. 0-800-4-4040
+E-mail: mlcornejo@indecopi.gob.pe / Web: www.indecopi.gob.pe
+6/7
+procedimiento a los proveedores y realizar los requerimientos o actuaciones procesales que considere
+pertinente, conforme los considerandos precedentes, a la brevedad.
+22. En la medida que se ha declarado la nulidad de la resolución final impugnado, este Colegiado no emitirá
+pronunciamiento sobre los otros puntos del recurso de apelación interpuesto por el Banco.
+Cuestión Final
+23. Sin perjuicio de lo resuelto, teniendo en cuenta que se ha declarado la nulidad de la resolución final
+impugnada, afectándose los principios que inspiran el derecho administrativo a efectos de evitar actuaciones
+como la señalada en los párrafos precedentes; este Colegiado considera que debe remitirse una copia de
+la presente resolución a la Secretaría Técnica de los Órganos Instructores del Procedimiento Administrativo
+Disciplinario (OIPAD), a fin de que esta actúe conforme a sus atribuciones y adopte las medidas que estime
+pertinentes.
+III. SE RESUELVE:
+PRIMERO: Declarar la nulidad parcial de la Resolución N° 2 del 30 de julio de 2024 de inicio de procedimiento
+administrativo sancionador, y de todo lo actuado hasta la Resolución Final N° 608-2024/PS0-INDECOPI-
+AREQUIPA del 19 de septiembre de 2024, inclusive, emitidas por el ORPS por vulneración a los principios de
+Verdad Material, Impulso de Oficio y Debido Proceso, en consecuencia, se dispone que vuelva a trámite el
+presente procedimiento, debiendo el órgano resolutivo incorporar al procedimiento a los proveedores donde se
+realizaron las operaciones cuestionadas, así como requerir al denunciado las órdenes de pago de las
+operaciones materia de denuncia, y demás actuaciones procesales que considere pertinente, conforme los
+considerandos precedentes, a la brevedad.
+SEGUNDO: Remitir una copia de la presente resolución a la Secretaría Técnica de los Órganos Instructores
+del Procedimiento Administrativo Disciplinario (OIPAD) para su conocimiento y la adopción de medidas que
+estime pertinentes.
+Con la intervención de los señores Comisionados: Benjamín Carrasco del Carpio, Roberto Delgado
+Zegarra-Ballón y Carlos Rodríguez Martínez.
+BENJAMÍN CARRASCO DEL CARPIO
+Presidente
+Comisión Oficina Regional INDECOPI Arequipa
+M-CPC-06-01
+INSTITUTO NACIONAL DE DEFENSA DE LA COMPETENCIA Y DE LA PROTECCIÓN DE LA PROPIEDAD INTELECTUAL
+Urbanización La Esperanza Mz. “O”, Lt. 20, José Luis Bustamante y Rivero Arequipa – Perú / Telef. 0-800-4-4040
+E-mail: mlcornejo@indecopi.gob.pe / Web: www.indecopi.gob.pe
+7/7==============================8af51c55-710b-4d61-a933-e9959f7ad342------------------------------ÓRGANO RESOLUTIVO DE PROCEDIMIENTOS
+SUMARÍSIMOS
+DE PROTECCIÓN AL CONSUMIDOR
+OFICINA REGIONAL DEL INDECOPI DE LAMBAYEQUE
+EXPEDIENTE Nº 0026-2025-IMC/PS0-INDECOPI-LAM
+RESOLUCIÓN FINAL Nº 00579-2025/PS0-INDECOPI-LAM
+DENUNCIANTE : ADAN ZELADA S DEOCLESIO (EL SEÑOR ZELADA)
+DENUNCIADO : BANCO DE LA NACIÓN (EL BANCO)
+MATERIA : INCUMPLIMIENTO DE MEDIDA CORRECTIVA
+ACTIVIDAD : OTROS TIPOS DE INTERMEDIACIÓN MONETARIA
+SUMILLA: en el procedimiento iniciado por el señor Zelada en contra del Banco por
+incumplimiento de medida correctiva, el Órgano Resolutivo de Procedimientos
+Sumarísimos de Protección al Consumidor de la Oficina Regional del Indecopi de
+Lambayeque, ha resuelto lo siguiente:
+(i) Declarar improcedente la denuncia interpuesta, en tanto el cumplimiento de la
+medida correctiva se efectuó con anterioridad a la notificación de imputación de
+cargos, efectuándose la subsanación de la conducta.
+Chiclayo, 17 de julio del 2025
+I. ANTECEDENTES
+1. Mediante Resolución Final N° 0000081-2024/INDECOPI-LAM, del 05 de febrero de 2024, la
+Comisión de Protección al Consumidor de la oficina de Indecopi Lambayeque (en adelante
+la Comisión) sancionó al Banco por infracción a lo establecido en el artículo 19° del Código
+de Protección y Defensa del Consumidor (en adelante, el Código) la cual fue revocada en el
+extremo de la medida correctiva por la Sala especializada en Protección al Consumidor (en
+adelante la Sala) mediante Resolución Final N° 00003279-2024/SPC de fecha a02 de
+diciembre de 2024; en la cual se ordenó lo siguiente:
+2. El señor Zelada informó al OPS, el incumplimiento de medida correctiva por parte del
+Banco; por lo que el OPS, mediante Resolución Nº1 del 17 de enero de 2025, requirió a la
+parte denunciada que acredite el cumplimiento de la medida correctiva impuesta.
+3. El 12 de junio de 2025, vía mesa de partes virtual, El Banco, solicitó el archivo de la
+denuncia, indicando que, a raíz del recurso de aclaración presentado ante la sala, se
+procedió con fecha 06 de marzo de 2025 el pago de la medida correctiva ordenada.
+4. En virtud de la Cuarta Disposición Complementaria Transitoria del Decreto Legislativo N°
+14972, se tendrán por presentados el escrito señalado en el numeral precedente, sin
+necesidad de presentación física posterior, desde la fecha de presentación en el canal
+digital.
+II. CUESTIONES EN DISCUSIÓN
+5. Luego de evaluar el expediente, el ORPS debe determinar, en primer lugar, si a la fecha de
+presentación de la denuncia por incumplimiento de medida correctiva, el Banco habría
+cumplido con las medidas correctivas ordenadas.
+III. ANÁLISIS DE LAS CUESTIÓNES EN DISCUSIÓN
+1
+ÓRGANO RESOLUTIVO DE PROCEDIMIENTOS SUMARÍSIMOS
+DE PROTECCIÓN AL CONSUMIDOR
+OFICINA REGIONAL DEL INDECOPI DE LAMBAYEQUE
+EXPEDIENTE Nº 0026-2025-IMC/PS0-INDECOPI-LAM
+III.1. Del cumplimiento de la medida correctiva
+6. Mediante Resolución Final N° 00003279-2024/SPC de fecha 02 de diciembre de 2024, la
+Sala, ordenó al Banco el cumplimiento de la siguiente medida correctiva, resolución que fue
+notificada al Banco el 11 de diciembre de 2024.
+7. Sobre el particular, el artículo 1229° del Código Civil establece que la prueba del pago se
+encuentra a cargo de quien está obligado a efectuarlo1, por lo cual, sería el Banco quien
+tendría que acreditar el cumplimiento de la medida correctiva ordenada dentro del plazo
+establecido, en 15 días hábiles de notificada dicha Resolución Final, cumpliera con lo
+ordenado.
+8. El Banco indicó que, con fecha 26 de marzo de 2025, procedieron a realizar dos abonos a la
+cuenta de ahorros N° *****699606 de titularidad del señor Zelada los siguientes importes.
+Abono de la medida correctiva ordenada por el importe de S/13,000.00 soles el 06 de
+marzo de 2025:
+Abono de los intereses legales generados, abonados el 10 de marzo de 2025.
+1 CÓDIGO CIVIL
+Artículo 1229.- La prueba del pago incumbe a quien pretende haberlo efectuado.
+2
+ÓRGANO RESOLUTIVO DE PROCEDIMIENTOS SUMARÍSIMOS
+DE PROTECCIÓN AL CONSUMIDOR
+OFICINA REGIONAL DEL INDECOPI DE LAMBAYEQUE
+EXPEDIENTE Nº 0026-2025-IMC/PS0-INDECOPI-LAM
+9. El artículo 108° del Código2 contempla los supuestos que ponen fin al procedimiento con la
+declaración de la improcedencia de la denuncia, dentro de los cuales se encuentra: (i) Si el
+proveedor subsana o corrige la conducta constitutiva de infracción administrativa con
+anterioridad a la notificación de la imputación de cargos3.
+10. En tal sentido, en caso el administrado acredite fehacientemente ante la autoridad
+competente haber subsanado la conducta infractora antes de la notificación de imputación
+de cargos, ello motivará que la referida autoridad declare la improcedencia de la denuncia,
+poniendo fin al procedimiento administrativo en el extremo subsanado.
+11. De lo anterior, se desprende que corresponde comprobar dos factores: (i) la acreditación de
+la conducta consistente en la subsanación del defecto invocado; y, de ser el caso, (ii)
+determinar la oportunidad de dicha subsanación, esto es, si dicha conducta fue realizada de
+manera previa a la notificación de imputación de cargos.
+12. Cabe resaltar que la notificación de la resolución de inicio al procedimiento sancionador se
+efectuó el 13 de junio de 2025.
+13. Por lo expuesto, a criterio de este órgano resolutivo que ha quedado acreditado que el
+Banco con fecha anterior a la notificación del presente procedimiento subsanó la conducta,
+en tanto cumplió con la medida correctiva ordenada.
+14. En atención a ello, esta instancia considera que corresponde declarar improcedente la
+denuncia de incumplimiento de medida correctiva interpuesta por el señor Zelada en contra
+del Banco, por subsanación de la conducta.
+IV. RESOLUCION
+PRIMERO: Declarar improcedente la denuncia por incumplimiento de medida correctiva
+interpuesta por el señor ADAN ZELADA S DEOCLESIO contra BANCO DE LA NACIÓN en virtud a
+la subsanación de la conducta con antelación a la notificación cargos.
+SEGUNDO: Informar a las partes que la presente resolución tiene vigencia desde el día de su
+notificación y no agota la vía administrativa. En tal sentido, se informa que de conformidad con lo
+dispuesto en la Directiva N° 001-2021/DIR-COD-INDECOPI, Directiva que regula el procedimiento
+sumarísimo en materia de protección al consumidor, contra lo dispuesto por la presente jefatura
+procede el recurso impugnativo de apelación. Cabe señalar que dicho recurso deberá ser
+presentado ante el Órgano Resolutivo de Procedimientos Sumarísimos de Protección al
+Consumidor de la Oficina Regional del Indecopi de Lambayeque en un plazo máximo de quince
+(15) días hábiles contados a partir del día siguiente de su notificación 4, caso contrario la
+resolución quedará consentida.
+2 LEY 29571, CÓDIGO DE PROTECCIÓN Y DEFENSA DEL CONSUMIDOR
+Artículo 108°. - Infracciones administrativas.
+Constituye infracción administrativa la conducta del proveedor que transgrede las disposiciones del presente Código, tanto si ello
+implica violar los derechos reconocidos a los consumidores como incumplir las obligaciones que estas normas imponen a los
+proveedores. También son supuestos de infracción administrativa el incumplimiento de acuerdos conciliatorios o cualquier otro
+acuerdo que de forma indubitable deje constancia de la manifestación de voluntad expresa de las partes de dar por culminada la
+controversia, de laudos arbitrales, y aquellos previstos en el Decreto Legislativo N° 807, Ley sobre Facultades, Normas y
+Organización del Indecopi, y en las normas que lo complementen o sustituyan.
+Sin que la presente enumeración sea taxativa, pondrán fin al procedimiento administrativo la resolución de la autoridad
+administrativa que declara la improcedencia de la denuncia de parte en los siguientes supuestos:
+a) Si el denunciante no ostenta la calidad de consumidor final, conforme al presente Código.
+b) Si el denunciado no califica como proveedor, conforme al presente Código.
+c) Si no existe una relación de consumo, conforme al presente Código.
+d) Si ha prescrito la facultad de la autoridad administrativa para determinar la existencia de infracción administrativa.
+e) Si existe falta de legitimidad o interés para obrar.
+f) Si el proveedor subsana o corrige la conducta constitutiva de infracción administrativa con anterioridad a la notificación de la
+imputación de cargos.
+(Artículo incorporado por el Decreto Legislativo N° 1308, Decreto Legislativo que modifica el Código de Protección y Defensa del
+Consumidor, Ley N° 29571)
+3 La Resolución N° 01 del 12 de julio de 2019, de imputación de cargos fue notificada a Banco BBVA Perú el 17 de julio de 2019.
+4 DIRECTIVA N° 001-2021/DIR-COD-INDECOPI, DIRECTIVA ÚNICA QUE REGULA LOS PROCEDIMIENTOS DE PROTECCIÓN AL
+CONSUMIDOR PREVISTOS EN EL CÓDIGO DE PROTECCIÓN Y DEFENSA DEL CONSUMIDOR
+Artículo 32.- Apelación
+3
+ÓRGANO RESOLUTIVO DE PROCEDIMIENTOS SUMARÍSIMOS
+DE PROTECCIÓN AL CONSUMIDOR
+OFICINA REGIONAL DEL INDECOPI DE LAMBAYEQUE
+EXPEDIENTE Nº 0026-2025-IMC/PS0-INDECOPI-LAM
+TERCERO: Informar a las partes que, conforme se dispone la Directiva N° 001-2021/DIR-COD-
+INDECOPI 5, Directiva que regula el procedimiento sumarísimo en materia de protección al
+consumidor, las resoluciones de los Órganos Resolutivos de Procedimientos Sumarísimos de
+Protección al Consumidor que ponen fin al procedimiento no requieren de una declaración de
+consentimiento expreso.
+SILVANA PATRICIA CÓRDOVA ZÁRATE
+Jefa
+Órgano Resolutivo de Procedimientos Sumarísimos
+de Protección al Consumidor
+Oficina Regional del Indecopi de Lambayeque
+32.1. El plazo para interponer el recurso de apelación es de quince (15) días hábiles, no prorrogables, contado a partir del día
+siguiente de notificada la resolución a impugnar, conforme a lo establecido por el artículo 218 de la LPAG (…)
+5 DIRECTIVA N° 001-2021/DIR-COD-INDECOPI, DIRECTIVA ÚNICA QUE REGULA LOS PROCEDIMIENTOS DE PROTECCIÓN AL
+CONSUMIDOR PREVISTOS EN EL CÓDIGO DE PROTECCIÓN Y DEFENSA DEL CONSUMIDOR
+Artículo 34.- Fin de Procedimiento
+En el marco del procedimiento administrativo de protección al consumidor, las resoluciones de los órganos resolutivos que ponen fin
+al procedimiento no requieren de una declaración de consentimiento expreso. En el caso de las resoluciones que impongan una
+multa, una vez que la resolución quede consentida, el órgano correspondiente emite una Razón de Jefatura o Constancia de
+Secretaría Técnica, según corresponda, y de ser el caso emite la solicitud de ejecución coactiva a la cual adjunta copia de los
+actuados a la Sub Gerencia de Ejecución Coactiva.
+4==============================
