@@ -86,7 +86,6 @@ Tabla de hiper parámetros:
 |Variable|Valores|
 |--------|----------|
 |Muestra|Todas las muestras: "todos", "orps", "comisión","com-lima","orps-lima"|
-|Columnas| `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio`, `antecedentes_dictamen_anonimizado_limpio`,
-`contenido_anonimizado_limpio_bert`, `antecedentes_anonimizado_limpio_bert`, `dictamen_anonimizado_limpio_bert` y `antecedentes_dictamen_anonimizado_limpio_bert`|
+|Columnas| `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio`, `antecedentes_dictamen_anonimizado_limpio`,`contenido_anonimizado_limpio_bert`, `antecedentes_anonimizado_limpio_bert`, `dictamen_anonimizado_limpio_bert` y `antecedentes_dictamen_anonimizado_limpio_bert`|
 |Mínimo número de dosumentos en grupo|1% y 5% del tamaño de la muestra|
 |Número de tópicos|Todos lo números enteros entre 3 y 35 inclusive|
