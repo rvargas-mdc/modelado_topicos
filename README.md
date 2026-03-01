@@ -15,6 +15,7 @@ Comparativa de modelado de tópicos en un cojunto de resoluciones de Indecopi em
 
 **0b_Extraer_muestra.py**:
 - Genera cinco muestras a partir del conjunto de datos global:
+
 |-----|------------------|
 |Muestra|Contenido        |
 |-----|------------------|
