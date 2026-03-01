@@ -39,7 +39,10 @@ Comparativa de modelado de tópicos en un cojunto de resoluciones de Indecopi em
 `antecedentes_dictamen_anonimizado`
 
 **0f_Limpiar_texto.py**
-- Convierte en minúsculas, retira *stopwords* y lematiza el contenido de `contenido_anonimizado`, `antecedentes_anonimizado`, `dictamen_anonimizado` y `antecedentes_dictamen_anonimizado` y se genera las columnas `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio` y `antecedentes_dictamen_anonimizado_limpio`
+- Convierte en minúsculas, retira *stopwords* y lematiza el contenido de `contenido_anonimizado`, `antecedentes_anonimizado`, `dictamen_anonimizado` y `antecedentes_dictamen_anonimizado` y se genera las columnas `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio`, `antecedentes_dictamen_anonimizado_limpio`
+`contenido_anonimizado_limpio_bert`, `antecedentes_anonimizado_limpio_bert`, `dictamen_anonimizado_limpio_bert` y `antecedentes_dictamen_anonimizado_limpio_bert`
+
+Las columnas terminadas en "bert" elimnan los saltos de línea que no están precedidos de un punto.
 
 **01.LDA.py**
 - Varaiables independientes:
@@ -51,7 +54,7 @@ Comparativa de modelado de tópicos en un cojunto de resoluciones de Indecopi em
 |Número de tópicos|Todos lo números enteros entre 3 y 35 inclusive|
 
 **02.NMF.py**
-- Variables inependienes:
+- Variables independientes:
 
 |Variable|Valores|
 |--------|----------|
@@ -74,3 +77,16 @@ Tabla de hiper parámetros:
 
 
 - Se genera un modelo para cada compibación de hiperparámetros.
+
+
+**03.BERTopic.py**
+- Variables inependientes:
+
+
+|Variable|Valores|
+|--------|----------|
+|Muestra|Todas las muestras: "todos", "orps", "comisión","com-lima","orps-lima"|
+|Columnas| `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio`, `antecedentes_dictamen_anonimizado_limpio`,
+`contenido_anonimizado_limpio_bert`, `antecedentes_anonimizado_limpio_bert`, `dictamen_anonimizado_limpio_bert` y `antecedentes_dictamen_anonimizado_limpio_bert`|
+|Mínimo número de dosumentos en grupo|1% y 5% del tamaño de la muestra|
+|Número de tópicos|Todos lo números enteros entre 3 y 35 inclusive|
