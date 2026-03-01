@@ -16,7 +16,7 @@ Comparativa de modelado de tópicos en un cojunto de resoluciones de Indecopi em
 **0b_Extraer_muestra.py**:
 - Genera cinco muestras a partir del conjunto de datos global:
 
-|-----|------------------|
+
 |Muestra|Contenido        |
 |-----|------------------|
 |todos|Muestra de todos los documentos|
@@ -24,7 +24,7 @@ Comparativa de modelado de tópicos en un cojunto de resoluciones de Indecopi em
 |orps|Muestra de todas las resoluciones provenientes de las oficinas de resolución de procesos sumarísimos|
 |com-lima|Muestra de todas las resoluciones provenientes de comisiones de la sede Lima|
 |orps|Muestra de todas las resoluciones provenientes de la ORPS de Lima| 
-|-----|------------------|
+
 
 
 **0c_Descubrir_nombres.py**:
@@ -42,15 +42,35 @@ Comparativa de modelado de tópicos en un cojunto de resoluciones de Indecopi em
 - Convierte en minúsculas, retira *stopwords* y lematiza el contenido de `contenido_anonimizado`, `antecedentes_anonimizado`, `dictamen_anonimizado` y `antecedentes_dictamen_anonimizado` y se genera las columnas `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio` y `antecedentes_dictamen_anonimizado_limpio`
 
 **01.LDA.py**
-- Hiperparámetros:
-   a. Se emplea todas las muestras: "todos", "orps", "comisión","com-lima","orps-lima"
-   b. Se emplea las columnas: `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio` y `antecedentes_dictamen_anonimizado_limpio`
-   c. Se experimenta con tópicos entre 3 y 35
-- Se genera un modelo para cada compibación de hiperparámetros.
+- Varaiables independientes:
+
+|Variable|Valores|
+|--------|----------|
+|Muestra|Todas las muestras: "todos", "orps", "comisión","com-lima","orps-lima"|
+|Columnas| `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio` y `antecedentes_dictamen_anonimizado_limpio`|
+|Número de tópicos|Todos lo números enteros entre 3 y 35 inclusive|
 
 **02.NMF.py**
-- Hiperparámetros:
-   a. Se emplea todas las muestras: "todos", "orps", "comisión","com-lima","orps-lima"
-   b. Se emplea las columnas: `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio` y `antecedentes_dictamen_anonimizado_limpio`
-   c. Se experimenta con tópicos entre 3 y 35
+- Variables inependienes:
+
+|Variable|Valores|
+|--------|----------|
+|Muestra|Todas las muestras: "todos", "orps", "comisión","com-lima","orps-lima"|
+|Columnas| `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio` y `antecedentes_dictamen_anonimizado_limpio`|
+|Hiper parámetros|Ver tabla|
+|Número de tópicos|Todos lo números enteros entre 3 y 35 inclusive|
+
+Tabla de hiper parámetros:
+|Id|Init|Randon_state|Solver|Beta_loss|Alpha_W|Alpha_H|Shuffle|Tol|
+|--|----|----|----|----|----|----|----|----|
+|1|random |42|cd|frobenius|0.0|0.0|True|0.001|
+|2|random|42|mu|kullback-leibler|0.0|0.0|True|0.001|
+|3|random|42|cd|frobenius|0.001|0.001|True|0.001|
+|4|random|42|mu|kullback-leibler|0.001|0.001|True|0.001|
+|5|nndsvda|42|cd|frobenius|0.0|0.0|True|0.001|
+|6|nndsvda|42|mu|kullback-leibler|0.0|0.0|True|0.001|
+|7|nndsvda|42|cd|frobenius|0.001|0.001|True|0.001|
+|8|nndsvda|42|mu|frobenius|0.001|0.001|True|0.001|
+
+
 - Se genera un modelo para cada compibación de hiperparámetros.
