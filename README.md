@@ -51,7 +51,9 @@ Las columnas terminadas en "bert" elimnan los saltos de línea que no están pre
 |--------|----------|
 |Muestra|Todas las muestras: "todos", "orps", "comisión","com-lima","orps-lima"|
 |Columnas| `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio` y `antecedentes_dictamen_anonimizado_limpio`|
-|Número de tópicos|Todos lo números enteros entre 3 y 35 inclusive|
+|Número de tópicos|Todos los números enteros entre 3 y 35 inclusive|
+
+- Se genera un modelo para cada combinación de variables independientes.
 
 **02.NMF.py**
 - Variables independientes:
@@ -61,7 +63,7 @@ Las columnas terminadas en "bert" elimnan los saltos de línea que no están pre
 |Muestra|Todas las muestras: "todos", "orps", "comisión","com-lima","orps-lima"|
 |Columnas| `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio` y `antecedentes_dictamen_anonimizado_limpio`|
 |Hiper parámetros|Ver tabla|
-|Número de tópicos|Todos lo números enteros entre 3 y 35 inclusive|
+|Número de tópicos|Todos los números enteros entre 3 y 35 inclusive|
 
 Tabla de hiper parámetros:
 |Id|Init|Randon_state|Solver|Beta_loss|Alpha_W|Alpha_H|Shuffle|Tol|
@@ -76,16 +78,20 @@ Tabla de hiper parámetros:
 |8|nndsvda|42|mu|frobenius|0.001|0.001|True|0.001|
 
 
-- Se genera un modelo para cada compibación de hiperparámetros.
+- Se genera un modelo para cada combinación de hiperparámetros.
 
 
 **03.BERTopic.py**
-- Variables inependientes:
+- Variables independientes:
 
 
 |Variable|Valores|
 |--------|----------|
 |Muestra|Todas las muestras: "todos", "orps", "comisión","com-lima","orps-lima"|
 |Columnas| `contenido_anonimizado_limpio`, `antecedentes_anonimizado_limpio`, `dictamen_anonimizado_limpio`, `antecedentes_dictamen_anonimizado_limpio`,`contenido_anonimizado_limpio_bert`, `antecedentes_anonimizado_limpio_bert`, `dictamen_anonimizado_limpio_bert` y `antecedentes_dictamen_anonimizado_limpio_bert`|
-|Mínimo número de dosumentos en grupo|1% y 5% del tamaño de la muestra|
-|Número de tópicos|Todos lo números enteros entre 3 y 35 inclusive|
+|Mínimo número de documentos en grupo|1% y 5% del tamaño de la muestra|
+|Número de tópicos|Todos los números enteros entre 3 y 35 inclusive|
+
+- Se genera un modelo para cada combinación de variables independientes.
+
+**04_Resumen_LDA_NMF_BERTopic**

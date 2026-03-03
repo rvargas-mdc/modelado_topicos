@@ -12,161 +12,96 @@ RUTA_BASE = str(Path(__file__).resolve().parent)
 
 
 
-def plot_pareto_frontier_seaborn(df, nombre_modelo, prom_coherencia, prom_diversidad, nombre_imagen, titulo_leyenda):
-    # 1. Prepare Data
-    pdf = df.to_pandas()
-
-    pdf['subconjunto'] = [f'{s} {h*100:d}%' for (s,h) in zip(df['subconjunto'].to_list(),df['hiperparametros'])]
-
-    num_subconjuntos = pdf['subconjunto'].nunique()
-    
-    # Mapping logic for columns (equivalent to your dimensiones_fig)
-    col_wrap_map = {1:1, 2:2, 3:3, 4:2, 5:3}
-    columnas_grid = col_wrap_map.get(num_subconjuntos, 3)
-
-    # 2. Set Aesthetic Style
-    sns.set_theme(style="whitegrid", font="Arial")
-    
-    # 3. Create FacetGrid using relplot (Relation Plot)
-    g = sns.relplot(
-        data=pdf,
-        x="diversidad",
-        y="coherencia_umass",
-        hue="numero_topicos",    # Equivalent to color
-        style="columna",         # Equivalent to symbol
-        col="subconjunto",       # Faceting
-        col_wrap=columnas_grid,  # Grid wrapping
-        palette="viridis",
-        s=100,                   # Point size
-        kind="scatter",
-        alpha=0.7
-    )
-
-    # 4. Customizing Titles and Labels
-    g.fig.suptitle(f"Modelos {nombre_modelo}: Coherencia (UMass) vs. Diversidad", 
-                   fontweight='bold', y=1.02, fontsize=14)
-    
-    g.set_axis_labels("Diversidad", "Coherencia UMass")
-    
-    # Clean facet titles (removes 'subconjunto = ')
-    g.set_titles("{col_name}")
-
-    # 5. Add Quadrant Lines for each facet
-    # We iterate through all axes to add the reference lines
-    for ax in g.axes.flat:
-        ax.axhline(prom_coherencia, ls='--', color='gray', alpha=0.8, linewidth=1)
-        ax.axvline(prom_diversidad, ls='--', color='gray', alpha=0.8, linewidth=1)
-        # Optional: Label the lines only in the first plot for cleanliness
-        if ax == g.axes.flat[0]:
-            ax.text(prom_diversidad, ax.get_ylim()[0], ' Prom. Div', color='gray', rotation=90)
-            ax.text(ax.get_xlim()[0], prom_coherencia, ' Prom. Coh', color='gray')
-
-    # 6. Legend Customization
-    sns.move_legend(g, "lower center", bbox_to_anchor=(.5, -0.05), 
-                    ncol=columnas_grid, title=titulo_leyenda, frameon=True)
-
-    # 7. Layout and Save
-    plt.tight_layout()
-    
-    # Save image with high DPI for thesis quality
-    plt.savefig(f'{RUTA_BASE}/graficos/{nombre_imagen}.png', dpi=300, bbox_inches='tight')
-    
-    plt.show()
 
 def plot_pareto_frontier(df, nombre_modelo, titulo_grafico, subtitulo_grafico, prom_coherencia, prom_diversidad, nombre_imagen, titulo_leyenda, posicion_coherencia, posicion_diversidad, sufijo_modelo=None):
     # Convert to pandas for Plotly compatibility if necessary
-    
+    print('.'*20, subtitulo_grafico)
     if 'LLM' in titulo_grafico:
         num_subconjuntos = 1
         df = (df.with_columns(pl.col('subconjunto')
                                .str.replace('gpt','GPT')
                                .str.replace('gemini','Gemini')
-                               .str.replace('deepseek','Deepseek')
+                               .str.replace('deepseek','DeepSeek')
                                .str.replace('claude','Claude')
                                )
              )
-        if 'BERT' in nombre_modelo:
+        if ('BERT' in nombre_modelo) or ('mejores' in subtitulo_grafico):
             df = df.with_columns(pl.format('{} {}%',
                                         pl.col('subconjunto'),
                                         (pl.col('hiperparametros')*100).cast(int)
                                          )
                                     .alias('subconjunto')
                                 )
-            dimensiones = {
-                1:{'alto': 500, 'ancho': 500, 'columnas': 1, 'margen_leyenda':-0.2},
-            }
-            num_subconjuntos = 1
-             
+    elif 'mejores' in subtitulo_grafico:
+        num_subconjuntos = 1
     else:
-        num_subconjuntos = df.select('subconjunto').unique().shape[0]
-        dimensiones = {
-            1:{'alto': 500, 'ancho': 500, 'columnas': 1, 'margen_leyenda':-0.2},
-            2:{'alto': 500, 'ancho': 800, 'columnas': 2, 'margen_leyenda':-0.2},
-            3:{'alto': 500, 'ancho': 800, 'columnas': 3, 'margen_leyenda':-0.2},
-            4:{'alto': 1000, 'ancho': 800, 'columnas': 2, 'margen_leyenda':-0.12},
-            5:{'alto': 1000, 'ancho': 800, 'columnas': 3, 'margen_leyenda':-0.12},
-            6:{'alto': 1000, 'ancho': 800, 'columnas': 2, 'margen_leyenda':-0.12},
-            7:{'alto': 1000, 'ancho': 800, 'columnas': 3, 'margen_leyenda':-0.12},
-            8:{'alto': 1000, 'ancho': 800, 'columnas': 2, 'margen_leyenda':-0.12},
-            9:{'alto': 1000, 'ancho': 800, 'columnas': 3, 'margen_leyenda':-0.12},
-            10:{'alto': 1000, 'ancho': 800, 'columnas': 3, 'margen_leyenda':-0.12}
-        }
+        num_subconjuntos = 5
 
+    print('.'*20, subtitulo_grafico, num_subconjuntos)
+    dimensiones = {
+        1:{'alto': 500, 'ancho': 500, 'columnas': 1, 'margen_leyenda':-0.2},
+        5:{'alto': 1000, 'ancho': 900, 'columnas': 3, 'margen_leyenda':-0.2}
+    }
 
-
+    
     pdf = df.to_pandas()
-
-    if prom_coherencia < (float(pdf['coherencia_umass'].min()) + 2):
-        posicion_diversidad = 'top right'
-    elif prom_coherencia > (float(pdf['coherencia_umass'].min()) - 2):
+    max_coherencia = float(pdf['coherencia_umass'].max())
+    min_coherencia = float(pdf['coherencia_umass'].min())
+    min_diversidad = float(pdf['diversidad'].min())
+    rango_coherencia = max_coherencia - min_coherencia
+    lim_sup = max_coherencia - rango_coherencia * .2
+    lim_inf = min_coherencia + rango_coherencia * .2
+    print()
+    if (prom_coherencia > lim_sup):
         posicion_diversidad = 'bottom right'
+    elif (prom_coherencia < lim_inf):
+        posicion_diversidad = 'top right'
 
     dimensiones_fig = dimensiones[num_subconjuntos]
     if ('LLM' in titulo_grafico):
-        if 'BERT' in nombre_modelo:
-            fig = px.scatter(
-                pdf, 
-                x="diversidad", 
-                y="coherencia_umass",
-                color="numero_topicos",
-                symbol="subconjunto",
-                hover_name="model_id",
-                size_max=15,
-                labels={
-                    "diversidad": "Diversidad",
-                    "coherencia_umass": "Coherencia UMass",
-                    "numero_topicos": "# Tópicos"
-                },
-                template="plotly_white",
-                color_continuous_scale="Viridis"
-            )
-            
-        else:       
-            fig = px.scatter(
-                pdf, 
-                x="diversidad", 
-                y="coherencia_umass",
-                color="numero_topicos",
-                symbol="subconjunto",
-                hover_name="model_id",
-                size_max=15,
-                labels={
-                    "diversidad": "Diversidad",
-                    "coherencia_umass": "Coherencia UMass",
-                    "numero_topicos": "# Tópicos"
-                },
-                template="plotly_white",
-                color_continuous_scale="Viridis"
-            )
+        fig = px.scatter(
+            pdf, 
+            x="diversidad", 
+            y="coherencia_umass",
+            color="numero_topicos",
+            symbol="subconjunto",
+            hover_name="model_id",
+            size_max=15,
+            labels={
+                "diversidad": "Diversidad",
+                "coherencia_umass": "Coherencia UMass",
+                "numero_topicos": "# Tópicos"
+            },
+            template="plotly_white",
+            color_continuous_scale="Viridis"
+        ) 
+    elif ('mejores' in subtitulo_grafico):
+        pdf["Subconjunto-Columna"] = pdf['subconjunto'] + '-' + pdf['columna']
+        fig = px.scatter(
+            pdf, 
+            x="diversidad", 
+            y="coherencia_umass",
+            color="numero_topicos",
+            symbol="Subconjunto-Columna",
+            hover_name="model_id",
+            size_max=15,
+            labels={
+                "diversidad": "Diversidad",
+                "coherencia_umass": "Coherencia UMass",
+                "numero_topicos": "# Tópicos"
+            },
+            template="plotly_white",
+            color_continuous_scale="Viridis"
+        ) 
     else:
         fig = px.scatter(
             pdf, 
             x="diversidad", 
             y="coherencia_umass",
             color="numero_topicos",
-            symbol="columna",
+            symbol="subconjunto",
             hover_name="model_id",
-            facet_col='subconjunto',
+            facet_col='columna',
             facet_col_wrap=dimensiones_fig['columnas'],
             size_max=15,
             labels={
@@ -179,7 +114,6 @@ def plot_pareto_frontier(df, nombre_modelo, titulo_grafico, subtitulo_grafico, p
         )
 
 
-
     fig.update_layout(
             height=dimensiones_fig['alto'],        
             width=dimensiones_fig['ancho'],       
@@ -189,7 +123,7 @@ def plot_pareto_frontier(df, nombre_modelo, titulo_grafico, subtitulo_grafico, p
                               font=dict(size=14))
             ),
             title_x=0.5,
-            margin=dict(l=50, r=150, t=120, b=50), 
+            margin=dict(l=50, r=150, t=120, b=150), 
             font=dict(size=14),
 
             showlegend=True,
@@ -211,14 +145,14 @@ def plot_pareto_frontier(df, nombre_modelo, titulo_grafico, subtitulo_grafico, p
     fig.add_hline(
         y=prom_coherencia, 
         line_dash="dot", 
-        annotation_text="Coherencia promedio",
+        annotation_text="CPG",
         annotation_position=posicion_coherencia  # This moves it UNDER the line
     )
 
     fig.add_vline(
         x=prom_diversidad, 
         line_dash="dot", 
-        annotation_text="Diversidad promedio",
+        annotation_text="DPG",
         annotation_position=posicion_diversidad    # Standard position for vertical lines
     )
 
@@ -228,12 +162,31 @@ def plot_pareto_frontier(df, nombre_modelo, titulo_grafico, subtitulo_grafico, p
         legend_title=titulo_leyenda,
         font=dict(family="Arial", size=12)
     )
+
+    fig.add_annotation(
+        text="CPG y DPG: Promedio global Coherencia y Diversidad",
+        xref="paper",
+        yref="paper",
+        x=0.30,
+        y=-0.09,
+        xanchor="center",
+        yanchor="top",
+        showarrow=False,
+        font=dict(size=12, color="gray")
+    )
+
     fig.show()
     if sufijo_modelo:
         sufijo_modelo = sufijo_modelo +'_'
     else:
         sufijo_modelo = ''
-    fig.write_image(f'{RUTA_BASE}/graficos/{nombre_imagen}.png')
+
+    if ('LLM' in titulo_grafico):
+        carpeta = 'llm'
+    else:
+        carpeta = 'no llm'
+        
+    fig.write_image(f'{RUTA_BASE}/graficos/{carpeta}/{nombre_imagen}.png')
 
 def plot_parameter_flow(df):
     # Mapping categorical columns to integers for the parallel plot

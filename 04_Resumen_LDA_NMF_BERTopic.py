@@ -6,12 +6,19 @@ from modulos_resumen import *
 RUTA_BASE = str(Path(__file__).resolve().parent)
 
 
-df_lda = pl.read_parquet( f'{RUTA_BASE}/ejecucion/lda.parquet')
-df_nmf = pl.read_parquet( f'{RUTA_BASE}/ejecucion/nmf.parquet')
-df_bert = pl.read_parquet( f'{RUTA_BASE}/ejecucion/crudo_bert.parquet')
+df_lda = (pl.read_parquet( f'{RUTA_BASE}/ejecucion/lda.parquet')
+            .with_columns(pl.col('columna').str.replace_all('_anonimizados_limpio','')
+                          .str.replace_all('_anonimizado_limpio',''))
+         )
+df_nmf = (pl.read_parquet( f'{RUTA_BASE}/ejecucion/nmf.parquet')
+            .with_columns(pl.col('columna').str.replace_all('_anonimizados_limpio','')
+                          .str.replace_all('_anonimizado_limpio',''))
+         )
 
-
-
+df_bert = (pl.read_parquet( f'{RUTA_BASE}/ejecucion/bert.parquet')
+            .with_columns(pl.col('columna').str.replace_all('_anonimizados','')
+                          )
+         )
 
 columnas_diversidad =  {
     1 : ['subconjunto','columna','numero_topicos','num_topico',
@@ -33,7 +40,10 @@ def calcular_y_graficar(df_modelo, nombre_modelo):
     prom_coherencia = metricas['prom_coherencia']            
     prom_diversidad = metricas['prom_diversidad']
 
-
+    if 'BERT' in nombre_modelo:
+        titulo_leyenda = 'Número tópicos<br>y Columnas'
+    else:
+        titulo_leyenda = 'Columnas'
         
     plot_pareto_frontier(df_metricas, 
                         nombre_modelo, 
@@ -42,7 +52,7 @@ def calcular_y_graficar(df_modelo, nombre_modelo):
                         prom_coherencia, 
                         prom_diversidad, 
                         f'{nombre_modelo}_sp_todos', 
-                        'Columnas',
+                        titulo_leyenda,
                         posicion_coherencia='bottom right',
                         posicion_diversidad='bottom right')
 
@@ -77,6 +87,8 @@ def calcular_y_graficar(df_modelo, nombre_modelo):
     print('='*50)
     print('='*50)
 
+
+
     for i in dict_criterios.keys():
 
         print(dict_criterios[i].upper())
@@ -92,7 +104,7 @@ def calcular_y_graficar(df_modelo, nombre_modelo):
                             prom_coherencia, 
                             prom_diversidad, 
                             f'{nombre_modelo}_mejores_{dict_criterios[i]}',
-                            'Columnas',
+                            titulo_leyenda,
                             posicion_coherencia=posicion_anotaciones[i][0], 
                             posicion_diversidad=posicion_anotaciones[i][1])
 
